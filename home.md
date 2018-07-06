@@ -5,4 +5,4 @@
 Flavor text etc
 
 
-# [I'm an inline-style link with title](https://sanclexitron.herokuapp.com/classes "Classes")
+# [https://sanclexitron.herokuapp.com/classes](https://sanclexitron.herokuapp.com/classes "Classes")
