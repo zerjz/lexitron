@@ -5,3 +5,4 @@
 [Amethyst Potion](amethyst-potion)
 [Turquoise Potion](turquoise-potion)
 [Malachite Potion](malachite-potion)
+[Bonespur Potion](bonespur-potion)
