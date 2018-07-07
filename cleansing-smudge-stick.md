@@ -1,5 +1,5 @@
 <!-- TITLE: Cleansing Smudge Stick -->
-<!-- SUBTITLE: A quick summary of Cleansing Smudge Stick -->
+<!-- SUBTITLE: Wave this about to cleanse the air of negative energies -->
 
 
 
