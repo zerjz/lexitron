@@ -5,22 +5,18 @@
 Minimum: 0
 Trivial: 10
 
-# Container
+**Container**
 [Foldable Medicine Bag](foldable-medicine-bag)
 
-# Ingredients:
+**Ingredients**
 [Insect Pieces](insect-pieces)
-
-
-
-
 
 # Crafting
 Minimum: 0
 Trivial: 10
 
-# Container
+**Container**
 [Crafting Supplies](crafting-supplies)
 
-# Ingredients:
+**Ingredients**
 [Insect Pieces](insect-pieces)
