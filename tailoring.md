@@ -78,3 +78,4 @@
 [Galaxy Velvet Shoes](galaxy-velvet-shoes)
 [Galaxy Velvet Sleeves](galaxy-velvet-sleeves)
 [Galaxy Velvet Square](galaxy-velvet-square)
+[Galaxy Velvet Wristband](galaxy-velvet-wristband)
