@@ -1,5 +1,5 @@
 <!-- TITLE: Hardtack -->
-<!-- SUBTITLE: A quick summary of Hardtack -->
+<!-- SUBTITLE: A simple biscuit made from flour and water -->
 # Cooking
 **Skill**
 Minimum: 0
