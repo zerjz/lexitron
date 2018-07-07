@@ -17,3 +17,4 @@
 [Oil of Vitriol](oil-of-vitriol)
 [Potion of Aquatic Ivy](potion-of-aquatic-ivy)
 [Potion of Cosmic Essence](potion-of-cosmic-essence)
+[Potion of Glowing Grass](potion-of-glowing-grass)
