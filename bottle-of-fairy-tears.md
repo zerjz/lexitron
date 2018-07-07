@@ -1,7 +1,7 @@
 <!-- TITLE: Bottle of Fairy Tears -->
 <!-- SUBTITLE: A glass bottle full of fairy tears -->
 
-# Skill
+# Alchemy
 Minimum: 15
 Trivial: 25
 # Ingredients:
