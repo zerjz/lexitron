@@ -15,6 +15,7 @@
 [Egg Yolk](egg-yolk)
 [Emberthistle Seeds](emberthistle-seeds)
 [Flour](flour)
+[Glass Shard](glass-shard)
 
 
 
