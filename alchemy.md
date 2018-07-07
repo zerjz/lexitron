@@ -11,3 +11,4 @@
 [Dragon's Blood](dragons-blood)
 [Eye Goo Poison](eye-goo-poison)
 [Face Paint](face-paint)
+[Fluffy Pipe Grass](fluffy-pipe-grass)
