@@ -8,7 +8,7 @@ Minimum: 5
 Trivial: 20
 
 # Container
-Crafting Supplies
+[Crafting Supplies](crafting-supplies)
 
 # Ingredients:
 [Green Slime](green-slime) x 2
