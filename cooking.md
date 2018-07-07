@@ -9,6 +9,7 @@
 [Cool Nectarnut Seeds](cool-nectarnut-seeds)
 [Cooling Seasoning](cooling-seasoning)
 [Curried Meat](curried-meat)
+[Deviled Egg](deviled-egg)
 [Filet of Rat](filet-of-rat)
 [Fried Cod](fried-cod)
 [Fried Prawns](fried-prawns)
