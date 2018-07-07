@@ -2,6 +2,7 @@
 <!-- SUBTITLE: Crushed insect pieces! -->
 
 # Alchemy
+**Skill**
 Minimum: 0
 Trivial: 10
 
@@ -12,6 +13,7 @@ Trivial: 10
 [Insect Pieces](insect-pieces)
 
 # Crafting
+**Skill**
 Minimum: 0
 Trivial: 10
 
