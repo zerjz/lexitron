@@ -1,5 +1,5 @@
 <!-- TITLE: Black Coffee -->
-<!-- SUBTITLE: A quick summary of Black Coffee -->
+<!-- SUBTITLE: Bitter, but in a good way -->
 
 # Brewing
 **Skill**
