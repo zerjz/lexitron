@@ -12,6 +12,14 @@ Trivial: 10
 **Ingredients**
 [Sand Dollar](sand-dollar)
 
-OR
+# Crafting
+**Skill**
+Minimum: 0
+Trivial: 10
+
+**Container**
+[Crafting Supplies](crafting-supplies)
+
+**Ingredients**
 
 [Worthless Rock](worthless-rock) x 8
