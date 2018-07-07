@@ -22,6 +22,7 @@
 [Gunpowder](gunpowder)
 [Huge Metal Shield](huge-metal-shield)
 [Ice Cubes](ice-cubes)
+[Lavender Seeds](lavender-seeds)
 
 
 
