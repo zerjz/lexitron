@@ -49,3 +49,4 @@
 [Dirty Leather Vest](dirty-leather-vest)
 [Down Lined Wool Coat](down-lined-wool-coat)
 [Elegant Black Fur Coat](elegant-black-fur-coat)
+[Elegant Black Scarf](elegant-black-scarf)
