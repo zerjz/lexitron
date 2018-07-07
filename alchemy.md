@@ -20,3 +20,4 @@
 [Potion of Glowing Grass](potion-of-glowing-grass)
 [Potion of the Snake](potion-of-the-snake)
 [Purple Passion Pipe Grass](purple-passion-pipe-grass)
+[Raven Eye Poison](raven-eye-poison)
