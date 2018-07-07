@@ -10,3 +10,4 @@
 [Black Fur Lined Cape](black-fur-lined-cape)
 [Black Fur Lined Shoulderpads](black-fur-lined-shoulderpads)
 [Blue Elephant Hide Belt](blue-elephant-hide-belt)
+[Blue Elephant Hide Boots](blue-elephant-hide-boots)
