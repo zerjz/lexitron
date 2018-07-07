@@ -10,6 +10,5 @@ Trivial: 50
 [Large Sewing Kit](large-sewing-kit)
 ​
 **Ingredients**
-[Crow Down](crow-down) x 3
-[Feathers](feathers) x 3
+[Crow Down](crow-down) x 7
 [Silver Thread](silver-thread)
