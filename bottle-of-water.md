@@ -1,4 +1,4 @@
-<!-- TITLE: Bottle Of Water -->
+<!-- TITLE: Bottle of Water -->
 <!-- SUBTITLE: A glass bottle full of still water -->
 
 
