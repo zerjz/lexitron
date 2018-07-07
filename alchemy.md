@@ -16,3 +16,4 @@
 [Mana Chip Suspension](mana-chip-suspension)
 [Oil of Vitriol](oil-of-vitriol)
 [Potion of Aquatic Ivy](potion-of-aquatic-ivy)
+[Potion of Cosmic Essence](potion-of-cosmic-essence)
