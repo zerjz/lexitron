@@ -91,4 +91,4 @@
 [Goldsilk Swatch](goldsilk-swatch)
 [Goldsilk Tunic](goldsilk-tunic)
 [Goldsilk Wristband](goldsilk-wristband)
-
+[Griffin Down Cloak](griffin-down-cloak)
