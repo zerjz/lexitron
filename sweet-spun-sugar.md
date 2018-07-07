@@ -7,7 +7,7 @@ Minimum: 10
 Trivial: 20
 
 **Container**
-[Mixing Bowl](mixing-bowl)
+[Spit](spit)
 
 **Ingredients**
 [Sugar](sugar) x 6
