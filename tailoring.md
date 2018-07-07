@@ -1,4 +1,5 @@
 <!-- TITLE: Tailoring -->
 <!-- SUBTITLE: The hobby of choice for budding fashionistas -->
 
-# Tailoring
+# Large Sewing Kit
+[Animal Spirit Hood](animal-spirit-hood)
