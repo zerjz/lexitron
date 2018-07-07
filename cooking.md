@@ -19,4 +19,7 @@
 [Icing](icing)
 [Jasmine Rice](jasmine-rice)
 [Mashed Potatoes](mashed-potatoes)
+[Oil](oil)
+
+# Mixing Bowl
 [Mayonnaise](mayonnaise)
