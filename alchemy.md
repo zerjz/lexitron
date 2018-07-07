@@ -13,3 +13,4 @@
 [Face Paint](face-paint)
 [Fluffy Pipe Grass](fluffy-pipe-grass)
 [Grass Poultice](grass-poultice)
+[Mana Chip Suspension](mana-chip-suspension)
