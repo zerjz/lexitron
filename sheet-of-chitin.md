@@ -1,4 +1,4 @@
-<!-- TITLE: Sheet Of Chitin -->
+<!-- TITLE: Sheet of Chitin -->
 <!-- SUBTITLE: Numerous chitin stuck together -->
 
 # Crafting
