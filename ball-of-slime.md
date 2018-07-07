@@ -4,13 +4,14 @@
 
 
 # Crafting
+**Skill**
 Minimum: 5
 Trivial: 20
 
-# Container
+**Container**
 [Crafting Supplies](crafting-supplies)
 
-# Ingredients:
+**Ingredients**
 [Green Slime](green-slime) x 2
 
 OR
