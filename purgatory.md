@@ -1,5 +1,5 @@
 <!-- TITLE: The Frozen Purgatory -->
-<!-- SUBTITLE: Welcome to Magnos, refugee.  You’re probably asking yourself how you got here, or where here is.  Probably even who you are or what your role is.  I can’t really answer that for you, but I figure you’ve got a pretty good shot at finding out for yourself if you push onward.  It’s going to take grit and perseverance, but chances are you won’t be going it alone.  So let’s begin.
+Welcome to Magnos, refugee.  You’re probably asking yourself how you got here, or where here is.  Probably even who you are or what your role is.  I can’t really answer that for you, but I figure you’ve got a pretty good shot at finding out for yourself if you push onward.  It’s going to take grit and perseverance, but chances are you won’t be going it alone.  So let’s begin.
 
 This frozen menagerie with a trippy background beat will be your home for a while, so settle in.  
 
