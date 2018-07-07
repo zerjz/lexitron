@@ -5,11 +5,13 @@
 
 
 # Crafting
+
+**Skill**
 Minimum: 0
 Trivial: 10
 
-# Container
+**Container**
 [Crafting Supplies](crafting-supplies)
 
-# Ingredients:
+**Ingredients**
 [Blue Cherries](blue-cherries)
