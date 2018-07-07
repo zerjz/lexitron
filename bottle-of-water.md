@@ -25,5 +25,5 @@ Trivial: 5
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Bottle of Water](bottle-of-water)
-[Ground Coffee](ground-coffee)
+[Glass Bottle](glass-bottle)
+[Vial of Water](vial-of-water) x 5
