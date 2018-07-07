@@ -7,7 +7,7 @@ Minimum: 15
 Trivial: 22
 
 **Container**
-[Mixing Bowl](Mixing Bowl)
+[Mixing Bowl](mixing-bowl)
 
 **Ingredients**
 [Egg Yolk](egg-yolk)
