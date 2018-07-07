@@ -14,3 +14,4 @@
 [Iced Black Coffee](iced-black-coffee)
 [Iced Sweet Tea](iced-sweet-tea)
 [Iced Sweet Tea with Lemon](iced-sweet-tea-with-lemon)
+[Iced Tea](iced-tea)
