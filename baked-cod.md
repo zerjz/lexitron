@@ -1,5 +1,5 @@
 <!-- TITLE: Baked Cod -->
-<!-- SUBTITLE: A quick summary of Baked Cod -->
+<!-- SUBTITLE: Baked saltwater cod. Healthy and steaming hot! -->
 
 # Cooking
 **Skill**
