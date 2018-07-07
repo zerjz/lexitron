@@ -22,6 +22,7 @@
 [Oil](oil)
 [Pumpkin Bread](pumpkin-bread)
 [Rat Steak](rat-steak)
+[Scrambled Eggs](scrambled-eggs)
 
 # Mixing Bowl
 [Mayonnaise](mayonnaise)
