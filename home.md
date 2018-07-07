@@ -64,7 +64,7 @@ Vodouist
 Warrior
 
 # Tradeskills
-Alchemy
+[Alchemy]
 Crafting
 Advanced Crafting
 Cooking
