@@ -33,6 +33,7 @@
 [Purple Flower Seeds](purple-flower-seeds)
 [Rimeweed Seeds](rimeweed-seeds)
 [Sand](sand)
+[Sheet of Chitin](sheet-of-chitin)
 
 
 # Advanced Crafting Supplies
