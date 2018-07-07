@@ -12,3 +12,4 @@
 [Filet of Rat](filet-of-rat)
 [Fried Cod](fried-cod)
 [Fried Prawns](fried-prawns)
+[Fried White Meat](fried-white-meat)
