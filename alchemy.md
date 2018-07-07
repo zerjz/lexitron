@@ -9,3 +9,4 @@
 [Bottle of Fairy Tears](bottle-of-fairy-tears)
 [Crushed Insect](crushed-insect)
 [Dragon's Blood](dragons-blood)
+[Eye Goo Poison](eye-goo-poison)
