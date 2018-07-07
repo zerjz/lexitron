@@ -23,6 +23,7 @@
 [Huge Metal Shield](huge-metal-shield)
 [Ice Cubes](ice-cubes)
 [Lavender Seeds](lavender-seeds)
+[Lemon Seeds](lemon-seeds)
 
 
 
