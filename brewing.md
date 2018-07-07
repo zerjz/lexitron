@@ -16,3 +16,4 @@
 [Iced Sweet Tea with Lemon](iced-sweet-tea-with-lemon)
 [Iced Tea](iced-tea)
 [Iced Tea with Lemon](iced-tea-with-lemon)
+[Lemonade](lemonade)
