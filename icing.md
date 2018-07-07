@@ -1,5 +1,5 @@
 <!-- TITLE: Icing -->
-<!-- SUBTITLE: A quick summary of Icing -->
+<!-- SUBTITLE: A sweet, creamy glaze -->
 
 # Cooking
 **Skill**
