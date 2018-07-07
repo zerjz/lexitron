@@ -27,6 +27,7 @@
 [Softened Bone](softened-bone)
 [Spicy Nectarnut Seeds](spicy-nectarnut-seeds)
 [Spicy Seasoning](spicy-seasoning)
+[Sweet Spun Sugar](sweet-spun-sugar)
 
 # Mixing Bowl
 [Mayonnaise](mayonnaise)
