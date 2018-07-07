@@ -1,5 +1,5 @@
 <!-- TITLE: Unlocked Pirates Chest -->
-<!-- SUBTITLE: A quick summary of Unlocked Pirates Chest -->
+<!-- SUBTITLE: Yarrr! What could be the booty?! -->
 
 # Crafting
 **Skill**
