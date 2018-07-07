@@ -81,3 +81,4 @@
 [Galaxy Velvet Wristband](galaxy-velvet-wristband)
 [Goblin Flippers](goblin-flippers)
 [Golden String](golden-string)
+[Golden Thread](golden-thread)
