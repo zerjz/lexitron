@@ -10,4 +10,4 @@ Trivial: 30
 [Spit](spit)
 
 **Ingredients**
-[Saltwater Cod]
+[Saltwater Cod](saltwater-cod)
