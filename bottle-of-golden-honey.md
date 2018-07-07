@@ -5,12 +5,13 @@
 
 
 # Crafting
+**Skill**
 Minimum: 0
 Trivial: 5
 
-# Container
+**Container**
 [Crafting Supplies](crafting-supplies)
 
-# Ingredients:
+**Ingredients**
 [Glass Bottle](glass-bottle)
 [Honeycomb](honeycomb) x 5
