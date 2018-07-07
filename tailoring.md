@@ -54,3 +54,4 @@
 [Exotic Fur Backpack](exotic-fur-backpack)
 [Feathered Cap](feathered-cap)
 [Felt Square](felt-square)
+[Finely Mixed Fur](finely-mixed-fur)
