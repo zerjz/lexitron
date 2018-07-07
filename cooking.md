@@ -18,3 +18,4 @@
 [Hardtack](hardtack)
 [Icing](icing)
 [Jasmine Rice](jasmine-rice)
+[Mashed Potatoes](mashed-potatoes)
