@@ -1,5 +1,5 @@
 <!-- TITLE: Coffee With Cream -->
-<!-- SUBTITLE: A quick summary of Coffee With Cream -->
+<!-- SUBTITLE: Creamy light brown coffee -->
 
 # Brewing
 **Skill**
