@@ -36,6 +36,7 @@
 [Sheet of Chitin](sheet-of-chitin)
 [Simple Torch](simple-torch)
 [Skull Candle](skull-candle)
+[Slime Soaked Sheet](slime-soaked-sheet)
 
 
 # Advanced Crafting Supplies
