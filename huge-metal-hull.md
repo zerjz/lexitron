@@ -19,27 +19,20 @@ Chest
 
 # Stats
 
-**AC**
-50
-
-
 ```perl
 AC
 50
 
 HP
 150
-```
-**HP**
-150
 
-**Mana**
+Mana
 -150
 
-**Strength**
+Strength
 -25
 
-**Agility**
+Agility
 -25
 
 **Dexterity**
@@ -58,4 +51,4 @@ HP
 25
 
 **Poison**
-25
+25```
