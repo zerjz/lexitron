@@ -1,2 +1,2 @@
 <!-- TITLE: Rabbit Meat -->
-<!-- SUBTITLE: A quick summary of Rabbit Meat -->
+<!-- SUBTITLE: Lean meat from a rabbit -->
