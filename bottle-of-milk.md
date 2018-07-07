@@ -1,4 +1,4 @@
-<!-- TITLE: Bottle Of Milk -->
+<!-- TITLE: Bottle of Milk -->
 <!-- SUBTITLE: Some sort of animal milk -->
 
 # Brewing
