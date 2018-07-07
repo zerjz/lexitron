@@ -1,4 +1,5 @@
 <!-- TITLE: Brewing -->
 <!-- SUBTITLE: Refreshing beverages and other liquified liquids -->
 
-# Brewing
+# Mixing Bowl
+[Azuki Bean Tea](azuki-bean-tea)
