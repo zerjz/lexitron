@@ -16,7 +16,8 @@
 [Emberthistle Seeds](emberthistle-seeds)
 [Flour](flour)
 [Glass Shard](glass-shard)
-[Glue](glue)
+[Glue](glue
+[Grass Seeds](grass-seeds)
 
 
 
