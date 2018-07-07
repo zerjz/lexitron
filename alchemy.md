@@ -23,3 +23,4 @@
 [Raven Eye Poison](raven-eye-poison)
 [Small Flame Potion](small-flame-potion)
 [Small Frost Potion](small-frost-potion)
+[Spider Eye Potion](spider-eye-potion)
