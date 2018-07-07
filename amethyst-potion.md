@@ -2,13 +2,14 @@
 <!-- SUBTITLE: A potion made from amethyst infused in water -->
 
 # Alchemy
+**Skill**
 Minimum: 10
 Trivial: 15
 
 
-# Container
+**Container**
 [Foldable Medicine Bag](foldable-medicine-bag)
 
-# Ingredients:
+**Ingredients**
 [Bottle of Water](bottle-of-water)
 [Amethyst](amethyst) x 3
