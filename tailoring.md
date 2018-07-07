@@ -6,3 +6,4 @@
 [Bandages](bandages)
 [Belt of White Fur](belt-of-white-fur)
 [Black Fur Backpack](black-fur-backpack)
+[Black Fur Belt](black-fur-belt)
