@@ -8,6 +8,6 @@ Minimum: 0
 Trivial: 5
 
 # Container
-Crafting Supplies
+[Crafting Supplies](crafting-supplies)
 # Ingredients:
 [Bone](bone)
