@@ -17,3 +17,11 @@
 [Blue Elephant Hide Sleeves](blue-elephant-hide-sleeves)
 [Blue Elephant Hide Wristband](blue-elephant-hide-wristband)
 [Blue Goblin Skin Purse](blue-goblin-skin-purse)
+[Blue Velvet Belt](blue-velvet-belt)
+[Blue Velvet Boots](blue-velvet-boots)
+[Blue Velvet Kimono](blue-velvet-kimono)
+[Blue Velvet Gloves](blue-velvet-gloves)
+[Blue Velvet Leggings](blue-velvet-leggings)
+[Blue Velvet Sleeves](blue-velvet-sleeves)
+[Blue Velvet Wristband](blue-velvet-wristband)
+
