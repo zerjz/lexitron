@@ -51,3 +51,4 @@
 [Elegant Black Fur Coat](elegant-black-fur-coat)
 [Elegant Black Scarf](elegant-black-scarf)
 [Elegant White Fur Coat](elegant-white-fur-coat)
+[Exotic Fur Backpack](exotic-fur-backpack)
