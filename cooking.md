@@ -29,9 +29,10 @@
 [Spicy Seasoning](spicy-seasoning)
 [Sweet Spun Sugar](sweet-spun-sugar)
 [White Meat Jerky](white-meat-jerky)
-[White Wedding Cake](white-wedding-cake)
 
 # Mixing Bowl
 [Mayonnaise](mayonnaise)
 [Sugar](sugar)
 [Sugared Flowers](sugared-flowers)
+[White Wedding Cake](white-wedding-cake)
+[Wildflower Salad](wildflower-salad)
