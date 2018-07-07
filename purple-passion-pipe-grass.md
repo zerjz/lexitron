@@ -1,5 +1,5 @@
 <!-- TITLE: Purple Passion Pipe Grass -->
-<!-- SUBTITLE: A quick summary of Purple Passion Pipe Grass -->
+<!-- SUBTITLE: Fluffy purple herbs, used in pipe smoking -->
 
 
 # Alchemy
