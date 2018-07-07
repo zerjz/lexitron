@@ -3,13 +3,14 @@
 
 
 # Alchemy
+**Skill**
 Minimum: 20
 Trivial: 30
 
 
-# Container
+**Container**
 Foldable Medicine Bag
 
-# Ingredients:
+**Ingredients**
 [Fluffy Pipe Grass](fluffy-pipe-grass)
 [Purple Flower](purple-flower)
