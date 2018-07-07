@@ -45,3 +45,4 @@
 [Dirty Leather Bracer](dirty-leather-bracer)
 [Dirty Leather Gloves](dirty-leather-gloves)
 [Dirty Leather Pants](dirty-leather-pants)
+[Dirty Leather Sleeves](dirty-leather-sleeves)
