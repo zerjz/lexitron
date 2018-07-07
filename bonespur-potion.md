@@ -1,7 +1,7 @@
 <!-- TITLE: Bonespur Potion -->
 <!-- SUBTITLE: Full of sharp bone spurs -->
 
-# Skill
+# Alchemy
 Minimum: 0
 Trivial: 10
 # Ingredients:
