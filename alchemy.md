@@ -24,3 +24,4 @@
 [Small Flame Potion](small-flame-potion)
 [Small Frost Potion](small-frost-potion)
 [Spider Eye Potion](spider-eye-potion)
+[Webweaver Eye Poison](webweaver-eye-poison)
