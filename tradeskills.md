@@ -5,12 +5,10 @@
 
 [Alchemy](alchemy)
 [Crafting](crafting)
-[Advanced Crafting](advanced-crafting)
 [Cooking](cooking)
 [Brewing](brewing)
 [Tailoring](tailoring)
 [Smithing](smithing)
 [Woodworking](woodworking)
-[Pottery](pottery)
 [Jewelcrafting](jewelcrafting)
 [Engineering](engineering)
