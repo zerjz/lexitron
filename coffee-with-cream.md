@@ -1,4 +1,4 @@
-<!-- TITLE: Coffee With Cream -->
+<!-- TITLE: Coffee with Cream -->
 <!-- SUBTITLE: Creamy light brown coffee -->
 
 # Brewing
