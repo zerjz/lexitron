@@ -5,12 +5,25 @@
 
 
 # Crafting
+**Skill**
 Minimum: 0
 Trivial: 5
 
-# Container
+**Container**
 [Crafting Supplies](crafting-supplies)
 
-# Ingredients:
+**Ingredients**
 [Glass Bottle](glass-bottle)
-[Vial of Water](vial-of-water)
+[Vial of Water](vial-of-water) x 5
+
+# Brewing
+**Skill**
+Minimum: 0
+Trivial: 5
+
+**Container**
+[Mixing Bowl](mixing-bowl)
+
+**Ingredients**
+[Bottle of Water](bottle-of-water)
+[Ground Coffee](ground-coffee)
