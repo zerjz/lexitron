@@ -46,3 +46,4 @@
 [Dirty Leather Gloves](dirty-leather-gloves)
 [Dirty Leather Pants](dirty-leather-pants)
 [Dirty Leather Sleeves](dirty-leather-sleeves)
+[Dirty Leather Vest](dirty-leather-vest)
