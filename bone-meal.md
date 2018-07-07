@@ -6,5 +6,8 @@
 # Crafting
 Minimum: 0
 Trivial: 5
+
+# Container
+Crafting Supplies
 # Ingredients:
 [Bone](bone)
