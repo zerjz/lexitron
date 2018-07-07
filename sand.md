@@ -21,5 +21,4 @@ Trivial: 10
 [Crafting Supplies](crafting-supplies)
 
 **Ingredients**
-
 [Worthless Rock](worthless-rock) x 8
