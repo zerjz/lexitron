@@ -12,6 +12,7 @@
 [Climbing Gear](climbing-gear)
 [Crushed Insect](crushed-insect)
 [Dried Tobacco](dried-tobacco)
+[Egg Yolk](egg-yolk)
 
 
 
