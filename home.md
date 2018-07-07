@@ -130,3 +130,7 @@ The Alchemy Chambers
 Dream Simulation: Seasons
 Vinespur Cay
 Aurora Savanna
+The Isle of Blood
+The Icy Chasm
+Eyerime, the Frozen Cloister
+Whiskreasel Stronghold
