@@ -35,20 +35,20 @@ Strength
 Agility
 -25
 
-**Dexterity**
+Dexterity
 -25
 
-**Magic**
+Magic
 25
 
-**Fire**
+Fire
 25
 
-**Cold**
+Cold
 25
 
-**Disease**
+Disease
 25
 
-**Poison**
+Poison
 25```
