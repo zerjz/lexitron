@@ -1,7 +1,7 @@
 <!-- TITLE: Dragons Blood -->
 <!-- SUBTITLE: A bright red resin used in incense, medicine, and dye -->
 
-# Skill
+# Alchemy
 Minimum: 0
 Trivial: 25
 # Ingredients:
