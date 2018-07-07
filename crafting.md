@@ -30,6 +30,7 @@
 [Paint](paint)
 [Potato Mash](potato-mash)
 [Pumpkin Seeds](pumpkin-seeds)
+[Purple Flower Seeds](purple-flower-seeds)
 
 
 
