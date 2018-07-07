@@ -8,3 +8,4 @@
 [Bottle of Golden Honey](bottle-of-golden-honey)
 [Bottle of Water](bottle-of-water)
 [Cherry Pit](cherry-pit)
+[Cigarette](cigarette)
