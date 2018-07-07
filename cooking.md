@@ -11,3 +11,4 @@
 [Curried Meat](curried-meat)
 [Filet of Rat](filet-of-rat)
 [Fried Cod](fried-cod)
+[Fried Prawns](fried-prawns)
