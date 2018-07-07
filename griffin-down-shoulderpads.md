@@ -11,5 +11,5 @@ Trivial: 36
 
 **Ingredients**
 [Snow Griffin Down](snow-griffin-down) x 2
-[Silver Thread](silver thead)
+[Silver Thread](silver-thread)
 [Leather](leather) x 2
