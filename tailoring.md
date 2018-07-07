@@ -79,3 +79,4 @@
 [Galaxy Velvet Sleeves](galaxy-velvet-sleeves)
 [Galaxy Velvet Square](galaxy-velvet-square)
 [Galaxy Velvet Wristband](galaxy-velvet-wristband)
+[Goblin Flippers](goblin-flippers)
