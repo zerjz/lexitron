@@ -5,4 +5,4 @@
 Flavor text etc
 
 
-[Classes](https://sanclexitron.herokuapp.com/classes "Classes")
+# [Classes](https://sanclexitron.herokuapp.com/classes "Classes")
