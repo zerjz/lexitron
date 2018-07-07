@@ -1,5 +1,5 @@
 <!-- TITLE: Belt of White Fur -->
-<!-- SUBTITLE: A stylish white fur belt -->
+<!-- SUBTITLE: A stylish belt made of white fur -->
 
 # Tailoring
 **Skill**
