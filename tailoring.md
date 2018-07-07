@@ -80,3 +80,4 @@
 [Galaxy Velvet Square](galaxy-velvet-square)
 [Galaxy Velvet Wristband](galaxy-velvet-wristband)
 [Goblin Flippers](goblin-flippers)
+[Golden String](golden-string)
