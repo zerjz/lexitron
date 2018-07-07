@@ -1,0 +1,9 @@
+<!-- TITLE: Potion of The Snake -->
+<!-- SUBTITLE: A small vial of murky black liquid -->
+
+# Alchemy
+Minimum: 0
+Trivial: 25
+# Ingredients:
+[Vial of Water](vial-of-water)
+[Tongue of Snake](tongue-of-snake)
