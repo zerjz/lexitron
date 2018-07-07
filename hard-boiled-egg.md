@@ -22,5 +22,5 @@ Trivial: 17
 [Spit](spit)
 
 **Ingredients**
-[Large Egg](large egg)
+[Large Egg](large-egg)
 [Bottle of Water](bottle-of-water)
