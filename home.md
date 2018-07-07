@@ -43,7 +43,7 @@ Change is rapid in Magnos, and as the dimension grows in population, it expands 
 [Faustian](faustian)
 [Galaxian](galaxian)
 [Geomancer](geomancer)
-[Grim Reaper](grim reaper)
+[Grim Reaper](grim-reaper)
 [Hedgecrafter](hedgecrafter)
 [Imp](imp)
 [Jeweler](jeweler)
