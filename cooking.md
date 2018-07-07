@@ -9,3 +9,4 @@
 [Cool Nectarnut Seeds](cool-nectarnut-seeds)
 [Cooling Seasoning](cooling-seasoning)
 [Curried Meat](curried-meat)
+[Filet of Rat](filet-of-rat)
