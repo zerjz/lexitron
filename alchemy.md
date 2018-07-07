@@ -10,3 +10,4 @@
 [Crushed Insect](crushed-insect)
 [Dragon's Blood](dragons-blood)
 [Eye Goo Poison](eye-goo-poison)
+[Face Paint](face-paint)
