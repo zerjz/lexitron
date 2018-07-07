@@ -7,7 +7,7 @@ Trivial: 10
 
 
 # Container
-Foldable Medicine Bag
+[Foldable Medicine Bag](foldable-medicine-bag)
 
 # Ingredients:
 [Vial of Water](vial-of-water)
