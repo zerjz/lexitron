@@ -1,5 +1,5 @@
 <!-- TITLE: Iced Black Coffee -->
-<!-- SUBTITLE: A quick summary of Iced Black Coffee -->
+<!-- SUBTITLE: Plain coffee with ice. Bitter, but in a good way -->
 
 # Brewing
 **Skill**
