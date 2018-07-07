@@ -63,7 +63,17 @@ Vampire
 Vodouist
 Warrior
 
-
+# Tradeskills
+Alchemy
+Crafting
+Advanced Crafting
+Cooking
+Brewing
+Tailoring
+Smithing
+Woodworking
+Pottery
+Jewelcrafting
 
 
 
