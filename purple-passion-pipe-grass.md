@@ -5,6 +5,11 @@
 # Alchemy
 Minimum: 20
 Trivial: 30
+
+
+# Container
+Foldable Medicine Bag
+
 # Ingredients:
 [Fluffy Pipe Grass](fluffy-pipe-grass)
 [Purple Flower](purple-flower)
