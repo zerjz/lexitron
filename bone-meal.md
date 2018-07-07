@@ -4,12 +4,14 @@
 
 
 # Crafting
+**Skill**
 Minimum: 0
 Trivial: 5
 
-# Container
+**Container**
 [Crafting Supplies](crafting-supplies)
-# Ingredients:
+
+**Ingredients**
 [Bone](bone)
 
 OR
