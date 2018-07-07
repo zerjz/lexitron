@@ -4,5 +4,9 @@
 # Alchemy
 Minimum: 0
 Trivial: 25
+
+# Container
+[Foldable Medicine Bag](foldable-medicine-bag)
+
 # Ingredients:
 [Cinnabar](cinnabar) x 4
