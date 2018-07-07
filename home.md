@@ -5,4 +5,19 @@
 Flavor text etc
 
 
-# [Classes](https://sanclexitron.herokuapp.com/classes "Classes")
+# Classes
+Adventurer
+Alchemist
+Archer
+Assassin
+Bard
+Dragoon
+Enchanter
+Monk
+Necromancer
+Occultist
+Priest
+Summoner
+Tamer
+Witch
+Sorcerer
