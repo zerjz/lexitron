@@ -70,3 +70,4 @@
 [Frozen Silk Shoes](frozen-silk-shoes)
 [Frozen Silk Sleeves](frozen-silk-sleeves)
 [Frozen Silk Wristband](frozen-silk-wristband)
+[Fur Puppet](fur-puppet)
