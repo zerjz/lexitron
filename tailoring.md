@@ -8,3 +8,4 @@
 [Black Fur Backpack](black-fur-backpack)
 [Black Fur Belt](black-fur-belt)
 [Black Fur Lined Cape](black-fur-lined-cape)
+[Black Fur Lined Shoulderpads](black-fur-lined-shoulderpads)
