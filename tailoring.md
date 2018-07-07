@@ -55,3 +55,4 @@
 [Feathered Cap](feathered-cap)
 [Felt Square](felt-square)
 [Finely Mixed Fur](finely-mixed-fur)
+[Finely Mixed Fur Belt](finely-mixed-fur-belt)
