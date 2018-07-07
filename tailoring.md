@@ -40,3 +40,4 @@
 [Death Wrap](death-wrap)
 [Dirty Flesh Robe](dirty-flesh-robe)
 [Dirty Leather Backpack](dirty-leather-backpack)
+[Dirty Leather Belt](dirty-leather-belt)
