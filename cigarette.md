@@ -9,7 +9,7 @@ Minimum: 10
 Trivial: 25
 
 # Container
-[Crafting Supplies](crafting-supplies)
+[Advanced Crafting Supplies](advanced-crafting-supplies)
 
 # Ingredients:
 [Paper](paper)
