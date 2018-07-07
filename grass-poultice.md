@@ -2,12 +2,13 @@
 <!-- SUBTITLE: A healing poultice made of grass -->
 
 # Alchemy
+**Skill**
 Minimum: 0
 Trivial: 10
 
 
-# Container
+**Container**
 Foldable Medicine Bag
 
-# Ingredients:
+**Ingredients**
 [Soft Grass](soft-grass)
