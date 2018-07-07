@@ -51,4 +51,4 @@ Disease
 25
 
 Poison
-25```
+25
