@@ -3,3 +3,4 @@
 
 # Spit
 [Baked Cod](baked-cod)
+[Baked Potato](baked-potato)
