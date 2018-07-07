@@ -64,3 +64,4 @@
 [Finest Silk Square](finest-silk-square)
 [Finest Silk Tunic](finest-silk-tunic)
 [Finest Silk Wristband](finest-silk-wristband)
+[Frozen Silk Gloves](frozen-silk-gloves)
