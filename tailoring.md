@@ -65,3 +65,4 @@
 [Finest Silk Tunic](finest-silk-tunic)
 [Finest Silk Wristband](finest-silk-wristband)
 [Frozen Silk Gloves](frozen-silk-gloves)
+[Frozen Silk Pants](frozen-silk-pants)
