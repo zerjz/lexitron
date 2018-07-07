@@ -8,3 +8,4 @@
 [Blue Cherry Pie](blue-cherry-pie)
 [Cool Nectarnut Seeds](cool-nectarnut-seeds)
 [Cooling Seasoning](cooling-seasoning)
+[Curried Meat](curried-meat)
