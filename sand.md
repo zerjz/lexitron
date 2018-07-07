@@ -11,3 +11,7 @@ Trivial: 10
 
 **Ingredients**
 [Sand Dollar](sand-dollar)
+
+OR
+
+[Worthless Rock](worthless-rock) x 8
