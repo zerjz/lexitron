@@ -1,5 +1,5 @@
 <!-- TITLE: Spicy Nectarnut Seeds -->
-<!-- SUBTITLE: A quick summary of Spicy Nectarnut Seeds -->
+<!-- SUBTITLE: Roasted nectarnut seeds coated with a spicy flavor powder -->
 
 # Cooking
 **Skill**
