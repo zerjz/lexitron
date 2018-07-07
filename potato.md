@@ -1,2 +1,2 @@
 <!-- TITLE: Potato -->
-<!-- SUBTITLE: A quick summary of Potato -->
+<!-- SUBTITLE: An edible member of the nightshade family -->
