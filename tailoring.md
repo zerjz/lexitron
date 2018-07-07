@@ -12,3 +12,4 @@
 [Blue Elephant Hide Belt](blue-elephant-hide-belt)
 [Blue Elephant Hide Boots](blue-elephant-hide-boots)
 [Blue Elephant Hide Chestguard](blue-elephant-hide-chestguard)
+[Blue Elephant Hide Gloves](blue-elephant-hide-gloves)
