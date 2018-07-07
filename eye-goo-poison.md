@@ -1,5 +1,5 @@
 <!-- TITLE: Eye Goo Poison -->
-<!-- SUBTITLE: A quick summary of Eye Goo Poison -->
+<!-- SUBTITLE: A deadly poison made from eye goo. Yuck! -->
 
 # Skill
 Minimum: 0
