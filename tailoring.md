@@ -25,4 +25,4 @@
 [Blue Velvet Sleeves](blue-velvet-sleeves)
 [Blue Velvet Square](blue-velvet-square)
 [Blue Velvet Wristband](blue-velvet-wristband)
-
+[Bolt of Cloth](bolt-of-cloth)
