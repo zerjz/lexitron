@@ -24,6 +24,7 @@
 [Rat Steak](rat-steak)
 [Scrambled Eggs](scrambled-eggs)
 [Simple White Cake](simple-white-cake)
+[Softened Bone](softened-bone)
 
 # Mixing Bowl
 [Mayonnaise](mayonnaise)
