@@ -10,5 +10,5 @@ Trivial: 50
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Goblin Skin](goblin skin) x 3
+[Goblin Skin](goblin-skin) x 3
 [Leather Strips](leather-strips) x 4
