@@ -1,4 +1,4 @@
 <!-- TITLE: Alchemy -->
-<!-- SUBTITLE: The art of potion making, transmuting, herbalism, and equivalent exchange -->
+<!-- SUBTITLE: The art of potion making, transmutation, herbalism, and equivalent exchange -->
 
 # Alchemy
