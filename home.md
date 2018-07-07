@@ -1,7 +1,7 @@
 <!-- TITLE: LEXITRON™ Home Screen -->
 <!-- SUBTITLE: LEXITRON™, your digital guide to Magnos -->
 
-# W e l c o m e , T r a v e l e r
+# Enter Magnos
 Located directly in the center of all universes, Magnos is a dimensional crossroads, a "cosmic sanctuary" full of life from every corner of every universe. The energies of Magnos are welcoming, and its dimensional walls are very thin, allowing a vast amount of alternate planes and dimensions to leak into it.
 
 Being a diverse melting pot has allowed Magnos to become a prevalent and powerful realm, and many of existence's top names have spent a great amount of time there. 
@@ -13,7 +13,7 @@ Mana is a precious resource in Magnos. Once plentiful and abundant, over time, t
 Change is rapid in Magnos, and as the dimension grows in population, it expands itself to accomodate. New unexplored areas of the dimension are always being discovered, making it an ideal place for adventurous souls to reside
 
 
-# C l a s s e s
+# Classes
 Adventurer
 Alchemist
 Archer
@@ -30,7 +30,7 @@ Tamer
 Witch
 Sorcerer
 
-# S u b c l a s s e s
+# Subclasses
 
 Aristocrat
 Bishop
