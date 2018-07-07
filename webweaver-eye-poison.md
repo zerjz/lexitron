@@ -5,6 +5,11 @@
 # Alchemy
 Minimum: 0
 Trivial: 60
+
+
+# Container
+Foldable Medicine Bag
+
 # Ingredients:
 [Vial of Water](vial-of-water)
 [Webweaver Eye](webweaver-eye)
