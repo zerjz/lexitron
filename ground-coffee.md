@@ -11,3 +11,14 @@ Trivial: 10
 
 **Ingredients**
 [Coffee Beans](coffee-beans)
+
+# Brewing
+**Skill**
+Minimum: 0
+Trivial: 10
+
+**Container**
+[Mixing Bowl](mixing-bowl)
+
+**Ingredients**
+[Coffee Beans](coffee-beans)
