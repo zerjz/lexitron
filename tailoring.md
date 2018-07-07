@@ -92,3 +92,4 @@
 [Goldsilk Tunic](goldsilk-tunic)
 [Goldsilk Wristband](goldsilk-wristband)
 [Griffin Down Cloak](griffin-down-cloak)
+[Griffin Down Shoulderpads](griffin-down-shoulderpads)
