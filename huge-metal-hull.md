@@ -1,24 +1,23 @@
 <!-- TITLE: Huge Metal Hull -->
 <!-- SUBTITLE: A giant metal shell from the Alchemical Behemoth underneath Xuolia -->
 
-# Stats
+# Details
 **Lore**
 **No Drop**
-
 
 **Class**
 All
 
-
 **Race**
 All
-
 
 **Slot**
 Chest
 
 **Weight**
 50.00
+
+# Stats
 
 **AC**
 50
