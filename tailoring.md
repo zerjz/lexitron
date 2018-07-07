@@ -15,3 +15,4 @@
 [Blue Elephant Hide Gloves](blue-elephant-hide-gloves)
 [Blue Elephant Hide Shinguards](blue-elephant-hide-shinguards)
 [Blue Elephant Hide Sleeves](blue-elephant-hide-sleeves)
+[Blue Elephant Hide Wristband](blue-elephant-hide-wristband)
