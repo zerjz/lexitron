@@ -1,4 +1,4 @@
-<!-- TITLE: Potion Of Aquatic Ivy -->
+<!-- TITLE: Potion of Aquatic Ivy -->
 <!-- SUBTITLE: A potion made of water and aquatic ivy -->
 
 
