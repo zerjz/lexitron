@@ -32,6 +32,7 @@
 [Pumpkin Seeds](pumpkin-seeds)
 [Purple Flower Seeds](purple-flower-seeds)
 [Rimeweed Seeds](rimeweed-seeds)
+[Sand](sand)
 
 
 # Advanced Crafting Supplies
