@@ -21,3 +21,4 @@
 [Potion of the Snake](potion-of-the-snake)
 [Purple Passion Pipe Grass](purple-passion-pipe-grass)
 [Raven Eye Poison](raven-eye-poison)
+[Small Flame Potion](small-flame-potion)
