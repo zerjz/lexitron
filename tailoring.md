@@ -48,3 +48,4 @@
 [Dirty Leather Sleeves](dirty-leather-sleeves)
 [Dirty Leather Vest](dirty-leather-vest)
 [Down Lined Wool Coat](down-lined-wool-coat)
+[Elegant Black Fur Coat](elegant-black-fur-coat)
