@@ -20,6 +20,7 @@
 [Jasmine Rice](jasmine-rice)
 [Mashed Potatoes](mashed-potatoes)
 [Oil](oil)
+[Pumpkin Bread](pumpkin-bread)
 
 # Mixing Bowl
 [Mayonnaise](mayonnaise)
