@@ -4,6 +4,10 @@
 # Alchemy
 Minimum: 10
 Trivial: 15
+
+# Container
+Foldable Medicine Bag
+
 # Ingredients:
 [Bottle of Water](bottle-of-water)
 [Turquoise](turquoise) x 3
