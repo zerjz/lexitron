@@ -2,12 +2,13 @@
 <!-- SUBTITLE: A potion made of cosmic essence and water -->
 
 # Alchemy
+**Skill**
 Minimum: 0
 Trivial: 10
 
-# Container
+**Container**
 [Foldable Medicine Bag](foldable-medicine-bag)
 
-# Ingredients:
+**Ingredients**
 [Vial of Water](vial-of-water)
 [Cosmic Essence](cosmic-essence)
