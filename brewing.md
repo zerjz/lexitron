@@ -12,3 +12,4 @@
 [Grass Water](grass-water)
 [Ground Coffee](ground-coffee)
 [Iced Black Coffee](iced-black-coffee)
+[Iced Sweet Tea](iced-sweet-tea)
