@@ -56,3 +56,4 @@
 [Felt Square](felt-square)
 [Finely Mixed Fur](finely-mixed-fur)
 [Finely Mixed Fur Belt](finely-mixed-fur-belt)
+[Finest Silk Armbands](finest-silk-armbands)
