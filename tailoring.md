@@ -23,5 +23,6 @@
 [Blue Velvet Gloves](blue-velvet-gloves)
 [Blue Velvet Leggings](blue-velvet-leggings)
 [Blue Velvet Sleeves](blue-velvet-sleeves)
+[Blue Velvet Square](blue-velvet-square)
 [Blue Velvet Wristband](blue-velvet-wristband)
 
