@@ -37,3 +37,4 @@
 [Cold Leather Vest](cold-leather-vest)
 [Crow Down Crown](crow-down-crown)
 [Crow Down Gown](crow-down-gown)
+[Death Wrap](death-wrap)
