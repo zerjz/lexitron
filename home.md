@@ -78,7 +78,7 @@ Change is rapid in Magnos, and as the dimension grows in population, it expands 
 
 # Locations
 
-The Frozen Purgatory
+[The Frozen Purgatory](purgatory)
 New Nexus
 S'Aquia, City of the Sirens
 The Silent Cemetery
