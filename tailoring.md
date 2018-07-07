@@ -41,3 +41,4 @@
 [Dirty Flesh Robe](dirty-flesh-robe)
 [Dirty Leather Backpack](dirty-leather-backpack)
 [Dirty Leather Belt](dirty-leather-belt)
+[Dirty Leather Boots](dirty-leather-boots)
