@@ -26,6 +26,7 @@
 [Lemon Seeds](lemon-seeds)
 [Medical Poultice](medicated-poultice)
 [Mercury](mercury)
+[Nectarnut Seeds](nectarnut-seeds)
 
 
 
