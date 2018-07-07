@@ -1,5 +1,5 @@
-<!-- TITLE: Coffee With Cream And Sugar -->
-<!-- SUBTITLE: A quick summary of Coffee With Cream And Sugar -->
+<!-- TITLE: Coffee with Cream and Sugar -->
+<!-- SUBTITLE: Creamy and sweet light brown coffee -->
 
 # Brewing
 **Skill**
