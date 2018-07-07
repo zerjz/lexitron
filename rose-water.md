@@ -1,5 +1,5 @@
 <!-- TITLE: Rose Water -->
-<!-- SUBTITLE: A quick summary of Rose Water -->
+<!-- SUBTITLE: A flavored water used in culinary, cosmetic, and medicinal applications -->
 
 # Cooking
 **Skill**
