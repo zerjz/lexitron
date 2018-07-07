@@ -66,13 +66,11 @@ Change is rapid in Magnos, and as the dimension grows in population, it expands 
 # Tradeskills
 [Alchemy](alchemy)
 [Crafting](crafting)
-[Advanced Crafting](advanced-crafting)
 [Cooking](cooking)
 [Brewing](brewing)
 [Tailoring](tailoring)
 [Smithing](smithing)
 [Woodworking](woodworking)
-[Pottery](pottery)
 [Jewelcrafting](jewelcrafting)
 [Engineering](engineering)
 
