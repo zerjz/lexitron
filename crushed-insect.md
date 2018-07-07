@@ -1,7 +1,7 @@
 <!-- TITLE: Crushed Insect -->
 <!-- SUBTITLE: Crushed insect pieces! -->
 
-<!-- TITLE: Alchemy -->
+# Alchemy
 Minimum: 0
 Trivial: 10
 
