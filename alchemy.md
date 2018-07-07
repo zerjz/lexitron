@@ -7,3 +7,4 @@
 [Malachite Potion](malachite-potion)
 [Bonespur Potion](bonespur-potion)
 [Bottle of Fairy Tears](bottle-of-fairy-tears)
+[Crushed Insect](crushed-insect)
