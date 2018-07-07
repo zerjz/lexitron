@@ -8,3 +8,4 @@
 [Bottle of Milk](bottle-of-milk)
 [Butter](butter)
 [Coffee with Cream](coffee-with-cream)
+[Coffee with Cream and Sugar](coffee-with-cream-and-sugar)
