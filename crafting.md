@@ -25,6 +25,7 @@
 [Lavender Seeds](lavender-seeds)
 [Lemon Seeds](lemon-seeds)
 [Medical Poultice](medicated-poultice)
+[Mercury](mercury)
 
 
 
