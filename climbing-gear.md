@@ -1,12 +1,13 @@
 <!-- TITLE: Climbing Gear -->
 <!-- SUBTITLE: A rope with a metal hook on the end -->
 # Crafting
+**Skill**
 Minimum: 5
 Trivial: 20
 
-# Container
+**Container**
 [Crafting Supplies](crafting-supplies)
 
-# Ingredients:
+**Ingredients**
 [Copper Ingot](copper-ingot)
 [Rope](rope)
