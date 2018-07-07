@@ -11,3 +11,14 @@ Trivial: 10
 
 **Ingredients**
 [Torn Cloth](torn-cloth) x 8
+
+# Tailoring
+**Skill**
+Minimum: 15
+Trivial: 40
+
+**Container**
+[Large Sewing Kit](large-sewing-kit)
+
+**Ingredients**
+[Jute Fiber](jute-fiber) x 8
