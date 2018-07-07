@@ -9,5 +9,5 @@ Trivial: 25
 **Container**
 [Foldable Medicine Bag](foldable-medicine-bag)
 
-**Ingredients:**
+**Ingredients**
 [Cinnabar](cinnabar) x 4
