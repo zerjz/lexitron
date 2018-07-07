@@ -23,3 +23,4 @@
 [Sweet Tea](sweet-tea)
 [Thick Cream](thick-cream)
 [Unsweetened Tea](unsweetened-tea)
+[Whipped Cream](whipped-cream)
