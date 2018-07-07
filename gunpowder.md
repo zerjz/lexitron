@@ -1,5 +1,5 @@
 <!-- TITLE: Gunpowder -->
-<!-- SUBTITLE: A quick summary of Gunpowder -->
+<!-- SUBTITLE: A chemical powder used as an explosive -->
 
 # Crafting
 **Skill**
