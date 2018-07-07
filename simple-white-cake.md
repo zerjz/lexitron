@@ -1,5 +1,5 @@
 <!-- TITLE: Simple White Cake -->
-<!-- SUBTITLE: A quick summary of Simple White Cake -->
+<!-- SUBTITLE: A simple white cake. Light and delicious! -->
 
 # Cooking
 **Skill**
