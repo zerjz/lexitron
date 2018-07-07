@@ -82,3 +82,13 @@
 [Goblin Flippers](goblin-flippers)
 [Golden String](golden-string)
 [Golden Thread](golden-thread)
+[Goldsilk Armbands](goldsilk-armbands)
+[Goldsilk Backpack](goldsilk-backpack)
+[Goldsilk Belt](goldsilk-belt)
+[Goldsilk Gloves](goldsilk-gloves)
+[Goldsilk Leggings](goldsilk-leggings)
+[Goldsilk Shoes](goldsilk-shoes)
+[Goldsilk Swatch](goldsilk-swatch)
+[Goldsilk Tunic](goldsilk-tunic)
+[Goldsilk Wristband](goldsilk-wristband)
+
