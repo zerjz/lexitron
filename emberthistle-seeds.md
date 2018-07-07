@@ -1,5 +1,5 @@
 <!-- TITLE: Emberthistle Seeds -->
-<!-- SUBTITLE: A quick summary of Emberthistle Seeds -->
+<!-- SUBTITLE: The edible seeds of an emberthistle plant -->
 
 # Crafting
 **Skill**
