@@ -13,6 +13,7 @@
 [Crushed Insect](crushed-insect)
 [Dried Tobacco](dried-tobacco)
 [Egg Yolk](egg-yolk)
+[Emberthistle Seeds](emberthistle-seeds)
 
 
 
