@@ -74,6 +74,7 @@ Smithing
 Woodworking
 Pottery
 Jewelcrafting
+Engineering
 
 
 
