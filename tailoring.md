@@ -59,3 +59,4 @@
 [Finest Silk Armbands](finest-silk-armbands)
 [Finest Silk Belt](finest-silk-belt)
 [Finest Silk Gloves](finest-silk-gloves)
+[Finest Silk Leggings](finest-silk-leggings)
