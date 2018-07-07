@@ -17,3 +17,4 @@
 [Hard Boiled Egg](hard-boiled-egg)
 [Hardtack](hardtack)
 [Icing](icing)
+[Jasmine Rice](jasmine-rice)
