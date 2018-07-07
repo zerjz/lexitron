@@ -8,4 +8,12 @@
 [Bottle of Golden Honey](bottle-of-golden-honey)
 [Bottle of Water](bottle-of-water)
 [Cherry Pit](cherry-pit)
+[Cleansing Smudge Stick](cleansing-smudge-stick)
+
+
+
+
+
+# Advanced Crafting Supplies
+
 [Cigarette](cigarette)
