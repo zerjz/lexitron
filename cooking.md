@@ -26,6 +26,7 @@
 [Simple White Cake](simple-white-cake)
 [Softened Bone](softened-bone)
 [Spicy Nectarnut Seeds](spicy-nectarnut-seeds)
+[Spicy Seasoning](spicy-seasoning)
 
 # Mixing Bowl
 [Mayonnaise](mayonnaise)
