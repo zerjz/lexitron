@@ -5,5 +5,10 @@
 # Alchemy
 Minimum: 0
 Trivial: 5
+
+
+# Container
+Foldable Medicine Bag
+
 # Ingredients:
 [Softly Glowing Grass](softly-glowing-grass)
