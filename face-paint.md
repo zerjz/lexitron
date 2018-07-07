@@ -4,5 +4,11 @@
 # Alchemy
 Minimum: 0
 Trivial: 15
+
+
+
+# Container
+Foldable Medicine Bag
+
 # Ingredients:
 [Paint](paint)
