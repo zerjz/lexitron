@@ -8,3 +8,11 @@ Minimum: 5
 Trivial: 20
 # Ingredients:
 [Green Slime](green-slime) x 2
+
+OR
+
+[Blue Slime](blue-slime) x 2
+
+OR
+
+[White Slime](white-slime) x 2
