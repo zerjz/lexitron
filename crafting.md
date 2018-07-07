@@ -34,6 +34,7 @@
 [Rimeweed Seeds](rimeweed-seeds)
 [Sand](sand)
 [Sheet of Chitin](sheet-of-chitin)
+[Simple Torch](simple-torch)
 
 
 # Advanced Crafting Supplies
