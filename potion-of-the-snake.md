@@ -1,4 +1,4 @@
-<!-- TITLE: Potion of The Snake -->
+<!-- TITLE: Potion of the Snake -->
 <!-- SUBTITLE: A small vial of murky black liquid -->
 
 # Alchemy
