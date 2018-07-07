@@ -66,3 +66,4 @@
 [Finest Silk Wristband](finest-silk-wristband)
 [Frozen Silk Gloves](frozen-silk-gloves)
 [Frozen Silk Pants](frozen-silk-pants)
+[Frozen Silk Shirt](frozen-silk-shirt)
