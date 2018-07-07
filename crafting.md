@@ -35,6 +35,7 @@
 [Sand](sand)
 [Sheet of Chitin](sheet-of-chitin)
 [Simple Torch](simple-torch)
+[Skull Candle](skull-candle)
 
 
 # Advanced Crafting Supplies
