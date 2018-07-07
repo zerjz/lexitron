@@ -21,6 +21,7 @@
 [Mashed Potatoes](mashed-potatoes)
 [Oil](oil)
 [Pumpkin Bread](pumpkin-bread)
+[Rat Steak](rat-steak)
 
 # Mixing Bowl
 [Mayonnaise](mayonnaise)
