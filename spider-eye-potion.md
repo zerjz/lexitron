@@ -2,13 +2,14 @@
 <!-- SUBTITLE: A potion made of crushed spider eye and water -->
 
 # Alchemy
+**Skill**
 Minimum: 0
 Trivial: 10
 
 
-# Container
+**Container**
 Foldable Medicine Bag
 
-# Ingredients:
+**Ingredients**
 [Vial of Water](vial-of-water)
 [Spider Eye](spider-eye)
