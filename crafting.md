@@ -29,6 +29,7 @@
 [Nectarnut Seeds](nectarnut-seeds)
 [Paint](paint)
 [Potato Mash](potato-mash)
+[Pumpkin Seeds](pumpkin-seeds)
 
 
 
