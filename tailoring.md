@@ -5,3 +5,4 @@
 [Animal Spirit Hood](animal-spirit-hood)
 [Bandages](bandages)
 [Belt of White Fur](belt-of-white-fur)
+[Black Fur Backpack](black-fur-backpack)
