@@ -14,54 +14,54 @@ Change is rapid in Magnos, and as the dimension grows in population, it expands 
 
 
 # Classes
-Adventurer
-Alchemist
-Archer
-Assassin
-Bard
-Dragoon
-Enchanter
-Monk
-Necromancer
-Occultist
-Priest
-Summoner
-Tamer
-Witch
-Sorcerer
+[Adventurer](adventurer)
+[Alchemist](alchemist)
+[Archer](archer)
+[Assassin](assassin)
+[Bard](bard)
+[Dragoon](dragoon)
+[Enchanter](enchanter)
+[Monk](monk)
+[Necromancer](necromancer)
+[Occultist](occultist)
+[Priest](priest)
+[Summoner](summoner)
+[Tamer](tamer)
+[Witch](witch)
+[Sorcerer](sorcerer)
 
 # Subclasses
 
-Aristocrat
-Bishop
-Breeder
-Chronomage
-Demonologist
-Dervish
-Dragoncaller
-Etherealist
-Faustian
-Galaxian
-Geomancer
-Grim Reaper
-Hedgecrafter
-Imp
-Jeweler
-Knight
-Merchant
-Ninja
-Philosopher
-Puppetmaster
-Sage
-Samurai
-Sensei
-Shaman
-Shifter
-Soldier
-Trapper
-Vampire
-Vodouist
-Warrior
+[Aristocrat](aristrocrat)
+[Bishop](bishop)
+[Breeder](breeder)
+[Chronomage](chronomage)
+[Demonologist](demonologist)
+[Dervish](dervish)
+[Dragoncaller](dragoncaller)
+[Etherealist](etherealist)
+[Faustian](faustian)
+[Galaxian](galaxian)
+[Geomancer](geomancer)
+[Grim Reaper](grim reaper)
+[Hedgecrafter](hedgecrafter)
+[Imp](imp)
+[Jeweler](jeweler)
+[Knight](knight)
+[Merchant](merchant)
+[Ninja](ninja)
+[Philosopher](philosopher)
+[Puppetmaster](puppetmaster)
+[Sage](sage)
+[Samurai](samurai)
+[Sensei](sensei)
+[Shaman](shaman)
+[Shifter](shifter)
+[Soldier](soldier)
+[Trapper](trapper)
+[Vampire](vampire)
+[Vodouist](vodouist)
+[Warrior](warrior)
 
 # Tradeskills
 [Alchemy](alchemy)
