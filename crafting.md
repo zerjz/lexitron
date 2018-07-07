@@ -24,7 +24,7 @@
 [Ice Cubes](ice-cubes)
 [Lavender Seeds](lavender-seeds)
 [Lemon Seeds](lemon-seeds)
-[Medicated Poultice](medicated-poultice)
+[Medical Poultice](medicated-poultice)
 
 
 
