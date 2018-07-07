@@ -1,5 +1,5 @@
 <!-- TITLE: Spicy Seasoning -->
-<!-- SUBTITLE: A spicy seasoning -->
+<!-- SUBTITLE: It feels red hot on your tongue! -->
 
 # Cooking
 **Skill**
