@@ -3,3 +3,4 @@
 
 # Large Sewing Kit
 [Animal Spirit Hood](animal-spirit-hood)
+[Bandages](bandages)
