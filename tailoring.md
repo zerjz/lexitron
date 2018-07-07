@@ -38,3 +38,4 @@
 [Crow Down Crown](crow-down-crown)
 [Crow Down Gown](crow-down-gown)
 [Death Wrap](death-wrap)
+[Dirty Flesh Robe](dirty-flesh-robe)
