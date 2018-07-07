@@ -4,7 +4,7 @@
 # Tailoring
 **Skill**
 Minimum: 0
-Trivial: 10
+Trivial: 7
 ​
 **Container**
 [Large Sewing Kit](large-sewing-kit)
