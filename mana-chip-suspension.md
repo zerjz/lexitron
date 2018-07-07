@@ -4,6 +4,11 @@
 # Alchemy
 Minimum: 0
 Trivial: 20
+
+
+# Container
+Foldable Medicine Bag
+
 # Ingredients:
 [Vial of Water](vial-of-water)
 [Mana Chips](mana-chips)
