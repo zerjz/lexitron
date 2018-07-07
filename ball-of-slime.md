@@ -6,6 +6,10 @@
 # Crafting
 Minimum: 5
 Trivial: 20
+
+# Container
+Crafting Supplies
+
 # Ingredients:
 [Green Slime](green-slime) x 2
 
