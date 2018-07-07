@@ -71,3 +71,4 @@
 [Frozen Silk Sleeves](frozen-silk-sleeves)
 [Frozen Silk Wristband](frozen-silk-wristband)
 [Fur Puppet](fur-puppet)
+[Furry Winter Gloves](furry-winter-gloves)
