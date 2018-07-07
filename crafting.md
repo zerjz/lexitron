@@ -9,7 +9,7 @@
 [Bottle of Water](bottle-of-water)
 [Cherry Pit](cherry-pit)
 [Cleansing Smudge Stick](cleansing-smudge-stick)
-
+[Climbing Gear](climbing-gear)
 
 
 
