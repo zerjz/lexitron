@@ -23,6 +23,7 @@
 [Pumpkin Bread](pumpkin-bread)
 [Rat Steak](rat-steak)
 [Scrambled Eggs](scrambled-eggs)
+[Simple White Cake](simple-white-cake)
 
 # Mixing Bowl
 [Mayonnaise](mayonnaise)
