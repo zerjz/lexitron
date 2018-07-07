@@ -10,4 +10,4 @@ Trivial: 65
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Goldsilk-Swatch](goldsilk-swatch) x 2
+[Goldsilk Swatch](goldsilk-swatch) x 2
