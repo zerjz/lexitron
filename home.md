@@ -80,7 +80,7 @@ Engineering
 
 The Frozen Purgatory
 New Nexus
-S`Aquia, City of the Sirens
+S'Aquia, City of the Sirens
 The Silent Cemetery
 Malefix, the Mines of Mana
 Drybone Cove
@@ -104,7 +104,7 @@ Dyanis, the Fields of Gold
 Albarn, the Jaded Shrine
 Rioshu, the Enchanted Woods
 Telvaz, the Misery Mire
-S`Aquia Water Temple
+S'Aquia Water Temple
 The Marble Palace
 New Mechatropolis
 The Factory
@@ -121,11 +121,11 @@ Quicksilver Mansion
 Malsyrian Manor
 The Celestial Dream
 Club Crimson
-Val`Sharith's Shade
-Gal`Vae, City of the Dead
+Val'Sharith's Shade
+Gal'Vae, City of the Dead
 The Dark Forest
-An`Nar, Court of the Ifrit
-Ra`En, Bastion of the Ifrit
+An'Nar, Court of the Ifrit
+Ra'En, Bastion of the Ifrit
 The Alchemy Chambers
 Dream Simulation: Seasons
 Vinespur Cay
