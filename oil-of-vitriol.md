@@ -2,13 +2,14 @@
 <!-- SUBTITLE: A highly corrosive mineral acid, also known as sulfuric acid -->
 
 # Alchemy
+**Skill**
 Minimum: 0
 Trivial: 10
 
 
-# Container
+**Container**
 Foldable Medicine Bag
 
-# Ingredients:
+**Ingredients**
 [Sulfur](sulfur)
 [Saltpeter](saltpeter)
