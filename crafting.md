@@ -37,6 +37,7 @@
 [Simple Torch](simple-torch)
 [Skull Candle](skull-candle)
 [Slime Soaked Sheet](slime-soaked-sheet)
+[Sugar](sugar)
 
 
 # Advanced Crafting Supplies
