@@ -1,7 +1,7 @@
 <!-- TITLE: Malachite Potion -->
 <!-- SUBTITLE: A potion made from malachite infused in water -->
 
-# Skill
+# Alchemy
 Minimum: 10
 Trivial: 15
 # Ingredients:
