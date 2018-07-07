@@ -14,3 +14,4 @@
 [Fluffy Pipe Grass](fluffy-pipe-grass)
 [Grass Poultice](grass-poultice)
 [Mana Chip Suspension](mana-chip-suspension)
+[Oil of Vitriol](oil-of-vitriol)
