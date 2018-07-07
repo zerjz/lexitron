@@ -38,6 +38,7 @@
 [Skull Candle](skull-candle)
 [Slime Soaked Sheet](slime-soaked-sheet)
 [Sugar](sugar)
+[Unlocked Pirate's Chest](unlocked-pirates-chest)
 
 
 # Advanced Crafting Supplies
