@@ -11,3 +11,7 @@ Trivial: 5
 [Crafting Supplies](crafting-supplies)
 # Ingredients:
 [Bone](bone)
+
+OR
+
+[Bone Chips](bone-chips)
