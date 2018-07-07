@@ -3,12 +3,13 @@
 
 
 # Alchemy
+**Skill**
 Minimum: 0
 Trivial: 5
 
 
-# Container
+**Container**
 Foldable Medicine Bag
 
-# Ingredients:
+**Ingredients**
 [Softly Glowing Grass](softly-glowing-grass)
