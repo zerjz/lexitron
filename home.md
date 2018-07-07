@@ -76,6 +76,57 @@ Pottery
 Jewelcrafting
 Engineering
 
+# Locations
 
-
-
+The Frozen Purgatory
+New Nexus
+S`Aquia, City of the Sirens
+The Silent Cemetery
+Malefix, the Mines of Mana
+Drybone Cove
+The Bazaar
+The Arena
+Xuolia, City of Mana
+The Dripdrain Sewer System
+The Caverns of Muck
+Xuolia Underground
+The Pallid Sea
+Enochia, Kingdom of Fungus
+Raider's Cove
+Kupakai Cave
+Tower of the Moon
+Liar's Archipelago
+Daggerdepth Lake
+Webweaver's Bog
+Marid Manor
+Chambers of Forbidden Rituals
+Dyanis, the Fields of Gold
+Albarn, the Jaded Shrine
+Rioshu, the Enchanted Woods
+Telvaz, the Misery Mire
+S`Aquia Water Temple
+The Marble Palace
+New Mechatropolis
+The Factory
+The Factory (Inner)
+Trash Canyon
+The Humid Plains
+The Citadel of Ivy
+The Haunted Fields
+Rushforth Ocean
+The Plane of Bounty
+The Plane of Slime
+Glimmer, the Plane of Luster
+Quicksilver Mansion
+Malsyrian Manor
+The Celestial Dream
+Club Crimson
+Val`Sharith's Shade
+Gal`Vae, City of the Dead
+The Dark Forest
+An`Nar, Court of the Ifrit
+Ra`En, Bastion of the Ifrit
+The Alchemy Chambers
+Dream Simulation: Seasons
+Vinespur Cay
+Aurora Savanna
