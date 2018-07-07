@@ -27,3 +27,4 @@
 [Blue Velvet Wristband](blue-velvet-wristband)
 [Bolt of Cloth](bolt-of-cloth)
 [Bolt of Silversilk](bolt-of-silversilk)
+[Cloth Lined Bullet Pouch](cloth-lined-bullet-pouch)
