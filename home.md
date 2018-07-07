@@ -1,5 +1,5 @@
-<!-- TITLE: LEXITRON™ Home Screen -->
-<!-- SUBTITLE: LEXITRON™, your digital guide to Magnos -->
+<!-- TITLE: LEXITRON™ -->
+<!-- SUBTITLE: Your digital guide to Magnos -->
 
 # Enter Magnos
 Located directly in the center of all universes, Magnos is a dimensional crossroads, a "cosmic sanctuary" full of life from every corner of every universe. The energies of Magnos are welcoming, and its dimensional walls are very thin, allowing a vast amount of alternate planes and dimensions to leak into it.
