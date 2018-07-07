@@ -1,5 +1,5 @@
 <!-- TITLE: Face Paint -->
-<!-- SUBTITLE: A quick summary of Face Paint -->
+<!-- SUBTITLE: Paint that can be smeared onto the face, making you feel ferocious! -->
 
 # Skill
 Minimum: 0
