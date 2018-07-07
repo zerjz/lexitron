@@ -58,3 +58,4 @@
 [Finely Mixed Fur Belt](finely-mixed-fur-belt)
 [Finest Silk Armbands](finest-silk-armbands)
 [Finest Silk Belt](finest-silk-belt)
+[Finest Silk Gloves](finest-silk-gloves)
