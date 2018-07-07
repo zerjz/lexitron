@@ -60,3 +60,4 @@
 [Finest Silk Belt](finest-silk-belt)
 [Finest Silk Gloves](finest-silk-gloves)
 [Finest Silk Leggings](finest-silk-leggings)
+[Finest Silk Shoes](finest-silk-shoes)
