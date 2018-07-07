@@ -27,6 +27,7 @@
 [Medical Poultice](medicated-poultice)
 [Mercury](mercury)
 [Nectarnut Seeds](nectarnut-seeds)
+[Paint](paint)
 
 
 
