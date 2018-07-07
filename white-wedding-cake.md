@@ -1,5 +1,5 @@
 <!-- TITLE: White Wedding Cake -->
-<!-- SUBTITLE: A quick summary of White Wedding Cake -->
+<!-- SUBTITLE: A beautiful wedding cake decorated in sugared flowers -->
 
 # Cooking
 **Skill**
