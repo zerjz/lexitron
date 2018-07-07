@@ -1,4 +1,4 @@
-<!-- TITLE: Bolt Of Silversilk -->
+<!-- TITLE: Bolt of Silversilk -->
 <!-- SUBTITLE: A bolt of glistening silversilk -->
 
 # Tailoring
