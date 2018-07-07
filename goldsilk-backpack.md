@@ -10,5 +10,5 @@ Trivial: 60
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Goldsilk-Swatch](goldsilk-swatch) x 4
+[Goldsilk Swatch](goldsilk-swatch) x 4
 [Leather Strips](leather-strips) x 2
