@@ -30,3 +30,8 @@
 [Cloth Lined Bullet Pouch](cloth-lined-bullet-pouch)
 [Cloth Padding](cloth-padding)
 [Cold Leather Boots](cold-leather-boots)
+[Cold Leather Bracer](cold-leather-bracer)
+[Cold Leather Gloves](cold-leather-gloves)
+[Cold Leather Pants](cold-leather-pants)
+[Cold Leather Sleeves](cold-leather-sleeves)
+[Cold Leather Vest](cold-leather-vest)
