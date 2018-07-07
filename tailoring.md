@@ -44,3 +44,4 @@
 [Dirty Leather Boots](dirty-leather-boots)
 [Dirty Leather Bracer](dirty-leather-bracer)
 [Dirty Leather Gloves](dirty-leather-gloves)
+[Dirty Leather Pants](dirty-leather-pants)
