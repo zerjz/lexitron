@@ -1,5 +1,5 @@
-<!-- TITLE: Ball Of Slime -->
-<!-- SUBTITLE: A quick summary of Ball Of Slime -->
+<!-- TITLE: Ball of Slime -->
+<!-- SUBTITLE: A squishy ball of slime -->
 
 
 
