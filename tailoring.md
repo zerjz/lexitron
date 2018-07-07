@@ -26,3 +26,4 @@
 [Blue Velvet Square](blue-velvet-square)
 [Blue Velvet Wristband](blue-velvet-wristband)
 [Bolt of Cloth](bolt-of-cloth)
+[Bolt of Silversilk](bolt-of-silversilk)
