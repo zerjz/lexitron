@@ -1,5 +1,5 @@
 <!-- TITLE: Ground Coffee -->
-<!-- SUBTITLE: A quick summary of Ground Coffee -->
+<!-- SUBTITLE: The roasted seeds of the coffee plant, ground up finely -->
 
 # Crafting
 **Skill**
