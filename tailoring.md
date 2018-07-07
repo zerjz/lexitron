@@ -67,3 +67,6 @@
 [Frozen Silk Gloves](frozen-silk-gloves)
 [Frozen Silk Pants](frozen-silk-pants)
 [Frozen Silk Shirt](frozen-silk-shirt)
+[Frozen Silk Shoes](frozen-silk-shoes)
+[Frozen Silk Sleeves](frozen-silk-sleeves)
+[Frozen Silk Wristband](frozen-silk-wristband)
