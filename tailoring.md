@@ -29,3 +29,4 @@
 [Bolt of Silversilk](bolt-of-silversilk)
 [Cloth Lined Bullet Pouch](cloth-lined-bullet-pouch)
 [Cloth Padding](cloth-padding)
+[Cold Leather Boots](cold-leather-boots)
