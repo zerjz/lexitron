@@ -10,3 +10,4 @@
 [Cooling Seasoning](cooling-seasoning)
 [Curried Meat](curried-meat)
 [Filet of Rat](filet-of-rat)
+[Fried Cod](fried-cod)
