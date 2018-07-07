@@ -5,3 +5,4 @@
 [Baked Cod](baked-cod)
 [Baked Potato](baked-potato)
 [Baked Rabbit](baked-rabbit)
+[Blue Cherry Pie](blue-cherry-pie)
