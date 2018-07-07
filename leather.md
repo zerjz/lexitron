@@ -5,5 +5,8 @@
 Minimum: 0
 Trivial: 5
 
+# Container
+Large Sewing Kit
+
 # Ingredients:
 Dirty Flesh
