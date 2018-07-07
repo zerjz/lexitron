@@ -4,9 +4,15 @@
 # Stats
 **Lore**
 **No Drop**
+
+
 **Class**
 All
+
+
 **Race**
 All
+
+
 **Slot**
 Chest
