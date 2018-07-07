@@ -3,13 +3,14 @@
 
 
 # Alchemy
+**Skill**
 Minimum: 0
 Trivial: 60
 
 
-# Container
+**Container**
 Foldable Medicine Bag
 
-# Ingredients:
+**Ingredients**
 [Vial of Water](vial-of-water)
 [Webweaver Eye](webweaver-eye)
