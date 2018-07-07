@@ -1,5 +1,5 @@
 <!-- TITLE: Potion of Cosmic Essence -->
-<!-- SUBTITLE: A quick summary of Potion Of Cosmic Essence -->
+<!-- SUBTITLE: A potion made of cosmic essence and water -->
 
 # Alchemy
 Minimum: 0
