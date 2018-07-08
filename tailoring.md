@@ -101,6 +101,6 @@
 [Indigo Fur Shoulderpads](indigo-fur-shoulderpads)
 [Indigo Fur Sleeves](indigo-fur-sleeves)
 [Indigo Fur Tunic](indigo-fur-tunic)
-[Indigo Fur Wristband](indigo fur wristband)
+[Indigo Fur Wristband](indigo-fur-wristband)
 [Indigo Leather](indigo-leather)
 
