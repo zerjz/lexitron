@@ -124,3 +124,4 @@
 [Silk Lined Bullet Pouch](silk-lined-bullet-pouch)
 [Silk Puppet](silk-puppet)
 [Silver String](silver-string)
+[Silver Thread](silver-thread)
