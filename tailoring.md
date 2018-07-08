@@ -110,3 +110,13 @@
 [Magmasilk Swatch](magmasilk-swatch)
 [Magmasilk Tunic](magmasilk-tunic)
 [Manasilk Robe](manasilk-robe)
+[Red Velvet Belt](red-velvet-belt)
+[Red Velvet Boots](red-velvet-boots)
+[Red Velvet Gloves](red-velvet-gloves)
+[Red Velvet Kimono](red-velvet-kimono)
+[Red Velvet Leggings](red-velvet-leggings)
+[Red Velvet Sleeves](red-velvet-sleeves)
+[Red Velvet Square](red-velvet-square)
+[Red Velvet Wristband](red-velvet-wristband)
+
+
