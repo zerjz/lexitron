@@ -2,7 +2,8 @@
 <!-- SUBTITLE: Spell description here -->
 
 # Classes
-[Tamer](tamer) - Level 1
+[Tamer](tamer) - Level 2
+[Witch](witch) - Level 1
 
 # Info
 ```perl 
