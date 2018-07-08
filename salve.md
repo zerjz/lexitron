@@ -2,8 +2,8 @@
 <!-- SUBTITLE: Mends minor wounds, healing between 5 and 9 hitpoints -->
 
 # Classes
-[Tamer](tamer) - Level 1
 [Archer](archer) - Level 1
+[Tamer](tamer) - Level 1
 
 # Info
 ```perl 
