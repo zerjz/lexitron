@@ -5,8 +5,7 @@
 [Tamer](tamer) - Level 1
 
 # Info
-```
-perl 
+```perl 
 Mana Cost 
 5
 
