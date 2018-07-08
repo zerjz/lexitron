@@ -120,5 +120,6 @@
 [Red Velvet Wristband](red-velvet-wristband)
 [Rope](rope)
 [Sheet of Cloth](sheet-of-cloth)
+[Sheet of Silversilk](sheet-of-silversilk)
 
 
