@@ -3,7 +3,7 @@
 
 
 # Classes
-[Tamer](tamer) - Level 1
+[Tamer](tamer) - Level 5
 
 # Info
 ```perl 
