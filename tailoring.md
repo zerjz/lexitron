@@ -119,5 +119,6 @@
 [Red Velvet Square](red-velvet-square)
 [Red Velvet Wristband](red-velvet-wristband)
 [Rope](rope)
+[Sheet of Cloth](sheet-of-cloth)
 
 
