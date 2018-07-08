@@ -121,5 +121,5 @@
 [Rope](rope)
 [Sheet of Cloth](sheet-of-cloth)
 [Sheet of Silversilk](sheet-of-silversilk)
-
+[Silk Lined Bullet Pouch](silk-lined-bullet-pouch)
 
