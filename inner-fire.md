@@ -4,7 +4,7 @@
 
 # Classes
 [Alchemist](alchemist) - Level 1
-[Tamer](tamer) - Level 1
+[Tamer](tamer) - Level 7
 
 # Info
 ```perl 
