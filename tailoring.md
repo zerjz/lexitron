@@ -105,3 +105,8 @@
 [Indigo Leather](indigo-leather)
 [Leather](leather)
 [Leather Strips](leather-strips)
+[Magmasilk Belt](magmasilk-belt)
+[Magmasilk Leggings](magmasilk-leggings)
+[Magmasilk Swatch](magmasilk-swatch)
+[Magmasilk Tunic](magmasilk-tunic)
+
