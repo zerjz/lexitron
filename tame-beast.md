@@ -1,5 +1,5 @@
 <!-- TITLE: Tame Beast -->
-<!-- SUBTITLE: Spell description here -->
+<!-- SUBTITLE: Beckons to the animals of the wild, allowing you to control them -->
 
 # Classes
 [Tamer](tamer) - Level 2
