@@ -104,3 +104,4 @@
 [Indigo Fur Wristband](indigo-fur-wristband)
 [Indigo Leather](indigo-leather)
 [Leather](leather)
+[Leather Strips](leather-strips)
