@@ -1,5 +1,5 @@
 <!-- TITLE: Sense Animals -->
-<!-- SUBTITLE: Spell description here -->
+<!-- SUBTITLE: Provides you with a mystical sense, pointing you toward the nearest animal -->
 
 # Classes
 [Tamer](tamer) - Level 2
