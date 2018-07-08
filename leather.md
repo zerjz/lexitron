@@ -7,7 +7,7 @@ Minimum: 0
 Trivial: 5
 
 **Container**
-Large Sewing Kit
+[Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-Dirty Flesh
+[Dirty Flesh](dirty-flesh)
