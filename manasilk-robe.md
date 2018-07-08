@@ -1,5 +1,5 @@
 <!-- TITLE: Manasilk Robe -->
-<!-- SUBTITLE: A quick summary of Manasilk Robe -->
+<!-- SUBTITLE: A fine robe woven from manasilk -->
 
 # Tailoring
 **Skill**
