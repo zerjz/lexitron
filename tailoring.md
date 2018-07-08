@@ -103,4 +103,4 @@
 [Indigo Fur Tunic](indigo-fur-tunic)
 [Indigo Fur Wristband](indigo-fur-wristband)
 [Indigo Leather](indigo-leather)
-
+[Leather](leather)
