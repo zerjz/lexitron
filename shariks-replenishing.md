@@ -1,4 +1,4 @@
-<!-- TITLE: Shariks Replenishing -->
+<!-- TITLE: Sharik's Replenishing -->
 <!-- SUBTITLE: Restores your animal companion's health, healing between 50 and 55 hitpoints, as well as curing them of diseases, poisons, and curses -->
 
 
