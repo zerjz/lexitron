@@ -4,16 +4,21 @@
 # Crafting Supplies
 
 [Ball of Slime](ball-of-slime)
+[Black Ink](black-ink)
+[Blue Ink](blue-ink)
 [Bone Meal](bone-meal)
 [Bottle of Golden Honey](bottle-of-golden-honey)
 [Bottle of Water](bottle-of-water)
+[Carmine Ink](carmine-ink)
 [Cherry Pit](cherry-pit)
 [Cleansing Smudge Stick](cleansing-smudge-stick)
 [Climbing Gear](climbing-gear)
 [Crushed Insect](crushed-insect)
+[Dragon's Blood Ink](dragons-blood-ink)
 [Dried Tobacco](dried-tobacco)
 [Egg Yolk](egg-yolk)
 [Emberthistle Seeds](emberthistle-seeds)
+[Extraction Still](extraction-still)
 [Flour](flour)
 [Glass Shard](glass-shard)
 [Glue](glue)
@@ -22,6 +27,8 @@
 [Gunpowder](gunpowder)
 [Huge Metal Shield](huge-metal-shield)
 [Ice Cubes](ice-cubes)
+[Indican Powder](indican-powder)
+[Indigo Ink](indigo-ink)
 [Lavender Seeds](lavender-seeds)
 [Lemon Seeds](lemon-seeds)
 [Medical Poultice](medicated-poultice)
@@ -29,6 +36,7 @@
 [Nectarnut Seeds](nectarnut-seeds)
 [Paint](paint)
 [Potato Mash](potato-mash)
+[Powdery Ink](powdery-ink)
 [Pumpkin Seeds](pumpkin-seeds)
 [Purple Flower Seeds](purple-flower-seeds)
 [Rimeweed Seeds](rimeweed-seeds)
@@ -39,6 +47,7 @@
 [Slime Soaked Sheet](slime-soaked-sheet)
 [Sugar](sugar)
 [Unlocked Pirate's Chest](unlocked-pirates-chest)
+[Yellow Ink](yellow-ink)
 
 
 # Advanced Crafting Supplies
