@@ -146,3 +146,12 @@
 [Slime Soaked Slacks](slime-soaked-slacks)
 [Spider Silk Square](spider-silk-square)
 [Stretched Goblin Skin Robe](stretched-goblin-skin-robe)
+[Striped Raptor Belt](striped-raptor-belt)
+[Striped Raptor Boots](striped-raptor-boots)
+[Striped Raptor Bracer](striped-raptor-bracer)
+[Striped Raptor Gloves](striped-raptor-gloves)
+[Striped Raptor Hide Backpack](striped-raptor-hide-backpack)
+[Striped Raptor Hide Pants](striped-raptor-hide-pants)
+[Striped Raptor Hide Sleeves](striped-raptor-hide-sleeves)
+[Striped Raptor Hide Tunic](striped-raptor-hide-tunic)
+
