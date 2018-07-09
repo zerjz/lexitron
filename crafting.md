@@ -53,3 +53,6 @@
 # Advanced Crafting Supplies
 
 [Cigarette](cigarette)
+[Explorer's Journal](explorers-journal)
+[Gorilla Suit](gorilla-suit)
+[Stabilized Mana](stabilized-mana)
