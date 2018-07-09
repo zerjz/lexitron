@@ -1,5 +1,5 @@
 <!-- TITLE: Tattered Cloth Gloves -->
-<!-- SUBTITLE: Made of tanned leather -->
+<!-- SUBTITLE: Sewn together from pieces of torn cloth -->
 
 # Tailoring
 **Skill**
