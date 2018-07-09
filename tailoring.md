@@ -137,3 +137,12 @@
 [Silversilk Swatch](silversilk-swatch)
 [Silversilk Tunic](silversilk-tunic)
 [Silversilk Wristband](silversilk-wristband)
+[Siren Scale Cape](siren-scale-cape)
+[Slick Quicksilver Sark](slick-quicksilver-sark)
+[Slick Quicksilver Slacks](slick-quicksilver-slacks)
+[Slick Quicksilver Swatch](slick-quicksilver-swatch)
+[Slick Quicksilver Webbing](slick-quicksilver-webbing)
+[Slime Soaked Shirt](slime-soaked-shirt)
+[Slime Soaked Slacks](slime-soaked-slacks)
+[Spider Silk Square](spider-silk-square)
+
