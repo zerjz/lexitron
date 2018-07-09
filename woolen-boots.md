@@ -3,8 +3,8 @@
 
 # Tailoring
 **Skill**
-Minimum: 19
-Trivial: 25
+Minimum: 20
+Trivial: 27
 
 **Container**
 [Large Sewing Kit](large-sewing-kit)
