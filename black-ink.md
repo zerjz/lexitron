@@ -10,4 +10,4 @@ Trivial: 10
 
 # Ingredients:
 [Bottle of Water](bottle-of-water)
-[Lump of Coal](lump-of-coal)
+[Lump of Coal](lump-of-coal) x 4
