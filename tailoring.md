@@ -145,4 +145,4 @@
 [Slime Soaked Shirt](slime-soaked-shirt)
 [Slime Soaked Slacks](slime-soaked-slacks)
 [Spider Silk Square](spider-silk-square)
-
+[Stretched Goblin Skin Robe](stretched-goblin-skin-robe)
