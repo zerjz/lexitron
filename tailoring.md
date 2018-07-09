@@ -127,7 +127,6 @@
 [Silver Thread](silver-thread)
 [Silversilk Armbands](silversilk-armbands)
 [Silversilk Backpack](silversilk-backpack)
-[Silversilk Armband](silversilk-armband)
 [Silversilk Belt](silversilk-belt)
 [Silversilk Cloak](silversilk-cloak)
 [Silversilk Gloves](silversilk-gloves)
