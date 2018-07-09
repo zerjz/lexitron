@@ -154,4 +154,11 @@
 [Striped Raptor Hide Pants](striped-raptor-hide-pants)
 [Striped Raptor Hide Sleeves](striped-raptor-hide-sleeves)
 [Striped Raptor Hide Tunic](striped-raptor-hide-tunic)
+[Tanned Leather](tanned-leather)
+[Tanned Leather Belt](tanned-leather-belt)
+[Tattered Cloth Gloves](tattered-cloth-gloves)
+[Tattered Cloth Leggings](tattered-cloth-leggings)
+[Tattered Cloth Robe](tattered-cloth-robe)
+[Tattered Cloth Shoes](tattered-cloth-shoes)
+[Tattered Cloth Sleeves](tattered-cloth-sleeves)
 
