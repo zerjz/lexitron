@@ -126,7 +126,7 @@ The Plane of Bounty
 The Silent Cemetery
 Tower of the Moon
 Trash Canyon
-Val'Sharith's Shade
+[Val'Sharith's Shade](shade)
 Vinespur Cay
 Webweaver's Bog
 Whiskreasel Stronghold
