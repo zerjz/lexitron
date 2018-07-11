@@ -97,4 +97,9 @@
 [Golden Splint Cloak](golden-splint-cloak)
 [Golden Vambraces](golden-vambraces)
 [Gunpowder](gunpowder)
+[Hammered Copper Belt](hammered-copper-belt)
+[Hammered Copper Boots](hammered-copper-boots)
+[Hammered Copper Bracer](hammered-copper-bracer)
+[Hammered Copper Breastplate](hammered-copper-breastplate)
+[Hammered Copper Gauntlets](hammered-copper-gauntlets)
 
