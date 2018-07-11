@@ -84,7 +84,7 @@ Club Crimson
 Daggerdepth Lake
 Dream Simulation: Seasons
 Drybone Cove
-Dyanis, the Fields of Gold
+[Dyanis, the Fields of Gold](dyanis)
 Enochia, Kingdom of Fungus
 Eyerime, the Frozen Cloister
 [Gal'Vae, City of the Dead](galvae)
