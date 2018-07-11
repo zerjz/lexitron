@@ -109,7 +109,7 @@ The Arena
 The Bazaar
 The Caverns of Muck
 The Celestial Dream
-The Citadel of Ivy
+[The Citadel of Ivy](ivycitadel)
 The Dark Forest
 The Dripdrain Sewer System
 The Factory
