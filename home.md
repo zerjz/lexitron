@@ -94,7 +94,7 @@ Liar's Archipelago
 Malefix, the Mines of Mana
 Malsyrian Manor
 Marid Manor
-New Mechatropolis
+[New Mechatropolis](mechatropolis)
 New Nexus
 Quicksilver Mansion
 Ra'En, Bastion of the Ifrit
