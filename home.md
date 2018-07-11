@@ -112,7 +112,7 @@ The Celestial Dream
 [The Citadel of Ivy](ivycitadel)
 The Dark Forest
 The Dripdrain Sewer System
-The Factory
+[The Factory](factory)
 The Factory (Inner)
 [The Frozen Purgatory](purgatory)
 The Haunted Fields
