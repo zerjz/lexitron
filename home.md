@@ -122,7 +122,7 @@ The Isle of Blood
 The Marble Palace
 The Pallid Sea
 The Plane of Bounty
-The Plane of Slime
+[The Plane of Slime](planeofslime)
 The Silent Cemetery
 Tower of the Moon
 Trash Canyon
