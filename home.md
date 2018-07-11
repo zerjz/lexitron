@@ -87,7 +87,7 @@ Drybone Cove
 Dyanis, the Fields of Gold
 Enochia, Kingdom of Fungus
 Eyerime, the Frozen Cloister
-Gal'Vae, City of the Dead
+[Gal'Vae, City of the Dead](galvae)
 Glimmer, the Plane of Luster
 Kupakai Cave
 Liar's Archipelago
