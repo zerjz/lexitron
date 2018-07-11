@@ -76,59 +76,59 @@ Change is rapid in Magnos, and as the dimension grows in population, it expands 
 
 # Locations
 
-[The Frozen Purgatory](purgatory)
-New Nexus
-S'Aquia, City of the Sirens
-The Silent Cemetery
-Malefix, the Mines of Mana
-Drybone Cove
-The Bazaar
-The Arena
-Xuolia, City of Mana
-The Dripdrain Sewer System
-The Caverns of Muck
-Xuolia Underground
-The Pallid Sea
-Enochia, Kingdom of Fungus
-Raider's Cove
-Kupakai Cave
-Tower of the Moon
-Liar's Archipelago
-Daggerdepth Lake
-Webweaver's Bog
-Marid Manor
-Chambers of Forbidden Rituals
-Dyanis, the Fields of Gold
 Albarn, the Jaded Shrine
-Rioshu, the Enchanted Woods
-Telvaz, the Misery Mire
-S'Aquia Water Temple
-The Marble Palace
+An'Nar, Court of the Ifrit
+Aurora Savanna
+Chambers of Forbidden Rituals
+Club Crimson
+Daggerdepth Lake
+Dream Simulation: Seasons
+Drybone Cove
+Dyanis, the Fields of Gold
+Enochia, Kingdom of Fungus
+Eyerime, the Frozen Cloister
+Gal'Vae, City of the Dead
+Glimmer, the Plane of Luster
+Kupakai Cave
+Liar's Archipelago
+Malefix, the Mines of Mana
+Malsyrian Manor
+Marid Manor
 New Mechatropolis
+New Nexus
+Quicksilver Mansion
+Ra'En, Bastion of the Ifrit
+Raider's Cove
+Rioshu, the Enchanted Woods
+Rushforth Ocean
+S'Aquia Water Temple
+S'Aquia, City of the Sirens
+Telvaz, the Misery Mire
+The Alchemy Chambers
+The Arena
+The Bazaar
+The Caverns of Muck
+The Celestial Dream
+The Citadel of Ivy
+The Dark Forest
+The Dripdrain Sewer System
 The Factory
 The Factory (Inner)
-Trash Canyon
-The Humid Plains
-The Citadel of Ivy
+[The Frozen Purgatory](purgatory)
 The Haunted Fields
-Rushforth Ocean
+The Humid Plains
+The Icy Chasm
+The Isle of Blood
+The Marble Palace
+The Pallid Sea
 The Plane of Bounty
 The Plane of Slime
-Glimmer, the Plane of Luster
-Quicksilver Mansion
-Malsyrian Manor
-The Celestial Dream
-Club Crimson
+The Silent Cemetery
+Tower of the Moon
+Trash Canyon
 Val'Sharith's Shade
-Gal'Vae, City of the Dead
-The Dark Forest
-An'Nar, Court of the Ifrit
-Ra'En, Bastion of the Ifrit
-The Alchemy Chambers
-Dream Simulation: Seasons
 Vinespur Cay
-Aurora Savanna
-The Isle of Blood
-The Icy Chasm
-Eyerime, the Frozen Cloister
+Webweaver's Bog
 Whiskreasel Stronghold
+Xuolia Underground
+[Xuolia, City of Mana](xuolia)
