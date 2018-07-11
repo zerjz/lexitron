@@ -3,8 +3,7 @@
 
 # Foldable Medicine Bag
 [Amethyst Potion](amethyst-potion)
-[Turquoise Potion](turquoise-potion)
-[Malachite Potion](malachite-potion)
+[Bloody Tears Potion](bloody-tears-potion)
 [Bonespur Potion](bonespur-potion)
 [Bottle of Fairy Tears](bottle-of-fairy-tears)
 [Crushed Insect](crushed-insect)
@@ -13,6 +12,7 @@
 [Face Paint](face-paint)
 [Fluffy Pipe Grass](fluffy-pipe-grass)
 [Grass Poultice](grass-poultice)
+[Malachite Potion](malachite-potion)
 [Mana Chip Suspension](mana-chip-suspension)
 [Oil of Vitriol](oil-of-vitriol)
 [Potion of Aquatic Ivy](potion-of-aquatic-ivy)
@@ -24,4 +24,5 @@
 [Small Flame Potion](small-flame-potion)
 [Small Frost Potion](small-frost-potion)
 [Spider Eye Potion](spider-eye-potion)
+[Turquoise Potion](turquoise-potion)
 [Webweaver Eye Poison](webweaver-eye-poison)
