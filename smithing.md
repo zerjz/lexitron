@@ -72,4 +72,8 @@
 [Glass Vambraces](glass-vambraces)
 [Gleaming Blackmetal Hilt](gleaming-blackmetal-hilt)
 [Gleaming Blackmetal Sword](gleaming-blackmetal-sword)
-
+[Gold Bits](gold-bits)
+[Gold Disc](gold-disc)
+[Gold Double Blade](gold-double-blade)
+[Gold Ingot](gold-ingot)
+[Gold Throwing Stars](gold-throwing-stars)
