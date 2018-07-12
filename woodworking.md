@@ -44,4 +44,11 @@
 [Sharp Fang Dagger](sharp-fang-dagger)
 [Sharp Fang Spear](sharp-fang-spear)
 [Sharpened Bone](sharpened-bone)
+[Silk Wrapped Handle](silk-wrapped-handle)
+[Silver Arrows](silver-arrow)
+[Silver Axe Head](silver-axe-head)
+[Silver Throwing Spears](silver-throwing-spear)
+[Simple Cloth Hammock](simple-cloth-hammock)
+[Simple Torch](simple-torch)
+[Simple Wooden Longbow](simple-wooden-longbow)
 
