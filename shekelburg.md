@@ -37,3 +37,24 @@ Sage Potion  - 20p
 **FOOD**
 Pumpkin Bread  - 35p
 White Wedding Cake  - 30p
+
+
+
+
+
+
+
+
+
+**ALSO BUYING**
+Black Fur
+Glass Bottle
+Spider Silk Strings
+Spider eye
+Aquatic Ivy
+Emberthistle
+Rimeweed
+Copper Ingot
+Silver Ingot
+Plain Log
+Plank of Wood
