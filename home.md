@@ -132,3 +132,8 @@ Webweaver's Bog
 Whiskreasel Stronghold
 Xuolia Underground
 [Xuolia, City of Mana](xuolia)
+
+# Market
+
+[Sellers](sellers)
+[Buyers](buyers)
