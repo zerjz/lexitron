@@ -1,5 +1,5 @@
 <!-- TITLE: Blue Cherry Pie -->
-<!-- SUBTITLE: A quick summary of Blue Cherry Pie -->
+<!-- SUBTITLE: A delicious pie made from blue cherries -->
 
 # Cooking
 **Skill**
