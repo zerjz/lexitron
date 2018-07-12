@@ -147,6 +147,22 @@
 [Sheet of Metal](sheet-of-metal)
 [Silver Belt](silver-belt)
 [Silver Bits](silver-bits)
+[Silver Blade](silver-blade)
+[Silver Boots](silver-boots)
+[Silver Bracer](silver-bracer)
+[Silver Breastplate](silver-breastplate)
+[Silver Chain Whip](silver-chain-whip)
+[Silver Claws](silver-claws)
+[Silver Disc](silver-disc)
+[Silver Double Blade](silver-double-blade)
+[Silver Double Bladed Sword](silver-double-bladed-sword)
+[Silver Gauntlets](silver-gauntlets)
+[Silver Greaves](silver-greaves)
+[Silver Ingot](silver-ingot)
+[Silver Katana](silver-katana)
+
+
+
 
 
 
