@@ -84,7 +84,7 @@
 [Polished Gold Pearlbone Ring](polished-gold-pearlbone-ring)
 [Polished Gold Ruby Ring](polished-gold-ruby-ring)
 [Polished Gold Sapphire Ring](polished-gold-sapphire-ring)
-[Polished Marble](polished marble)
+[Polished Marble](polished-marble)
 [Powdered Amethyst](powdered-amethyst)
 [Powdered Glass](powdered-glass)
 [Pure Mana](pure-mana)
