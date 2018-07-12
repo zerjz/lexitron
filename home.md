@@ -135,5 +135,4 @@ Xuolia Underground
 
 # Market
 
-[Sellers](sellers)
-[Buyers](buyers)
+[Market](sellers)
