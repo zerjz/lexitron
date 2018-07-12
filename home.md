@@ -133,6 +133,6 @@ Whiskreasel Stronghold
 Xuolia Underground
 [Xuolia, City of Mana](xuolia)
 
-# Market
+# Buy/Sell
 
-[Market](market)
+[Marketplace](market)
