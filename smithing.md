@@ -102,4 +102,7 @@
 [Hammered Copper Bracer](hammered-copper-bracer)
 [Hammered Copper Breastplate](hammered-copper-breastplate)
 [Hammered Copper Gauntlets](hammered-copper-gauntlets)
-
+[Hammered Copper Greaves](hammered-copper-greaves)
+[Hammered Copper Shield](hammered-copper-shield)
+[Hammered Copper Spaulders](hammered-copper-spaulders)
+[Hammered Copper Vambraces](hammered-copper-vambraces)
