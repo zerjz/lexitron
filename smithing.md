@@ -139,6 +139,14 @@
 [Refined Gold](refined-gold)
 [Refined Manastone](refined-manastone)
 [Refined Silver](refined-silver)
+[Sand](sand)
+[Sheet of Crocolisk Scales](sheet-of-crocolisk-scales)
+[Sheet of Glass](sheet-of-glass)
+[Sheet of Harpy Scales](sheet-of-harpy-scales)
+[Sheet of Kupakai Scales](sheet-of-kupakai-scales)
+[Sheet of Metal](sheet-of-metal)
+[Silver Belt](silver-belt)
+[Silver Bits](silver-bits)
 
 
 
