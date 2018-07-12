@@ -37,3 +37,11 @@
 [Polished Wooden Staff](polished-wooden-staff)
 [Ribcage](ribcage)
 [Ribcage Shield](ribcage-shield)
+[Rough Wooden Shield](rough-wooden-shield)
+[Sand](sand)
+[Sanded Plank of Violetwood](sanded-plank-of-violetwood)
+[Sanded Plank of Wood](sanded-plank-of-wood)
+[Sharp Fang Dagger](sharp-fang-dagger)
+[Sharp Fang Spear](sharp-fang-spear)
+[Sharpened Bone](sharpened-bone)
+
