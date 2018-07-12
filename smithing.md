@@ -129,6 +129,18 @@
 [Kupakai Scale Leggings](kupakai-scale-leggings)
 [Kupakai Scale Mail](kupakai-scale-mail)
 [Kupakai Scale Sleeves](kupakai-scale-sleeves)
+[Mercury](mercury)
+[Metal Hoop](metal-hoop)
+[Metal Rod](metal-rod)
+[Metal Spike](metal-spike)
+[Pure Mana](pure-mana)
+[Red Spiked Helmet](red-spiked-helmet)
+[Refined Copper](refined-copper)
+[Refined Gold](refined-gold)
+[Refined Manastone](refined-manastone)
+[Refined Silver](refined-silver)
+
+
 
 
 
