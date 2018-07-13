@@ -76,7 +76,7 @@ Change is rapid in Magnos, and as the dimension grows in population, it expands 
 
 # Locations
 
-Albarn, the Jaded Shrine
+[Albarn, the Jaded Shrine](jadedshrine)
 An'Nar, Court of the Ifrit
 Aurora Savanna
 Chambers of Forbidden Rituals
@@ -124,14 +124,16 @@ The Pallid Sea
 The Plane of Bounty
 [The Plane of Slime](planeofslime)
 The Silent Cemetery
+The Sludge Aqueducts
 Tower of the Moon
 Trash Canyon
 [Val'Sharith's Shade](shade)
 Vinespur Cay
 Webweaver's Bog
 Whiskreasel Stronghold
-Xuolia Underground
 [Xuolia, City of Mana](xuolia)
+Xuolia Palace
+Xuolia Underground
 
 # Buy/Sell
 
