@@ -29,3 +29,15 @@ But not all of them. As the legends spread about what potential bounty could be 
 Some time later, reports from those passing through the area began coming in about the massive pit being haunted by the spirits of the fallen giants. What one was just nondescript forest land was now a brooding, menacing hole in the earth. Some trade routes to Gal'Vae were even shut down because people were too afraid to pass through the pit.
 
 The residents of the city of Gal'Vae became more closed off to the outside world, but not by choice. Most people were just too frightened to go there now, although the whisperings of paranormal activity in the Shade intrigued and delighted the Gal'Vaen.
+
+
+# Creatures
+
+
+# NPCs
+
+
+# Connections
+
+[Gal'Vae, City of the Dead](galvae)
+[The Dark Forest](darkforest)
