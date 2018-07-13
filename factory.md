@@ -16,3 +16,10 @@ Deep in the heart of New Mechatropolis stands a giant factory. This factory is w
 # NPCs
 
 [Jewelerbot XIV](jewelerbot-xiv)
+
+
+# Connections
+
+[New Mechatropolis](mechatropolis)
+[The Factory (Inner)](factoryb)
+[Trash Canyon](trash-canyon)
