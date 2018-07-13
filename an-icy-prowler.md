@@ -1,7 +1,7 @@
 <!-- TITLE: an icy prowler -->
 
 # Locations
-[The Frozen Purgatory](the-frozen-purgatory)
+[The Frozen Purgatory](purgatory)
 
 # Info
 
