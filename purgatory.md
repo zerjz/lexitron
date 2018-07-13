@@ -98,5 +98,3 @@ Signed, Thrule Ursai
 [Melinda](melinda)
 [Serptious Vindavious](serptious-vindavious)
 [The Soul Feaster](the-soul-feaster)
-
-# Loot
