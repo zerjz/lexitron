@@ -1,4 +1,4 @@
-<!-- TITLE: A Blood Slime -->
+<!-- TITLE: a blood slime -->
 
 # Locations
 [Gal'Vae, City of the Dead](galvae)
