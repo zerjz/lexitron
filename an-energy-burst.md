@@ -1,5 +1,9 @@
 <!-- TITLE: an energy burst -->
 
+# Locations
+
+[The Frozen Purgatory](purgatory)
+
 # Info
 
 ```perl
