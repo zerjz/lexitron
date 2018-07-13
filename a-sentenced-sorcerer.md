@@ -1,4 +1,4 @@
-<!-- TITLE: A Sentenced Sorcerer -->
+<!-- TITLE: a sentenced sorcerer -->
 
 # Locations
 [The Frozen Purgatory](purgatory)
