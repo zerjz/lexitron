@@ -1,4 +1,4 @@
-<!-- TITLE: Boomboom -->
+<!-- TITLE: BoomBoom -->
 
 # Locations
 
