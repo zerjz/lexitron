@@ -119,7 +119,7 @@ The Haunted Fields
 The Humid Plains
 The Icy Chasm
 The Isle of Blood
-The Marble Palace
+[The Marble Palace](marblepalace)
 The Pallid Sea
 The Plane of Bounty
 [The Plane of Slime](planeofslime)
