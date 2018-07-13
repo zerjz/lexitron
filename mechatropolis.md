@@ -13,3 +13,19 @@ In jest, the nickname Mechatropolis had been given to the city. What once were h
 Tall metal walls were erected around the new factory, and technology continued to advance at a rapid pace. Newer models of the city's labor mechs were being rolled out constantly, and the older technology would either be scrapped for parts outside the factory, or sent to the nearby Drybone Cove to be dumped on the beach.
 
 By this point, the mechs were primarily running the city, and the few flesh-and-blood people that remained in New Mechatropolis were all but useless. They had lost their ability to take care of themselves without the aid of a mech to do every little thing for them. The people became fat and lazy, spending most of their days sleeping in bed. An entire subculture emerged in the city based around sleeping - shopkeepers became rich by capitalizing on this trend, offering for sale a variety of luxury blankets, pillows, sleeping masks, and other bedtime accessories.
+
+
+# Creatures
+
+
+
+# NPCs
+
+
+# Connections
+
+[Drybone Cove](drybone)
+[The Factory](factory)
+[Vinespur Cay](vinespur-cay)
+[Dream Simulation: Seasons](seasons)
+[The Sludge Aqueducts](aqueducts)
