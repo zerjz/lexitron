@@ -11,7 +11,6 @@ Gal'Vae has launched misguided terrorist attacks on Xuolia, who could easily cru
 # Creatures
 [a blood feeder](a-blood-feeder)
 [a blood slime](a-blood-slime)
-[a greater blood demon](a-greater-blood-demon)
 [a hemogoblin](a-hemogoblin)
 [a shady lurker](a-shady-lurker)
 [a temple administrator](a-temple-administrator)
