@@ -28,3 +28,17 @@ Recently, Queen Franchesa was the target of a brutal terrorist attack against th
 Little has been seen of the royal family, and news from within the city has died down to nothingness. 
 
 The delicate Manastone bricks that comprise the city itself are in severe disrepair, weakening and crumbling more every day.
+
+
+# Creatures
+
+
+# NPCs
+
+
+# Connections
+
+[Malefix, the Mines of Mana](malefix)
+[The Pallid Sea](pallidsea)
+[Xuolia Underground](xuoliab)
+[Xuolia Palace](xuoliac)
