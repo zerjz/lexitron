@@ -65,3 +65,38 @@ That’s not what Dizian wanted, and he’ll be sure to let you know that.  He�
 I’ll see you in the [Nexus](nexus), refugee.  There’s so much to see.  Get to it.
 
 Signed, Thrule Ursai
+
+----------------------
+
+# Creatures
+
+[Amalgamation of Lost Souls](amalgamation-of-lost-souls)
+[an energy burst](an-energy-burst)
+[an icy prowler](an-icy-prowler)
+[a damned soul](a-damned-soul)
+[a frosted recluse](a-frosted-recluse)
+[a frosted watcher](a-frosted-watcher)
+[a gem gnasher](a-gem-gnasher)
+[a limbo lofter](a-limbo-lofter)
+[a misery mouseman](a-misery-mouseman)
+[a sentenced sorcerer](a-sentenced-sorcerer)
+[a sneaking ratman](a-sneaking-ratman)
+[a tortured asrai](a-tortured-asrai)
+[a wayward familiar](a-wayward-familiar)
+[Book of the Dead](book-of-the-dead)
+[The Soul Feaster](the-soul-feaster)
+
+# NPCs
+
+[Avens Reogia](avens-reogia)
+[a hard to reach book](a-hard-to-reach-book)
+[a weeping confessor](a-weeping-confessor)
+[Burl](burl)
+[Dizian Maltor](dizian-maltor)
+[Engineer Chatham](engineer-chatham)
+[Haze of Introspection](haze-of-introspection)
+[Melinda](melinda)
+[Serptious Vindavious](serptious-vindavious)
+[The Soul Feaster](the-soul-feaster)
+
+# Loot
