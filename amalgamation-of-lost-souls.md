@@ -1,5 +1,9 @@
 <!-- TITLE: Amalgamation of Lost Souls -->
 
+# Locations
+
+[The Frozen Purgatory](purgatory)
+
 # Info
 
 ```perl
