@@ -6,6 +6,7 @@
 Level: 10
 ```
 
+
 # Loot
 
 **Common**
