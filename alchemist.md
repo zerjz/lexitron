@@ -1,6 +1,11 @@
 <!-- TITLE: Alchemist -->
 <!-- SUBTITLE: Alchemists are primarily interested in the conversion and transference of one material to another - at a cost. The main pillar of Alchemy is that of Equivalent Exchange: For every gain, there must be an equal loss. Alchemists can create amazing potions unseen elsewhere in the world, using specialized waters and plant materials. They can also create poisons, able to be applied to weapons, food, drink, and used directly on the target of the poisoning. Alchemists are able to imbue precious metals, and even convert them to new metals altogether -->
 
+# Subclasses
+
+[Shaman](shaman)
+[Philosopher](philosopher)
+
 # Spells
 
 **Level 1**
