@@ -1,8 +1,17 @@
-<!-- TITLE: A Tortured Asrai -->
+<!-- TITLE: a tortured asrai -->
 
 # Locations
 [The Frozen Purgatory](purgatory)
 
-# Level
+# Info
+
+```perl
+Level: 1
+```
+
 
 # Loot
+
+**Common**
+
+[Cosmic Essence](cosmic-essence)
