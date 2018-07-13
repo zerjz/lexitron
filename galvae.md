@@ -19,3 +19,8 @@ Gal'Vae has launched misguided terrorist attacks on Xuolia, who could easily cru
 
 
 # NPCs
+
+# Connections
+
+[Val'Sharith's Shade](shade)
+[New Nexus](nexus)
