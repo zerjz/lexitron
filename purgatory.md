@@ -46,7 +46,7 @@ You’re kitted out in a suit of armor now, hopefully.  If not, you probably sho
 
 You’ll find a side room with some emaciated second cousins of the ratmen you met earlier.  Don’t be misled by their lanky limbs, however, they pack quite a punch.  The [copper bits](copper-bits) they drop can give you an edge on making [ingots](copper-ingot) later if you can manage to knock them down before they do the same to you.  Careful you don’t get surrounded though, because even though they won’t help one another unless you get a little overzealous, they will come back and block off your escape rather quickly.
 
-# Getting Into The Thick Of Things
+# Getting Into the Thick of Things
 
 Eventually you’ll stumble upon my old friend [Dizian Maltor](dizian-maltor).  He’s a [Traveler](the-society-of-travelers), or so he’d fancy himself.  Pretty sure he means well, but I don’t have a good read on him in all honesty.  Either way, he’s got some grim tidings for you, or perhaps good news if you’re an optimist.  He’ll set you up with a lovely [spiritstone](spiritstone) for holding all the things that make you, you, and set you on the path to escape from here.  All you’ll need are a few trinkets and a bit of luck.
 
