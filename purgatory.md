@@ -1,6 +1,6 @@
 <!-- TITLE: The Frozen Purgatory -->
 
-<!-- SUBTITLE Guide written by Thrule Ursai -->
+<!-- SUBTITLE: Guide written by Thrule Ursai -->
 
 Welcome to [Magnos](magnos), refugee.  You’re probably asking yourself how you got here, or where here is.  Probably even who you are or what your role is.  I can’t really answer that for you, but I figure you’ve got a pretty good shot at finding out for yourself if you push onward.  It’s going to take grit and perseverance, but chances are you won’t be going it alone.  So let’s begin.
 
