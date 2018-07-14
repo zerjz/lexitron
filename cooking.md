@@ -6,6 +6,7 @@
 [Baked Potato](baked-potato)
 [Baked Rabbit](baked-rabbit)
 [Blue Cherry Pie](blue-cherry-pie)
+[Blue Cherry Preserves](blue-cherry-preserves)
 [Cool Nectarnut Seeds](cool-nectarnut-seeds)
 [Cooling Seasoning](cooling-seasoning)
 [Curried Meat](curried-meat)
