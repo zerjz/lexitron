@@ -52,8 +52,6 @@ Glass Bottle
 Spider Silk Strings
 Spider eye
 Aquatic Ivy
-Emberthistle
-Rimeweed
 Copper Ingot
 Silver Ingot
 Plain Log
