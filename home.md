@@ -93,7 +93,7 @@ Glimmer, the Plane of Luster
 Kupakai Cave
 Liar's Archipelago
 Malefix, the Mines of Mana
-Malsyrian Manor
+Malsyrian Villa
 Marid Manor
 [New Mechatropolis](mechatropolis)
 New Nexus
