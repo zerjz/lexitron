@@ -9,6 +9,7 @@
 Level: 2
 ```
 > "These canid beasts seemed all too docile for this frozen crypt.  It was almost with pity that I struck them down for their hides and fangs."
+> *~Thrule*
 
 # Loot
 
