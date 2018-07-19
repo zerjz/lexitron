@@ -8,6 +8,7 @@
 Level: 5
 ```
 > "I'm not sure what to make of these azure observers.  Their chilly, dispassionate gaze seemed unflinching towards me as I advanced through their ranks.  As I took my leave I noticed an almost child-like quality manifesting in several as they meticulously analyzed their surrounds with strange glasses."
+> *~Thrule*
 
 # Loot
 
