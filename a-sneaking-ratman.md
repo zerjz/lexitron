@@ -8,7 +8,7 @@
 ```perl
 Level: 1
 ```
-
+> "Almost cute in their mindless wandering.  If it wasn't for the valuable herbs and supplies they carried, they would almost not merit any apprehension, but alas, this realm does require a great many resources if we are to survive."
 
 # Loot
 
