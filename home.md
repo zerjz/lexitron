@@ -78,6 +78,7 @@ Change is rapid in Magnos, and as the dimension grows in population, it expands 
 
 [Albarn, the Jaded Shrine](jadedshrine)
 An'Nar, Court of the Ifrit
+Ar'ssarra, the Genie's Lamp
 Aurora Savanna
 Chambers of Forbidden Rituals
 Club Crimson
@@ -101,6 +102,7 @@ Ra'En, Bastion of the Ifrit
 Raider's Cove
 Rioshu, the Enchanted Woods
 Rushforth Ocean
+Sanglii, the Isle of Blood
 S'Aquia Water Temple
 S'Aquia, City of the Sirens
 Telvaz, the Misery Mire
@@ -118,8 +120,8 @@ The Factory (Inner)
 The Haunted Fields
 The Humid Plains
 The Icy Chasm
-The Isle of Blood
 [The Marble Palace](marblepalace)
+The Moonlight Banquet Hall
 The Pallid Sea
 The Plane of Bounty
 [The Plane of Slime](planeofslime)
