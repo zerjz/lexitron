@@ -9,6 +9,7 @@
 Level: 8
 ```
 > "Unnatural comes to mind when I try to describe these geomantic manifestations.  Strange tendril like tentacles waving atop a glittering core.  Once agitated they were apt to bursting, sending incandescent shrapnel through the air to great effect."
+> *~Thrule*
 
 # Loot
 
