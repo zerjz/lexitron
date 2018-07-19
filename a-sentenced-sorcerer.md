@@ -9,6 +9,7 @@
 Level: 5
 ```
 > "I quickly learned that these incorporeal ghasts were not just mere spirits.  Their attunement to the chaotic energies of this realm nearly cost me what life I have left."
+> *~Thrule*
 
 # Loot
 
