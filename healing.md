@@ -1,4 +1,4 @@
 <!-- TITLE: Healing -->
-<!-- SUBTITLE: Throws a refreshing potion onto the ground that splashes all nearby allies and yourself, providing healing. -->
+<!-- SUBTITLE: Mends moderate wounds, healing between 99 and 270 hit points. -->
 
 # Header
