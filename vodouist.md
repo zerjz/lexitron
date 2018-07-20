@@ -6,7 +6,7 @@
 **Level 20**
 [Enchant Broomstick](enchant-broomstick)
 [Illusion: Samhain Witch](illusion-samhain-witch)
-[Illusion: Scarecrow](illusion:-scarecrow)
+[Illusion: Scarecrow](illusion-scarecrow)
 [Shock of the Seven Nights](shock-of-the-seven-nights)
 
 **Level 21**
