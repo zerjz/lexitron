@@ -3,10 +3,10 @@
 
 # Spells
 **Level 20**
-[Shift: Mammoth](shift:-mammoth)
+[Shift: Mammoth](shift-mammoth)
 
 **Level 21**
-[Shift: Hornet](shift:-hornet)
+[Shift: Hornet](shift-hornet)
 
 **Level 23**
 [Hornet's Sting](hornet's-sting)
@@ -15,10 +15,10 @@
 [Snakebite](snakebite)
 
 **Level 26**
-[Shift: Lynx](shift:-lynx)
+[Shift: Lynx](shift-lynx)
 
 **Level 27**
-[Shift: Manticore](shift:-manticore)
+[Shift: Manticore](shift-manticore)
 
 **Level 28**
 [Acid Spit](acid-spit)
