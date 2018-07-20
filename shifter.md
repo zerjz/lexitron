@@ -8,6 +8,10 @@
 **Level 21**
 [Shift: Hornet](shift-hornet)
 
+**Level 22**
+[Shift: Jaguar](shift-jaguar)
+[Shift: Seahorse](shift-seahorse)
+
 **Level 23**
 [Hornet's Sting](hornet's-sting)
 
