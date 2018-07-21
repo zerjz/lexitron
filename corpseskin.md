@@ -1,4 +1,10 @@
-<!-- TITLE: Corpseskin -->
-<!-- SUBTITLE: Covers you in a magical skin that absorbs 1744 damage before dissipating.  This spell also increases your mana regeneration rate. -->
+<!-- TITLE: Spell: Corpseskin -->
+<!-- SUBTITLE:  -->
+
+**Level:** 29
+
+**Subclass:** Grim Reaper
+
+**Spell Effect:** Covers you in a magical skin that absorbs 1744 damage before dissipating.  This spell also increases your mana regeneration rate.
 
 # Header
