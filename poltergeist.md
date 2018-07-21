@@ -1,4 +1,10 @@
-<!-- TITLE: Poltergeist -->
-<!-- SUBTITLE: Curses your target with a mischievous poltergeist, causing 10 damage to them each time they strike another creature. -->
+<!-- TITLE: Spell: Poltergeist -->
+<!-- SUBTITLE:  -->
+
+**Level:** 23
+
+**Subclass:** Vodouist
+
+**Spell Effect:** Curses your target with a mischievous poltergeist, causing 10 damage to them each time they strike another creature.
 
 # Header
