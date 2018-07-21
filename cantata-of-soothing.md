@@ -1,4 +1,4 @@
-<!-- TITLE: Cantata Of Soothing -->
+<!-- TITLE: Song: Cantata Of Soothing -->
 <!-- SUBTITLE: A light cantata that regenerates the health, mana, and stamina of your entire group. -->
 
 # Header
