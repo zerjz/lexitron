@@ -1,4 +1,4 @@
-<!-- TITLE: Spell Scent Of Darkness -->
+<!-- TITLE: Spell: Scent Of Darkness -->
 <!-- SUBTITLE:  -->
 
 **Level:** 35
