@@ -1,4 +1,4 @@
-<!-- TITLE: Fear -->
+<!-- TITLE: Spell: Fear -->
 <!-- SUBTITLE:  -->
 
 **Level:** 29
