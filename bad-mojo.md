@@ -1,4 +1,4 @@
-<!-- TITLE: Bad Mojo -->
+<!-- TITLE: Spell: Bad Mojo -->
 <!-- SUBTITLE:  -->
 
 **Level:** 28
