@@ -15,8 +15,8 @@ Ruled by the moody and sensual Queen Ssyrella, the S'Aquia sirens have learned a
 
 
 # Connections
-
+[S'Aquia Water Temple](watertemple)
+[Telvaz, the Misery Mire](miserymire)
 [The Nexus](nexus)
 [The Marble Palace](marblepalace)
-[S'Aquia Water Temple](watertemple)
 [The Plane of Bounty](planeofbounty)
