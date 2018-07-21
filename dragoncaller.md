@@ -6,6 +6,7 @@
 **Level 20**
 [Center](center)
 [Fiery Spirit](fiery-spirit)
+[Throw Stone](throw-stone)
 
 **Level 21**
 [Breath of Scale](breath-of-scale)
