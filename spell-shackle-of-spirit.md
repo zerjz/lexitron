@@ -1,4 +1,4 @@
-<!-- TITLE: Spell Shackle Of Spirit -->
+<!-- TITLE: Spell: Shackle Of Spirit -->
 <!-- SUBTITLE:  -->
 
 **Level:** 36
