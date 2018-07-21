@@ -3,32 +3,32 @@
 
 # Spells
 **Level 20**
-[Healing](healing)
-[Invigor](invigor)
-[Purebred Lynx](purebred-lynx)
+[Spell: Healing](healing)
+[Spell: Invigor](invigor)
+[Spell: Purebred Lynx](purebred-lynx)
 
 **Level 21**
-[Milk Animal](milk-animal)
+[Spell: Milk Animal](milk-animal)
 
 **Level 23**
-[Encouraging Bravery](encouraging-bravery)
+[Spell: Encouraging Bravery](encouraging-bravery)
 
 **Level 24**
-[Hearty Aura](hearty-aura)
+[Spell: Hearty Aura](hearty-aura)
 
 **Level 25**
-[Hatch Griffin](hatch-griffin)
+[Spell: Hatch Griffin](hatch-griffin)
 
 **Level 26**
-[Purebred Owlbear](purebred-owlbear)
-[Spirit of Xar](spirit-of-xar)
+[Spell: Purebred Owlbear](purebred-owlbear)
+[Spell: Spirit of Xar](spirit-of-xar)
 
 **Level 27**
-[Herikol's Soothing](herikol's-soothing)
+[Spell: Herikol's Soothing](herikol's-soothing)
 
 **Level 28**
-[Greater Healing](greater-healing)
+[Spell: Greater Healing](greater-healing)
 
 **Level 29**
-[Bolster Pet](bolster-pet)
+[Spell: Bolster Pet](bolster-pet)
 
