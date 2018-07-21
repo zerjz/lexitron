@@ -1,4 +1,10 @@
-<!-- TITLE: Shadow Vortex -->
-<!-- SUBTITLE: Covers your target in a mass of darkness that steals their armor class and gives it to you. -->
+<!-- TITLE: Spell: Shadow Vortex -->
+<!-- SUBTITLE:  -->
+
+**Level:** 22
+
+**Subclass:** Vampire
+
+**Spell Effect:** Covers your target in a mass of darkness that steals their armor class and gives it to you.
 
 # Header
