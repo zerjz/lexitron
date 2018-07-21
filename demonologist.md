@@ -2,6 +2,27 @@
 <!-- SUBTITLE: Needs Better Description!  -->
 
 # Spells
+
+**Level 20**
+[Call Minor Demon](call-minor-demon)
+
+**Level 21**
+[Scent of Shadow](scent-of-shadow)
+
+**Level 22**
+[Screaming Terror](screaming-terror)
+
+**Level 23**
+[Energize Demon](energize-demon)
+
+**Level 24**
+[Call Serpent Gorgon](call-serpent-gorgon)
+
+**Level 26**
+[Invoke Ghast](invoke-ghast)
+[Spirit Tap](spirit-tap)
+[Touch of Health](touch-of-health)
+
 **Level 30**
 [Spell: Demon Poison](spell-demon-poison)
 [Spell: Torbas Acid Blast](spell-torbas-acid-blast)
