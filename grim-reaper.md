@@ -3,31 +3,31 @@
 
 # Spells
 **Level 20**
-[Harmshield](harmshield)
-[Word of Shadow](word-of-shadow)
+[Spell: Harmshield](harmshield)
+[Spell: Word of Shadow](word-of-shadow)
 
 **Level 21**
-[Breath of the Dead](breath-of-the-dead)
-[Expedient Glide](expedient-glide)
+[Spell: Breath of the Dead](breath-of-the-dead)
+[Spell: Expedient Glide](expedient-glide)
 
 **Level 22**
-[Leatherskin](leatherskin)
-[The Harvest](the-harvest)
+[Spell: Leatherskin](leatherskin)
+[Spell: The Harvest](the-harvest)
 
 **Level 23**
-[Reparation](reparation)
-[Rest the Dead](rest-the-dead)
+[Spell: Reparation](reparation)
+[Spell: Rest the Dead](rest-the-dead)
 
 **Level 25**
-[Defoliation](defoliation)
-[Extract Soul Shard](extract-soul-shard)
+[Spell: Defoliation](defoliation)
+[Spell: Extract Soul Shard](extract-soul-shard)
 
 **Level 28**
-[Revive](revive)
-[The Silent Scythe](the-silent-scythe)
+[Spell: Revive](revive)
+[Spell: The Silent Scythe](the-silent-scythe)
 
 **Level 29**
-[Corpseskin](corpseskin)
+[Spell: Corpseskin](corpseskin)
 
 **Level 30**
 [Spell: The Culling](spell-the-culling)
