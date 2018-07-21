@@ -1,4 +1,4 @@
-<!-- TITLE: Spell: Baby Mantrap --
+<!-- TITLE: Spell: Baby Mantrap -->
 <!-- SUBTITLE:  -->
 
 **Level:** 20
