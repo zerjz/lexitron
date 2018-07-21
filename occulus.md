@@ -1,4 +1,4 @@
-<!-- TITLE: Occulus -->
+<!-- TITLE: Spell: Occulus -->
 <!-- SUBTITLE:  -->
 
 **Level:** 27
