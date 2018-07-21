@@ -56,4 +56,3 @@
 
 **Level 39**
 [Spell: Bile Spit](spell-bile-spit)
-**Level 40
