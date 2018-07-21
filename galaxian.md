@@ -4,25 +4,25 @@
 # Spells
 
 **Level 20**
-[Sunset Shield](sunset-shield)
+[Spell: Sunset Shield](sunset-shield)
 
 **Level 21**
-[Evacuate: Xuolia](evacuate-xuolia)
-[Knowledge of Space](knowledge-of-space)
+[Spell: Evacuate: Xuolia](evacuate-xuolia)
+[Spell: Knowledge of Space](knowledge-of-space)
 
 **Level 22**
-[Comet Aura](comet-aura)
-[Moonshock](moonshock)
+[Spell: Comet Aura](comet-aura)
+[Spell: Moonshock](moonshock)
 
 **Level 23**
-[Asteroid Shower](asteroid-shower)
-[Crushing Gravity](crushing-gravity)
+[Spell: Asteroid Shower](asteroid-shower)
+[Spell: Crushing Gravity](crushing-gravity)
 
 **Level 24**
-[Evacuate: Dyanis](evacuate-dyanis)
+[Spell: Evacuate: Dyanis](evacuate-dyanis)
 
 **Level 26**
-[Black Hole](black-hole)
+[Spell: Black Hole](black-hole)
 
 **Level 27**
-[Luminary Equilibrium](luminary-equilibrium)
+[Spell: Luminary Equilibrium](luminary-equilibrium)
