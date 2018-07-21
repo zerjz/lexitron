@@ -3,35 +3,35 @@
 
 # Spells
 **Level 20**
-[Greater Healing](greater-healing)
-[Ward of Vie](ward-of-vie)
+[Spell: Greater Healing](greater-healing)
+[Spell: Ward of Vie](ward-of-vie)
 
 **Level 21**
-[Symbol of Ryltan](symbol-of-ryltan)
+[Spell: Symbol of Ryltan](symbol-of-ryltan)
 
 **Level 22**
-[Bravery](bravery)
-[Counteract Poison](counteract-poison)
+[Spell: Bravery](bravery)
+[Spell: Counteract Poison](counteract-poison)
 
 **Level 23**
-[Dismiss Undead](dismiss-undead)
+[Spell: Dismiss Undead](dismiss-undead)
 
 **Level 25**
-[Guard](guard)
-[Sermon of the Righteous](sermon-of-the-righteous)
+[Spell: Guard](guard)
+[Spell: Sermon of the Righteous](sermon-of-the-righteous)
 
 **Level 26**
-[Panic the Dead](panic-the-dead)
+[Spell: Panic the Dead](panic-the-dead)
 
 **Level 27**
-[Valorous](valorous)
+[Spell: Valorous](valorous)
 
 **Level 28**
-[Symbol of Dinga](symbal-of-dinga)
+[Spell: Symbol of Dinga](symbal-of-dinga)
 
 **Level 29**
-[Vow of Vehemence](vow-of-vehemence)
-[Complete Healing](complete-healing)
+[Spell: Vow of Vehemence](vow-of-vehemence)
+[Spell: Complete Healing](complete-healing)
 
 **Level 35**
-[Fortitude](fortitude)
+[Spell: Fortitude](fortitude)
