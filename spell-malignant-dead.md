@@ -1,4 +1,4 @@
-<!-- TITLE: Spell Malignant Dead -->
+<!-- TITLE: Spell: Malignant Dead -->
 <!-- SUBTITLE:  -->
 
 **Level:** 38
