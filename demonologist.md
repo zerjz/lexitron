@@ -1,5 +1,5 @@
 <!-- TITLE: Demonologist -->
-<!-- SUBTITLE: Needs Better Description!  -->
+<!-- SUBTITLE: Steeped in occult research, Demonologists have learned how to summon demons from hellish planes far removed from Magnos.  Exerting massive amounts of mana, they subjugate these beasts into doing their bidding.  -->
 
 # Spells
 
