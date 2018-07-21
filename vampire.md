@@ -4,41 +4,41 @@
 # Spells
 
 **Level 20**
-[Banshee Aura](banshee-aura)
-[Lifedraw](lifedraw)
-[Vampire Bite](vampire-bite)
-[Vampire Form](vampire-form)
+[Spell: Banshee Aura](banshee-aura)
+[Spell: Lifedraw](lifedraw)
+[Spell: Vampire Bite](vampire-bite)
+[Spell: Vampire Form](vampire-form)
 
 **Level 21**
-[Feign Death](feign-death)
+[Spell: Feign Death](feign-death)
 
 **Level 22**
-[Engulfing Darkness](engulfing-darkness)
-[Shadow Vortex](shadow-vortex)
+[Spell: Engulfing Darkness](engulfing-darkness)
+[Spell: Shadow Vortex](shadow-vortex)
 
 **Level 23**
-[Gather Shadows](gather-shadows)
-[Scent of Dusk](scent-of-dusk)
+[Spell: Gather Shadows](gather-shadows)
+[Spell: Scent of Dusk](scent-of-dusk)
 
 **Level 24**
-[Instill](instill)
-[Siphon Life](siphon-life)
+[Spell: Instill](instill)
+[Spell: Siphon Life](siphon-life)
 
 **Level 25**
-[Lesser Summon Corpse](lesser-summon-corpse)
-[Shadow Compact](shadow-compact)
-[Word of Spirit](word-of-spirit)
+[Spell: Lesser Summon Corpse](lesser-summon-corpse)
+[Spell: Shadow Compact](shadow-compact)
+[Spell: Word of Spirit](word-of-spirit)
 
 **Level 26**
-[Call Vampire Bat Swarm](call-vampire-bat-swarm)
-[Glamour](glamour)
+[Spell: Call Vampire Bat Swarm](call-vampire-bat-swarm)
+[Spell: Glamour](glamour)
 
 **Level 27**
-[Spirit Hex](spirit-hex)
-[Spirit Tap](spirit-tap)
+[Spell: Spirit Hex](spirit-hex)
+[Spell: Spirit Tap](spirit-tap)
 
 **Level 28**
-[Reparation](reparation)
+[Spell: Reparation](reparation)
 
 **Level 29**
-[Form of the Bat](form-of-the-bat)
+[Spell: Form of the Bat](form-of-the-bat)
