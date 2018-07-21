@@ -1,4 +1,4 @@
-<!-- TITLE: Spell Purebred Crystal Spider -->
+<!-- TITLE: Spell: Purebred Crystal Spider -->
 <!-- SUBTITLE:  -->
 
 **Level:** 36
