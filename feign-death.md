@@ -1,4 +1,10 @@
-<!-- TITLE: Feign Death -->
-<!-- SUBTITLE: Causes you to stop breathing and apepar dead to most creatures. -->
+<!-- TITLE: Spell: Feign Death -->
+<!-- SUBTITLE:  -->
+
+**Level:** 21
+
+**Subclass:** Vampire
+
+**Spell Effect:** Causes you to stop breathing and apepar dead to most creatures.
 
 # Header
