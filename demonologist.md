@@ -4,24 +4,24 @@
 # Spells
 
 **Level 20**
-[Call Minor Demon](call-minor-demon)
+[Spell: Call Minor Demon](call-minor-demon)
 
 **Level 21**
-[Scent of Shadow](scent-of-shadow)
+[Spell: Scent of Shadow](scent-of-shadow)
 
 **Level 22**
-[Screaming Terror](screaming-terror)
+[Spell: Screaming Terror](screaming-terror)
 
 **Level 23**
-[Energize Demon](energize-demon)
+[Spell: Energize Demon](energize-demon)
 
 **Level 24**
-[Call Serpent Gorgon](call-serpent-gorgon)
+[Spell: Call Serpent Gorgon](call-serpent-gorgon)
 
 **Level 26**
-[Invoke Ghast](invoke-ghast)
-[Spirit Tap](spirit-tap)
-[Touch of Health](touch-of-health)
+[Spell: Invoke Ghast](invoke-ghast)
+[Spell: Spirit Tap](spirit-tap)
+[Spell: Touch of Health](touch-of-health)
 
 **Level 30**
 [Spell: Demon Poison](spell-demon-poison)
