@@ -1,4 +1,4 @@
-<!-- TITLE: Spell Summon Corpse -->
+<!-- TITLE: Spell: Summon Corpse -->
 <!-- SUBTITLE:  -->
 
 **Level:** 34
