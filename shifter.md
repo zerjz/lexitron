@@ -13,10 +13,10 @@
 [Shift: Seahorse](shift-seahorse)
 
 **Level 23**
-[Hornet's Sting](hornet's-sting)
+[Spell: Hornet's Sting](hornet's-sting)
 
 **Level 25**
-[Snakebite](snakebite)
+[Spell: Snakebite](snakebite)
 
 **Level 26**
 [Shift: Lynx](shift-lynx)
@@ -25,7 +25,7 @@
 [Shift: Manticore](shift-manticore)
 
 **Level 28**
-[Acid Spit](acid-spit)
+[Spell: Acid Spit](acid-spit)
 
 **Level 30**
 [Skill: Lynx Rake](skill-lynx-rake)
