@@ -7,11 +7,23 @@ Ruled by the moody and sensual Queen Ssyrella, the S'Aquia sirens have learned a
 [en ebon arachnid](an-ebon-arachnid)
 [Armorer Sharpane](armorer-sharpane)
 [a bathing siren](a-bathing-siren)
+[a sleeping siren](a-sleeping-siren)
+[a sorcery bound sentinel](a-sorcery-bound-sentinel)
+[a S'Aquia dutchess](a-saquia-dutchess)
+[a S'Aquia noble](a-saquia-noble)
+[a S'Aquia siren](a-saquia-siren)
+[a S'Aquia thrall](a-saquia-thrall)
+[S'Aquia Fountain Spirit](saquia-fountain-spirit)
+[S'Aquia Speaker Sylan](saquia-speaker-sylan)
+
 
 
 # NPCs
 
 [a siren saleswoman](a-siren-saleswoman)
+[Donnalds the Real Pirate](donnalds-the-real-pirate)
+[Hardeep Uppal](hardeep-uppal)
+[Sergeant Bitterpike](sergeant-bitterpike)
 
 
 # Connections
