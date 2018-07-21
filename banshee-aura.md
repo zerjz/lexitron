@@ -1,4 +1,4 @@
-<!-- TITLE: Banshee Aura -->
+<!-- TITLE: Spell: Banshee Aura -->
 <!-- SUBTITLE:  -->
 
 **Level:** 20
