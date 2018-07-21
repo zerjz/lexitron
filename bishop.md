@@ -30,7 +30,7 @@
 [Spell: Symbol of Dinga](symbal-of-dinga)
 
 **Level 29**
-[Spell: Vow of Vehemence](vow-of-vehemence)
+[Scroll: Vow of Vehemence](vow-of-vehemence)
 [Spell: Complete Healing](complete-healing)
 
 **Level 35**
