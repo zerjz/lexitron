@@ -1,4 +1,4 @@
-<!-- TITLE: Spell Shroud Of Pain -->
+<!-- TITLE: Spell: Shroud Of Pain -->
 <!-- SUBTITLE:  -->
 
 **Level:** 37
