@@ -1,4 +1,10 @@
 <!-- TITLE: Spell: Panic The Dead -->
-<!-- SUBTITLE: Inspires fear in an undead opponent, causing them to flee. -->
+<!-- SUBTITLE:  -->
+
+**Level:** 26/25
+
+**Subclass:** Bishop/Demonologist
+
+**Spell Effect:** Inspires fear in an undead opponent, causing them to flee.
 
 # Header
