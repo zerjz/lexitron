@@ -1,4 +1,10 @@
 <!-- TITLE: Spell: Energize Demon -->
-<!-- SUBTITLE: Intensifies the power of your undead servant, increasing their strength, armor class, and attack speed. -->
+<!-- SUBTITLE:  -->
+
+**Level:** 23
+
+**Subclass:** Demonologist
+
+**Spell Effect:** Intensifies the power of your undead servant, increasing their strength, armor class, and attack speed.
 
 # Header
