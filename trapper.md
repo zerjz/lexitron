@@ -3,6 +3,14 @@
 
 # Traps and Skills
 
+**Traps**
+[Poison Spike Trap](poison-spike-trap)
+[Heavy Spike Trap](heavy-spike-trap)
+[Small Rope Trap](small-rope-trap)
+[Dart Trap](dart-trap)
+[Explosive Wooden Barrel](explosive-wooden-barrel)
+[Spider Egg Trap](spider-egg-trap)
+
 **Level 21**
 [Barbed Arrows](barbed-arrows)
 
