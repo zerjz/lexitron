@@ -32,3 +32,23 @@
 **Level 29**
 [Spell: Bolster Pet](bolster-pet)
 
+**Level 30**
+[Spell: Purify](spell-purify)
+[Spell: Tend Wounds](spell-tend-wounds)
+**Level 31**
+[Spell: Hyper Companion](spell-hyper-companion)
+**Level 32**
+[Spell: Invigoration](spell-invigoration)
+**Level 33**
+[Spell: Spirit of Vermin](spell-spirit-of-vermin)
+**Level 35**
+[Spell: Pack Treatment](spell-pack-treatment)
+**Level 36**
+[Spell: Purebred Crystal Spider](spell-purebred-crystal-spider)
+**Level 37**
+[Spell: Shepherd's Aura](spell-sheperds-aura)
+**Level 38**
+[Spell: Emboldened Bravery](spell-emboldened-bravery)
+**Level 39**
+[Spell: Griffin Hide](spell-griffin-hide)
+
