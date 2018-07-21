@@ -1,4 +1,4 @@
-<!-- TITLE: Spell: Nurtured Spirit --
+<!-- TITLE:Spell: Nurtured Spirit --
 <!-- SUBTITLE:  -->
 
 **Level:** 20
