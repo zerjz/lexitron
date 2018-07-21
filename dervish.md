@@ -4,31 +4,31 @@
 # Songs and Skills
 
 **Level 20**
-[Whirling Dervish](whirling-dervish)
+[Song: Whirling Dervish](whirling-dervish)
 
 **Level 21**
-[Blinding Speed](blinding-speed)
+[Song: Blinding Speed](blinding-speed)
 
 **Level 22**
-[Whirlwind Blade](whirlwind-blade)
+[Song: Whirlwind Blade](whirlwind-blade)
 
 **Level 23**
-[Nomad's Song of Travel](nomads-song-of-travel)
+[Song: Nomad's Song of Travel](nomads-song-of-travel)
 
 **Level 24**
-[Consonsant Chain](consonant-chain)
+[Song: Consonsant Chain](consonant-chain)
 
 **Level 25**
-[Samba of Swords](samba-of-swords)
+[Song: Samba of Swords](samba-of-swords)
 
 **Level 26**
-[Appalling Screech](appalling-screech)
+[Song: Appalling Screech](appalling-screech)
 
 **Level 27**
-[Warsong of 1000 Blades](warsong-of-1000-blades)
+[Song: Warsong of 1000 Blades](warsong-of-1000-blades)
 
 **Level 28**
-[Verses of Celerity](verses-of-celerity)
+[Song: Verses of Celerity](verses-of-celerity)
 
 **Level 29**
-[Cyclone of Blades](cyclone-of-blades)
+[Song: Cyclone of Blades](cyclone-of-blades)
