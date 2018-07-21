@@ -1,4 +1,10 @@
-<!-- TITLE: Shock Of The Seven Nights -->
-<!-- SUBTITLE: You shock your target with the power of Seven Nights, causing three waves of 90 damage to all creatures around your target. -->
+<!-- TITLE: Spell: Shock Of The Seven Nights -->
+<!-- SUBTITLE:  -->
+
+**Level:** 20
+
+**Subclass:** Vodouist
+
+**Spell Effect:** You shock your target with the power of Seven Nights, causing three waves of 90 damage to all creatures around your target.
 
 # Header
