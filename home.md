@@ -104,7 +104,7 @@ Rioshu, the Enchanted Woods
 Rushforth Ocean
 Sanglii, the Isle of Blood
 S'Aquia Water Temple
-S'Aquia, City of the Sirens
+[S'Aquia, City of the Sirens](saquia)
 Telvaz, the Misery Mire
 The Alchemy Chambers
 The Arena
