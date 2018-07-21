@@ -1,4 +1,4 @@
-<!-- TITLE: Harmshield -->
+<!-- TITLE: Spell: Harmshield -->
 <!-- SUBTITLE:  -->
 
 **Level:** 20
