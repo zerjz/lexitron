@@ -4,19 +4,21 @@
 # Spells
 
 **Level 20**
-[Baby Mantrap](baby-mantrap)
-[Greater Healing](greater-healing)
-[Nurtured Spirit](nurtured-spirit)
+[Spell: Baby Mantrap](baby-mantrap)
+[Spell: Nurtured Spirit](nurtured-spirit)
 
 **Level 21**
-[Thorny Vine](thorny-vine)
-[Tremor](tremor)
+[Spell: Thorny Vine](thorny-vine)
+[Spell: Tremor](tremor)
 
 **Level 22**
-[Sun's Rays](suns-rays)
+[Spell: Sun's Rays](suns-rays)
 
 **Level 24**
-[Ball of Sunlight](ball-of-sunlight)
+[Spell: Ball of Sunlight](ball-of-sunlight)
+
+**Level 26**
+[Spell: Greater Healing](greater-healing)
 
 **Level 29**
-[Cactus Spines](cactus-spines)
+[Spell: Cactus Spines](cactus-spines)
