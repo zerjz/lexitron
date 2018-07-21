@@ -1,4 +1,4 @@
-<!-- TITLE: Spell Surge Of Enfeeblement -->
+<!-- TITLE: Spell: Surge Of Enfeeblement -->
 <!-- SUBTITLE:  -->
 
 **Level:** 32
