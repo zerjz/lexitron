@@ -1,4 +1,4 @@
-<!-- TITLE: Spell Spirit Of Vermin -->
+<!-- TITLE: Spell: Spirit Of Vermin -->
 <!-- SUBTITLE:  -->
 
 **Level:** 33
