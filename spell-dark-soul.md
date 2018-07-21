@@ -1,4 +1,4 @@
-<!-- TITLE: Spell Dark Soul -->
+<!-- TITLE: Spell: Dark Soul -->
 <!-- SUBTITLE:  -->
 
 **Level:** 37
