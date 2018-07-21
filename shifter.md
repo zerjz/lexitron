@@ -26,3 +26,34 @@
 
 **Level 28**
 [Acid Spit](acid-spit)
+
+**Level 30**
+[Skill: Lynx Rake](skill-lynx-rake)
+
+**Level 31**
+[Spell: Manticore Sting](spell-manticore-sting)
+
+**Level 32**
+[Spell: Shared Gills](spell-shared-gills)
+
+**Level 33**
+[Spell: Cobra Venom](spell-cobra-venom)
+
+**Level 34**
+[Skill: Lynx Bite](skill-lynx-bite)
+
+**Level 35**
+[Skill: Hibernation](skill-hibernation)
+
+**Level 36**
+[Shift: Sonic Wolf](shift-sonic-wolf)
+
+**Level 37**
+[Spell: Howl at the Moon](spell-howl-at-the-moon)
+
+**Level 38**
+[Skill: Mongoose's Agility](skill-mongooses-agility)
+
+**Level 39**
+[Spell: Bile Spit](spell-bile-spit)
+**Level 40
