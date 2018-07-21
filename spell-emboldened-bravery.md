@@ -1,4 +1,4 @@
-<!-- TITLE: Spell Emboldened Bravery -->
+<!-- TITLE: Spell: Emboldened Bravery -->
 <!-- SUBTITLE:  -->
 
 **Level:** 38
