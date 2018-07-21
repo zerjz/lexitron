@@ -1,9 +1,9 @@
 <!-- TITLE: Spell: Spirit Tap -->
 <!-- SUBTITLE:  -->
 
-**Level:** 27
+**Level:** 26/27
 
-**Subclass:** Vampire
+**Subclass:** Demonologist/Vampire
 
 **Spell Effect:** Drains your target of life energy, siphoning between 202 and 210 hit points.
 
