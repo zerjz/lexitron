@@ -1,4 +1,4 @@
-<!-- TITLE: Spell Pack Treatment -->
+<!-- TITLE: Spell: Pack Treatment -->
 <!-- SUBTITLE:  -->
 
 **Level:** 35
