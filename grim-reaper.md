@@ -1,25 +1,28 @@
 <!-- TITLE: Grim Reaper -->
-<!-- SUBTITLE: Needs Better Description!  I guides the deads people to mordor!  -->
+<!-- SUBTITLE: Needs Better Description!  I guides the deadzors people to mordor!  -->
 
 # Spells
 **Level 30**
-[Spell: Demon Poison](spell-demon-poison)
-[Spell: Torbas Acid Blast](spell-torbas-acid-blast)
+[Spell: The Culling](spell-the-culling)
 
 **Level 32**
-[Spell: Surge of Enfeeblement](spell-surge-of-enfeeblement)
+[Spell: Dark Temptation](spell-dark-temptation)
+
+**Level 34**
+[Spell: Shroud of Hate](spell-shroud-of-hate)
+[Spell: Summon Corpse](spell-summon-corpse)
 
 **Level 35**
-[Spell: Scent of Darkness](spell-scent-of-darkness)
+[Spell: Blood of Pain](spell-blood-of-pain)
 
 **Level 36**
-[Spell: Shackle of Spirit](spell-shackle-of-spirit)
+[Spell: Scythe of Darkness](spell-scythe-of-darkness)
 
 **Level 37**
-[Spell: Dark Soul](spell-dark-soul)
+[Spell: Shroud of Pain](spell-shroud-of-pain)
 
 **Level 38**
-[Spell: Malignant Dead](spell-malignant-dead)
+[Spell: Mental Corruption](spell-mental-corruption)
 
 **Level 39**
-[Spell: Asystole](spell-asystole)
+[Spell: Abduction of Strength](spell-abduction-of-strength)
