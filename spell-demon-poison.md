@@ -1,4 +1,4 @@
-<!-- TITLE: Spell Demon Poison -->
+<!-- TITLE: Spell: Demon Poison -->
 <!-- SUBTITLE:  -->
 
 **Level:** 30
