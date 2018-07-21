@@ -1,4 +1,4 @@
-<!-- TITLE: Spell Scythe Of Darkness -->
+<!-- TITLE: Spell: Scythe Of Darkness -->
 <!-- SUBTITLE:  -->
 
 **Level:** 36
