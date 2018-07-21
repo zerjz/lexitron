@@ -1,4 +1,4 @@
-<!-- TITLE: Spell Torbas Acid Blast -->
+<!-- TITLE: Spell: Torbas Acid Blast -->
 <!-- SUBTITLE:  -->
 
 **Level:** 30
