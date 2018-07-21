@@ -1,7 +1,34 @@
 <!-- TITLE: Grim Reaper -->
-<!-- SUBTITLE: Needs Better Description!  I guides the deadzors people to mordor!  -->
+<!-- SUBTITLE: Every mortal has a doom, and those that usher the deceased to the afterlife are known as Grim Reapers.  Spectres of mortality, these entities move swiftly and silently through the mortal planes, sending chills down the spines of those they pass by.  -->
 
 # Spells
+**Level 20**
+[Harmshield](harmshield)
+[Word of Shadow](word-of-shadow)
+
+**Level 21**
+[Breath of the Dead](breath-of-the-dead)
+[Expedient Glide](expedient-glide)
+
+**Level 22**
+[Leatherskin](leatherskin)
+[The Harvest](the-harvest)
+
+**Level 23**
+[Reparation](reparation)
+[Rest the Dead](rest-the-dead)
+
+**Level 25**
+[Defoliation](defoliation)
+[Extract Soul Shard](extract-soul-shard)
+
+**Level 28**
+[Revive](revive)
+[The Silent Scythe](the-silent-scythe)
+
+**Level 29**
+[Corpseskin](corpseskin)
+
 **Level 30**
 [Spell: The Culling](spell-the-culling)
 
