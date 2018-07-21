@@ -1,7 +1,7 @@
 <!-- TITLE: Spell: Howl At The Moon -->
 <!-- SUBTITLE:  -->
 
-**Level:** 
+**Level:** 37
 
 **Subclass:** Shifter
 
