@@ -1,4 +1,10 @@
 <!-- TITLE: Spell: Guard -->
-<!-- SUBTITLE: Covers your target in a holy guard, increasing their armor class for 45 minutes. -->
+<!-- SUBTITLE:  -->
+
+**Level:** 25
+
+**Subclass:** Bishop
+
+**Spell Effect:** Covers your target in a holy guard, increasing their armor class for 45 minutes.
 
 # Header
