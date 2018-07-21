@@ -8,6 +8,7 @@
 [Illusion: Samhain Witch](illusion-samhain-witch)
 [Illusion: Scarecrow](illusion-scarecrow)
 [Shock of the Seven Nights](shock-of-the-seven-nights)
+[Throw Stone](throw-stone)
 
 **Level 21**
 [Li'l Evil Eye](li'l-evil-eye)
