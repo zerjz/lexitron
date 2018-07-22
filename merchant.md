@@ -2,6 +2,7 @@
 <!-- SUBTITLE: With a sharp mind and a penchant for sniffing out great deals, Merchants will be your greatest allies, or your worst enemies.  Time is money to these entrepreneurs and you will very seldomly find them wasting their time by remaining idle. -->
 
 # Skills
+Subclass of [Adventurer](adventurer)
 
 **Level 20**
 [Slip Unnoticed](slip-unnoticed)
