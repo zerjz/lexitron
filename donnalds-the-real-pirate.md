@@ -6,7 +6,7 @@
 ```perl
 Level: 
 ```
-> "I like to wave."
+> "I like to wave. Waves like the ocean."
 > *~Donnalds The Real Pirate*
 
 
