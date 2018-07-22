@@ -2,6 +2,7 @@
 <!-- SUBTITLE: A versatile adventurer with a compulsion to entrap their foes.  With some investment, these fighters can be just the strategic advantage a party will need to survive in Magnos. -->
 
 # Traps and Skills
+Subclass of [Archer](archer)
 
 **Traps**
 [Poison Spike Trap](poison-spike-trap)
