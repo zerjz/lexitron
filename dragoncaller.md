@@ -3,6 +3,8 @@
 
 # Spells and Skills
 
+Subclass of [Dragoon](dragoon)
+
 **Level 20**
 [Center](center)
 [Fiery Spirit](fiery-spirit)
