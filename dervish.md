@@ -3,6 +3,8 @@
 
 # Songs and Skills
 
+Subclass of [Bard](bard)
+
 **Level 20**
 [Song: Whirling Dervish](whirling-dervish)
 
