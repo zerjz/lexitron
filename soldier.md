@@ -2,6 +2,7 @@
 <!-- SUBTITLE: Rugged and battleworn fighter that has seen many a battlefield.  These legends of the field of war have finely honed their marksmanship and abilities to delivery critical strikes to their foes, crippling them with their overwhelming arsenal. -->
 
 # Spells
+Subclass of [Archer](archer)
 
 **Level 21**
 [Bombast](bombast)
