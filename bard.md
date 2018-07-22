@@ -3,5 +3,5 @@
 
 # Subclasses
 
-[Aristocrat](aristocrat)
+[Aristocrat](aristrocrat)
 [Dervish](dervish)
