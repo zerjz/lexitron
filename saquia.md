@@ -13,6 +13,7 @@ Ruled by the moody and sensual Queen Ssyrella, the S'Aquia sirens have learned a
 [a S'Aquia noble](a-saquia-noble)
 [a S'Aquia siren](a-saquia-siren)
 [a S'Aquia thrall](a-saquia-thrall)
+[Djinn Mistress Mocoly](djinn-mistress-mocoly)
 [S'Aquia Fountain Spirit](saquia-fountain-spirit)
 [S'Aquia Speaker Sylan](saquia-speaker-sylan)
 
