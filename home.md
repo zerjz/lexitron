@@ -80,7 +80,7 @@ Change is rapid in Magnos, and as the dimension grows in population, it expands 
 An'Nar, Court of the Ifrit
 Ar'ssarra, the Genie's Lamp
 Aurora Savanna
-Chambers of Forbidden Rituals
+[Chambers of Forbidden Rituals](ritualchamber)
 Club Crimson
 Daggerdepth Lake
 Dream Simulation: Seasons
