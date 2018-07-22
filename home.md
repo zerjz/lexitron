@@ -21,6 +21,7 @@ Change is rapid in Magnos, and as the dimension grows in population, it expands 
 [Bard](bard)
 [Dragoon](dragoon)
 [Enchanter](enchanter)
+[Knight](knight)
 [Monk](monk)
 [Necromancer](necromancer)
 [Occultist](occultist)
