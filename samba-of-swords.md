@@ -3,8 +3,8 @@
 
 **Level:** 25
 
-**Subclass:** Dervish
+**Subclass:** [Dervish](dervish)
 
-**Spell Effect:** This song erects a barrier of blades around you.  Grants increased mitigation to all melee attacks as well as a damage shield.
+**Song Effect:** This song erects a barrier of blades around you.  Grants increased mitigation to all melee attacks as well as a damage shield.
 
 # Header
