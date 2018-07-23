@@ -1,4 +1,10 @@
-<!-- TITLE: Neverlate -->
-<!-- SUBTITLE: Ensures your target won't be late, increasing their movement speed. -->
+<!-- TITLE: Spell: Neverlate -->
+<!-- SUBTITLE:  -->
+
+**Level:** 20
+
+**Subclass:** Chronomage
+
+**Spell Effect:** Ensures your target won't be late, increasing their movement speed.
 
 # Header
