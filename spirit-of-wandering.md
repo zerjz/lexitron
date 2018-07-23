@@ -1,4 +1,4 @@
-<!-- TITLE: Spirit Of Wandering -->
+<!-- TITLE: Spell: Spirit Of Wandering -->
 <!-- SUBTITLE:  -->
 
 **Level:** 10/28
