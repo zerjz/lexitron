@@ -1,6 +1,7 @@
 <!-- TITLE: Jeweler -->
 <!-- SUBTITLE: Connoisseurs of the finer things in life, Jewelers are master craftsmen that have a storied history of imbuing powerful enchantments into their priceless pieces.  To prove themselves capable in a fight, some Jewelers have taken to converting their priceless gems into ammunition of a most destructive nature. -->
 
+Subclass of [Enchanter](enchanter)
 # Spells
 
 **Level 20**
