@@ -3,7 +3,7 @@
 
 **Level:** 20
 
-**Subclass:** Chronomage
+**Subclass:** [Chronomage](chronomage)
 
 **Spell Effect:** Sends your target back through time to their bind point.
 
