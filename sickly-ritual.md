@@ -3,8 +3,8 @@
 
 **Level:** 22
 
-**Subclass:** Faustian
+**Subclass:** [Faustian](faustian)
 
-**Song Effect:** A forbidden word that causes between 239 and 239 damage to all nearby enemies.
+**Spell Effect:** A forbidden word that causes between 239 and 239 damage to all nearby enemies.
 
 # Header
