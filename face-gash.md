@@ -1,14 +1,10 @@
-<!-- TITLE: Face Gash -->
-<!-- SUBTITLE: A maiming strike that causes damage over time. -->
+<!-- TITLE: Skill: Face Gash -->
+<!-- SUBTITLE:  A maiming strike that causes damage over time.-->
 
-![Face Gash](/uploads/imp/face-gash.jpg "Face Gash")
-<!-- TITLE: Skill:  -->
-<!-- SUBTITLE:  -->
-
-**Level:** 2
+**Level:** 25
 
 **Subclass:** Imp
 
-**Spell Effect:**
+**Spell Effect:** Slices open your target's face, causing 60 damage initially and between 95 and 114 damage every six seconds for 0:00:36.
 
 # Header
