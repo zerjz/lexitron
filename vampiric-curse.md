@@ -1,4 +1,4 @@
-<!-- TITLE: Vampiric Curse -->
+<!-- TITLE: Spell: Vampiric Curse -->
 <!-- SUBTITLE:  -->
 
 **Level:** 26
