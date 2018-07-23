@@ -4,30 +4,30 @@
 # Spells
 
 **Level 20**
-[Memory Warp](memory-warp)
-[Neverlate](neverlate)
+[Spell: Memory Warp](memory-warp)
+[Spell: Neverlate](neverlate)
 
 **Level 21**
-[Clock Shock](clock-shock)
-[Time Rifts](time-rifts)
+[Spell: Clock Shock](clock-shock)
+[Spell: Time Rifts](time-rifts)
 
 **Level 22**
-[Age of Pain](age-of-pain)
-[Rapid Aging](rapid-aging)
+[Spell: Age of Pain](age-of-pain)
+[Spell: Rapid Aging](rapid-aging)
 
 **Level 23**
-[Heavy Legs](heavy-legs)
+[Spell: Heavy Legs](heavy-legs)
 
 **Level 24**
-[Pained Memories](pained-memories)
+[Spell: Pained Memories](pained-memories)
 
 **Level 25**
-[Slowed Minutes](slowed-minutes)
+[Spell: Slowed Minutes](slowed-minutes)
 
 **Level 26**
-[Cruel Cogs](cruel-cogs)
-[Forward Glimpse](forward-glimpse)
-[Time Shift: S'Aquia](time-shift-saquia)
+[Spell: Cruel Cogs](cruel-cogs)
+[Spell: Forward Glimpse](forward-glimpse)
+[Spell: Time Shift: S'Aquia](time-shift-saquia)
 
 **Level 27**
-[Time Lapse](time-lapse)
+[Spell: Time Lapse](time-lapse)
