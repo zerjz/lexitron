@@ -1,6 +1,7 @@
 <!-- TITLE: Shifter -->
 <!-- SUBTITLE: Quick and lithe.  Slow and brutish.  The Shifter is whatever it needs to be to survive.  Quick to adapt, the Shifter emulates the feral creatures of Magnos as it lays into it's foes with a ferocity unseen in the other classes.  -->
 
+Subclass of [Tamer](tamer)
 # Spells
 **Level 20**
 [Shift: Mammoth](shift-mammoth)
