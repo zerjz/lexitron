@@ -3,8 +3,8 @@
 
 **Level:** 21
 
-**Subclass:** Faustian
+**Subclass:** [Faustian](faustian)
 
-**Song Effect:** Your soul leaves, healing your body while draining your mana.
+**Spell Effect:** Your soul leaves, healing your body while draining your mana.
 
 # Header
