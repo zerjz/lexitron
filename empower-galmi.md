@@ -1,4 +1,10 @@
-<!-- TITLE: Empower Galmi -->
-<!-- SUBTITLE: Empower your galmi, increasing its damage and granting it the ability to punch its target for additional damage. -->
+<!-- TITLE: Spell: Empower Galmi -->
+<!-- SUBTITLE:  -->
+
+**Level:** 27
+
+**Subclass:** Geomancer
+
+**Spell Effect:** Empower your galmi, increasing its damage and granting it the ability to punch its target for additional damage.
 
 # Header
