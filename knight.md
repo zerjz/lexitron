@@ -1,8 +1,8 @@
 <!-- TITLE: Knight -->
 <!-- SUBTITLE: Chivalrous warriors that honor valor and courage above all else. -->
 
-# Skills
 Subclass of [Dragoon](dragoon)
+# Skills/Spells
 
 **Level 20**
 [Skill: Throw Stone](throw-stone)
