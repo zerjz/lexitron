@@ -3,8 +3,8 @@
 
 **Level:** 20
 
-**Subclass:** Dervish
+**Subclass:** [Dervish](dervish)
 
-**Spell Effect:** You assume the form of a whirling dervish with blades and weapons swirling around you.
+**Song Effect:** You assume the form of a whirling dervish with blades and weapons swirling around you.
 
 # Header
