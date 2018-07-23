@@ -1,6 +1,7 @@
 <!-- TITLE: Vampire -->
 <!-- SUBTITLE: It seems that every culture, no matter it's origin has a tale of these creatures.  Their names vary, but they all share the same things in common.  Beasts of the night that sustain themselves on the blood of their victims.  Vampires are powerful spell casters, capable of draining their victim's life energy to bolster their own. -->
 
+Subclass of [Priest](priest)
 # Spells
 
 **Level 20**
