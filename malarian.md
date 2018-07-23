@@ -5,6 +5,6 @@
 
 **Subclass:** Faustian
 
-**Song Effect:** Become a living malarian, granting levitate, movement speed, hit point regeneration and increased spell damage.
+**Spell Effect:** Become a living malarian, granting levitate, movement speed, hit point regeneration and increased spell damage.
 
 # Header
