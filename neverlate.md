@@ -3,7 +3,7 @@
 
 **Level:** 20
 
-**Subclass:** Chronomage
+**Subclass:** [Chronomage](chronomage)
 
 **Spell Effect:** Ensures your target won't be late, increasing their movement speed.
 
