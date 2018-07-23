@@ -5,20 +5,20 @@
 Subclass of [Alchemist](alchemist)
 
 **Level 20**
-[Feral Savagery](feral-savagery)
+[Spell: Feral Savagery](feral-savagery)
 
 **Level 21**
-[Apply Tropical Grass Poultice](apply-tropical-grass-poultice)
-[Malaria](malaria)
+[Skill: Apply Tropical Grass Poultice](apply-tropical-grass-poultice)
+[Spell: Malaria](malaria)
 
 **Level 22**
-[Spirit of Inferno](spirit-of-inferno)
+[Spell: Spirit of Inferno](spirit-of-inferno)
 
 **Level 23**
-[Totem's Curse](totems-curse)
+[Skill: Totem's Curse](totems-curse)
 
 **Level 25**
-[Spirit of Blizzard](spirit-of-blizzard)
+[Spell: Spirit of Blizzard](spirit-of-blizzard)
 
 **Level 26**
-[Spiritual Precision](spiritual-precision)
+[Spell: Spiritual Precision](spiritual-precision)
