@@ -3,7 +3,7 @@
 
 **Level:** 25
 
-**Subclass:** Breeder
+**Subclass:** [Breeder](breeder)
 
 **Spell Effect:** Hatches a baby griffin to attack your target for a set period of time.
 
