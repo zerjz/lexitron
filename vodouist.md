@@ -1,6 +1,7 @@
 <!-- TITLE: Vodouist -->
 <!-- SUBTITLE: Illusion, curses and hexes.  Vodouists are masters of the dark art of voodoo and know how to channel a grudge to their own gain. -->
 
+Subclass of [Witch](witch)
 # Spells
 
 **Level 20**
