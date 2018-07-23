@@ -1,4 +1,10 @@
-<!-- TITLE: Major Monster Summoning -->
-<!-- SUBTITLE: Summons a monster from your area to aid you in battle. -->
+<!-- TITLE: Spell: Major Monster Summoning -->
+<!-- SUBTITLE:  -->
+
+**Level:** 22
+
+**Subclass:** Etherealist
+
+**Spell Effect:** Summons a monster from your area to aid you in battle.
 
 # Header
