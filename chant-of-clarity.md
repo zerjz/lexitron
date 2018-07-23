@@ -1,4 +1,10 @@
 <!-- TITLE: Song: Chant Of Clarity -->
-<!-- SUBTITLE: A light melody that restores the mana of your group. -->
+<!-- SUBTITLE:  -->
+
+**Level:** 20
+
+**Subclass:** Aristocrat
+
+**Song Effect:** A light melody that restores the mana of your group.
 
 # Header
