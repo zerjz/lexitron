@@ -1,6 +1,7 @@
 <!-- TITLE: Puppetmaster -->
 <!-- SUBTITLE: Puppetmasters can appear to be quite charming, no pun intended, but beware, for they are masters of anima-controlling magic.  What could start as a simple puppet show may turn into a bloody affair if only the Puppetmaster willed it so.  Darker still, you may find yourself an unwilling participant in their little mummer's farce.   -->
 
+Subclass of [Enchanter](enchanter)
 # Spells
 
 **Level 20**
