@@ -1,4 +1,10 @@
-<!-- TITLE: Heart Of Gold -->
-<!-- SUBTITLE: Show that even the most shrewd of merchants is not without their kindness, even though it doesn't come free.  Reduces physical damage taken but increases magical damage taken on your target's group. -->
+<!-- TITLE: Skill: Heart Of Gold -->
+<!-- SUBTITLE:  -->
+
+**Level:** 28
+
+**Subclass:** Merchant
+
+**Spell Effect:** Show that even the most shrewd of merchants is not without their kindness, even though it doesn't come free.  Reduces physical damage taken but increases magical damage taken on your target's group.
 
 # Header
