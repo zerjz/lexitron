@@ -3,7 +3,7 @@
 
 **Level:** 20
 
-**Subclass:** Aristocrat
+**Subclass:** [Aristocrat](aristrocrat)
 
 **Song Effect:** A light melody that restores the mana of your group.
 
