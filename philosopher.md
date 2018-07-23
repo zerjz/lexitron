@@ -5,27 +5,27 @@
 Subclass of [Alchemist](alchemist)
 
 **Level 20**
-[Animate: Silver Golem](animate-silver-golem)
+[Spell: Animate: Silver Golem](animate-silver-golem)
 
 **Level 21**
-[Thinker's Focus](thinker's-focus)
+[Spell: Thinker's Focus](thinker's-focus)
 
 **Level 22**
-[Imbue Silver](imbue-silver)
+[Spell: Imbue Silver](imbue-silver)
 
 **Level 23**
-[Silverfist](silverfist)
+[Spell: Silverfist](silverfist)
 
 **Level 24**
-[Transmute Silver](transmute-silver)
+[Spell: Transmute Silver](transmute-silver)
 
 **Level 25**
 [Skill: Throw Large Flame Potion](throw-large-flame-potion)
-[Theory: Filter Water](theory-filter-water)
+[Spell: Theory: Filter Water](theory-filter-water)
 
 **Level 26**
 [Skill: Throw Sage Potion](throw-sage-potion)
 
 **Level 27**
-[Construct: Golden Golem](construct-golden-golem)
-[Copper Blitz](copper-blitz)
+[Spell: Construct: Golden Golem](construct-golden-golem)
+[Spell: Copper Blitz](copper-blitz)
