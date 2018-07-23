@@ -20,11 +20,11 @@ Subclass of [Alchemist](alchemist)
 [Transmute Silver](transmute-silver)
 
 **Level 25**
-[Throw Large Flame Potion](throw-large-flame-potion)
+[Skill: Throw Large Flame Potion](throw-large-flame-potion)
 [Theory: Filter Water](theory-filter-water)
 
 **Level 26**
-[Throw Sage Potion](throw-sage-potion)
+[Skill: Throw Sage Potion](throw-sage-potion)
 
 **Level 27**
 [Construct: Golden Golem](construct-golden-golem)
