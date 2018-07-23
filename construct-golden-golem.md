@@ -1,4 +1,10 @@
-<!-- TITLE: Construct Golden Golem -->
-<!-- SUBTITLE: Animates a golden golem from an ingot to assist you in combat. -->
+<!-- TITLE: Spell: Construct Golden Golem -->
+<!-- SUBTITLE:  -->
+
+**Level:** 27
+
+**Subclass:** Philosopher
+
+**Spell Effect:** Animates a golden golem from an ingot to assist you in combat.
 
 # Header
