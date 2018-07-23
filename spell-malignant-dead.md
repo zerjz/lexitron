@@ -3,7 +3,7 @@
 
 **Level:** 38
 
-**Subclass:** Demonologist
+**Subclass:** [Demonologist](demonologist)
 
 **Spell Effect:** Summons forth a demon from beyond to aid you in combat.
 
