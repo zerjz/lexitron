@@ -3,8 +3,8 @@
 
 **Level:** 29
 
-**Subclass:** Dervish
+**Subclass:** [Dervish](dervish)
 
-**Spell Effect:** A dark dirge that causes between 80 and 1000 damage to all enemies in an area around your target.
+**Song Effect:** A dark dirge that causes between 80 and 1000 damage to all enemies in an area around your target.
 
 # Header
