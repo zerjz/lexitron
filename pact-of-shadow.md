@@ -1,4 +1,4 @@
-<!-- TITLE: Pact Of Shadow -->
+<!-- TITLE: Spell: Pact Of Shadow -->
 <!-- SUBTITLE:  -->
 
 **Level:** 27
