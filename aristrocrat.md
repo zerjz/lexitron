@@ -1,8 +1,8 @@
 <!-- TITLE: Aristocrat -->
 <!-- SUBTITLE: Better than you at everything, or at least that's what they would have you believe.  Born into nobility and riches, the Aristocrat is often pompous, but that braggadocio was well earned.  Once upon a time they were a force to be reckoned with, but a vengeful force taught them humility and now these bards can be found aiding others, bolstering their abilities with songs and dirges. -->
 
-# Songs
 Subclass of [Bard](bard)
+# Songs
 
 **Level 20**
 [Song: Chant of Clarity](chant-of-clarity)
