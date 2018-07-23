@@ -1,4 +1,10 @@
 <!-- TITLE: Brunt End -->
-<!-- SUBTITLE: Fills your target's mind with shadowed terror, inciting hatred. -->
+<!-- SUBTITLE:  -->
+
+**Level:** 24
+
+**Subclass:** Samurai
+
+**Spell Effect:** Fills your target's mind with shadowed terror, inciting hatred.
 
 # Header
