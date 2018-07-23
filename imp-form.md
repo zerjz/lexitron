@@ -1,4 +1,10 @@
-<!-- TITLE: Imp Form -->
-<!-- SUBTITLE: Transform yourself into the visage of a diabolical imp, gaining increased abilities -->
+<!-- TITLE: Skill: Imp Form -->
+<!-- SUBTITLE:  -->
 
-![Imp Form](/uploads/imp-form.jpg "Imp Form")
+**Level:** 20
+
+**Subclass:** Imp
+
+**Spell Effect:** Transform yourself into the visage of a diabolical imp, gaining increased abilities
+
+# Header
