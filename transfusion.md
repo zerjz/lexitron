@@ -3,8 +3,8 @@
 
 **Level:** 20
 
-**Subclass:** Faustian
+**Subclass:** [Faustian](faustian)
 
-**Song Effect:** Restores your target's hit points at the expense of your own.
+**Spell Effect:** Restores your target's hit points at the expense of your own.
 
 # Header
