@@ -1,9 +1,9 @@
 <!-- TITLE: Spell: Earthquake -->
 <!-- SUBTITLE:  -->
 
-**Level:** 26
+**Level:** 24/26
 
-**Subclass:** Vodouist
+**Subclass:** Geomancer/Vodouist
 
 **Spell Effect:** Causes the earth to tremble around you, causing between 342 and 420 damage to all nearby enemies.
 
