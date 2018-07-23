@@ -3,8 +3,8 @@
 
 **Level:** 26
 
-**Subclass:** Faustian
+**Subclass:** [Faustian](faustian)
 
-**Song Effect:** Drains 73 of your target's life energy and transfers it to you ever 6 seconds for 54 seconds.
+**Spell Effect:** Drains 73 of your target's life energy and transfers it to you ever 6 seconds for 54 seconds.
 
 # Header
