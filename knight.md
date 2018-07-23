@@ -5,7 +5,7 @@
 Subclass of [Dragoon](dragoon)
 
 **Level 20**
-[Skill: Throw Stone](skill-throw-stone)
+[Skill: Throw Stone](throw-stone)
 [Spell: Center](center)
 
 **Level 21**
