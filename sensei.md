@@ -4,26 +4,26 @@
 # Skills
 
 **Level 21**
-[White Aura](white-aura)
+[Skill: White Aura](white-aura)
 
 **Level 22**
-[Valiance](valiance)
+[Skill: Valiance](valiance)
 
 **Level 23**
-[Calming Touch](calming-touch)
+[Skill: Calming Touch](calming-touch)
 
 **Level 25**
-[Calming Suggestion](calming-suggestion)
+[Skill: Calming Suggestion](calming-suggestion)
 
 **Level 26**
-[Icon](icon)
-[Resolve of Chastity](resolve-of-chastity)
+[Skill: Icon](icon)
+[Skill: Resolve of Chastity](resolve-of-chastity)
 
 **Level 27**
-[Equality](equality)
+[Skill: Equality](equality)
 
 **Level 28**
-[Rekindle](rekindle)
+[Skill: Rekindle](rekindle)
 
 **Level 29**
-[Perfect Calm](perfect-calm)
+[Skill: Perfect Calm](perfect-calm)
