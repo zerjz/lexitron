@@ -1,7 +1,9 @@
 <!-- TITLE: Breeder -->
 <!-- SUBTITLE: At odds with nature vs. nurture, the breeder seeks to control the wild in a harmonious and symbiotic fashion. Breeders foster young creatures into maturity and train them to aid adventurers in combat and around the homestead. Their attunement to nature has gifted them with abilities to mend and heal wounds, even as they make them. -->
 
+Subclass of [Tamer](tamer)
 # Spells
+
 **Level 20**
 [Spell: Healing](healing)
 [Spell: Invigor](invigor)
