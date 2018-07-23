@@ -3,7 +3,7 @@
 
 **Level:** 29
 
-**Subclass:** Bishop
+**Subclass:** [Bishop](bishop)
 
 **Spell Effect:** Sacrifice half of your healing ability to greatly boost your melee abilities.
 
