@@ -1,6 +1,7 @@
 <!-- TITLE: Sensei -->
 <!-- SUBTITLE: Nobility, tranquility and piety all rolled up into one being.  Do not take their benevolent ways for granted however, a Sensei is also a cruel instructor when it comes to pugilism. -->
 
+Subclass of [Monk](monk)
 # Skills
 
 **Level 21**
