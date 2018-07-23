@@ -3,8 +3,8 @@
 
 **Level:** 27
 
-**Subclass:** Dervish
+**Subclass:** [Dervish](dervish)
 
-**Spell Effect:** This warsong causes your weapons to move at unheard of speeds.  Increases your flurry chance while also boosting your chance to attack with both weapos and to attack twice witch each.
+**Song Effect:** This warsong causes your weapons to move at unheard of speeds.  Increases your flurry chance while also boosting your chance to attack with both weapos and to attack twice witch each.
 
 # Header
