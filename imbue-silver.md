@@ -1,4 +1,10 @@
-<!-- TITLE: Imbue Silver -->
-<!-- SUBTITLE: Imbues a silver ingot with magical energy.  Consumes a silver ingot when cast. -->
+<!-- TITLE: Spell: Imbue Silver -->
+<!-- SUBTITLE:  -->
+
+**Level:** 22
+
+**Subclass:** Philosopher
+
+**Spell Effect:** Imbues a silver ingot with magical energy.  Consumes a silver ingot when cast.
 
 # Header
