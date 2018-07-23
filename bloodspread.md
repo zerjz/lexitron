@@ -3,8 +3,8 @@
 
 **Level:** 25
 
-**Subclass:** Faustian
+**Subclass:** [Faustian](faustian)
 
-**Song Effect:** Balances the spirits of your group members, evening the wounds between your group, healing what wounds remain, and potentially removing the effects of harmful spells.
+**Spell Effect:** Balances the spirits of your group members, evening the wounds between your group, healing what wounds remain, and potentially removing the effects of harmful spells.
 
 # Header
