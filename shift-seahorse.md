@@ -1,4 +1,10 @@
 <!-- TITLE: Shift: Seahorse -->
-<!-- SUBTITLE: You shift into the form of a seahorse, granting you water breathing capabilities. -->
+<!-- SUBTITLE:  -->
+
+**Level:** 22
+
+**Subclass:** Shifter
+
+**Spell Effect:** You shift into the form of a seahorse, granting you water breathing capabilities.
 
 # Header
