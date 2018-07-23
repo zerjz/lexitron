@@ -1,4 +1,9 @@
-<!-- TITLE: Produce Water -->
-<!-- SUBTITLE: Focuses mana into the form of watery globes suitable for drinking. -->
+<!-- TITLE: Spell: Produce Water -->
+<!-- SUBTITLE:  -->
 
+**Level:** 22
+
+**Subclass:** Geomancer
+
+**Spell Effect:** Focuses mana into the form of watery globes suitable for drinking.
 # Header
