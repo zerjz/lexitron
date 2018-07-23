@@ -1,4 +1,10 @@
 <!-- TITLE: Spell: Milk Animal -->
-<!-- SUBTITLE: Summons a milking bucket, useful for gathering the milk of animals. -->
+<!-- SUBTITLE:  -->
+
+**Level:** 21
+
+**Subclass:** Breeder
+
+**Spell Effect:** Summons a milking bucket, useful for gathering the milk of animals.
 
 # Header
