@@ -1,8 +1,8 @@
 <!-- TITLE: Philosopher -->
 <!-- SUBTITLE: Forever chasing after the stone that embodies their namesakes, Philosopher's are constantly on the hunt for forbidden and lucrative discoveries.  Versed in arcana and science, these great thinkers will stop at nothing to push the boundaries of what is thought to be possible. -->
 
-# Spells, Skills and Theories
 Subclass of [Alchemist](alchemist)
+# Spells, Skills and Theories
 
 **Level 20**
 [Spell: Animate: Silver Golem](animate-silver-golem)
