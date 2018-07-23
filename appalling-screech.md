@@ -3,8 +3,8 @@
 
 **Level:** 26
 
-**Subclass:** Dervish
+**Subclass:** [Dervish](dervish)
 
-**Spell Effect:** A terrifying screech that causes nearby enemies to run in terror.
+**Song Effect:** A terrifying screech that causes nearby enemies to run in terror.
 
 # Header
