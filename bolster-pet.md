@@ -3,7 +3,7 @@
 
 **Level:** 29
 
-**Subclass:** Breeder
+**Subclass:** [Breeder](breeder)
 
 **Spell Effect:** Bolsters your pet, increasing their max hit points and armor class.
 
