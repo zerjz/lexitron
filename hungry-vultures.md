@@ -3,8 +3,8 @@
 
 **Level:** 24
 
-**Subclass:** Faustian
+**Subclass:** [Faustian](faustian)
 
-**Song Effect:** Calls the attention of a dark pack of hungry vultures to swarm your target and pick at their flesh.
+**Spell Effect:** Calls the attention of a dark pack of hungry vultures to swarm your target and pick at their flesh.
 
 # Header
