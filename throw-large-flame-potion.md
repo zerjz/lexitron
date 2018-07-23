@@ -1,4 +1,10 @@
 <!-- TITLE: Throw Large Flame Potion -->
-<!-- SUBTITLE: Throws an exploding potion at your target, causing between 92 and 130 damage. -->
+<!-- SUBTITLE:  -->
+
+**Level:** 25
+
+**Subclass:** Philosopher
+
+**Spell Effect:** Throws an exploding potion at your target, causing between 92 and 130 damage.
 
 # Header
