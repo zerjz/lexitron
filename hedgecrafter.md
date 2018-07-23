@@ -1,6 +1,7 @@
 <!-- TITLE: Hedgecrafter -->
 <!-- SUBTITLE: Indulging in a particularly eldritch form of gardening, Hedgecrafters are interesting specialists in phytomancy.  Capable of transforming living things into plants to bolster their regenerative abilities and manipulating all matter of flora and earth, bending them to the limits of their own imagination. -->
 
+Subclass of [Witch](witch)
 # Spells
 
 **Level 20**
