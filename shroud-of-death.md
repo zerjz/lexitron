@@ -1,4 +1,4 @@
-<!-- TITLE: Shroud Of Death -->
+<!-- TITLE: Spell: Shroud Of Death -->
 <!-- SUBTITLE:  -->
 
 **Level:** 27
