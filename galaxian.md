@@ -2,6 +2,7 @@
 <!-- SUBTITLE: Students of celestial magic, Galaxians are keen to harness cosmic power and bend it to their will to bring destruction upon their foes. -->
 
 # Spells
+Subclass of [Occultist](occultist)
 
 **Level 20**
 [Spell: Sunset Shield](sunset-shield)
