@@ -3,7 +3,7 @@
 
 **Level:** 26
 
-**Subclass:** Chronomage
+**Subclass:** [Chronomage](chronomage)
 
 **Spell Effect:** Causes a shift in time itself, transporting your group to S'Aquia, City of the Sirens in a future time.
 
