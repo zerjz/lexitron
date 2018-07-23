@@ -2,7 +2,7 @@
 <!-- SUBTITLE: The clash of swords is like sweet music to the ears of a Dervish.  To those they deem their prey, however, these manifestations of brutal elegance inspire only terror. -->
 
 Subclass of [Bard](bard)
-# Songs and Skills
+# Songs
 
 **Level 20**
 [Song: Whirling Dervish](whirling-dervish)
