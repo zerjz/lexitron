@@ -3,7 +3,7 @@
 
 **Level:** 26
 
-**Subclass:** Breeder
+**Subclass:** [Breeder](breeder)
 
 **Spell Effect:** Calls a trained purebred owlbear to your side to aid you in combat.
 
