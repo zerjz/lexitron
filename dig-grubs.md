@@ -1,14 +1,10 @@
-<!-- TITLE: Dig Grubs -->
-<!-- SUBTITLE: If worms are your thing... -->
+<!-- TITLE: Skill: Dig Grubs -->
+<!-- SUBTITLE:  If worms are your thing...-->
 
-![Dig Grubs](/uploads/imp/dig-grubs.jpg "Dig Grubs")
-<!-- TITLE: Skill:  -->
-<!-- SUBTITLE:  -->
-
-**Level:** 2
+**Level:** 24
 
 **Subclass:** Imp
 
-**Spell Effect:**
+**Spell Effect:** Reach into the bucket and pull out a handful of bait.
 
 # Header
