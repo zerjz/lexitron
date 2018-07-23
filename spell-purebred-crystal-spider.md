@@ -3,7 +3,7 @@
 
 **Level:** 36
 
-**Subclass:** Breeder
+**Subclass:** [Breeder](breeder)
 
 **Spell Effect:** Calls forth a purebred crystal spider to aid you in battle.
 
