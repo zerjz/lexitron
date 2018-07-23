@@ -1,6 +1,7 @@
 <!-- TITLE: Grim Reaper -->
 <!-- SUBTITLE: Every mortal has a doom, and those that usher the deceased to the afterlife are known as Grim Reapers.  Spectres of mortality, these entities move swiftly and silently through the mortal planes, sending chills down the spines of those they pass by.  -->
 
+Subclass of [Necromancer](necromancer)
 # Spells
 **Level 20**
 [Spell: Harmshield](harmshield)
