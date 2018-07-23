@@ -1,8 +1,8 @@
 <!-- TITLE: Ninja -->
 <!-- SUBTITLE: As swift as the night and silent as a shadow, Ninjas are stealthy fighters, trained in the ancient combat art of Ninjutsu.  Accomplished fighters in their own rights, Ninjas can hold their own on the battlefield, but excel at the darker arts of subterfuge, assassination and sabotage. -->
 
-# Skills
 Subclass of [Assassin](assassin)
+# Skills
 
 **Level 20**
 [Skill: Counterattack](counterattack)
