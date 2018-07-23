@@ -3,7 +3,7 @@
 
 **Level:** 26/25
 
-**Subclass:** Bishop/Demonologist
+**Subclass:** [Bishop](bishop)/[Demonologist](demonologist)
 
 **Spell Effect:** Inspires fear in an undead opponent, causing them to flee.
 
