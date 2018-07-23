@@ -1,4 +1,4 @@
-<!-- TITLE: Blood Sacrifice -->
+<!-- TITLE: Spell: Blood Sacrifice -->
 <!-- SUBTITLE:  -->
 
 **Level:** 28
