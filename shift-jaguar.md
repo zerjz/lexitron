@@ -1,4 +1,10 @@
 <!-- TITLE: Shift: Jaguar -->
-<!-- SUBTITLE: You shift into the form of a jaguar, greatly increasing your movement speed. -->
+<!-- SUBTITLE:  -->
+
+**Level:** 22
+
+**Subclass:** Shifter
+
+**Spell Effect:** You shift into the form of a jaguar, greatly increasing your movement speed.
 
 # Header
