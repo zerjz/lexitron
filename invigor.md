@@ -1,4 +1,10 @@
 <!-- TITLE: Spell: Invigor -->
-<!-- SUBTITLE: Restores endurance to your target over a short period of time. -->
+<!-- SUBTITLE:  -->
+
+**Level:** 9/20
+
+**Subclass:** Priest/Breeder
+
+**Spell Effect:** Restores endurance to your target over a short period of time.
 
 # Header
