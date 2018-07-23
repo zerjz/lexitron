@@ -1,4 +1,10 @@
-<!-- TITLE: Modulatig Rod -->
-<!-- SUBTITLE: Focuses mana into the form of a modulating rod, allowing the user to trade physical health for mental energy. -->
+<!-- TITLE: Spell: Modulatig Rod -->
+<!-- SUBTITLE:  -->
+
+**Level:** 24
+
+**Subclass:** Etherealist
+
+**Spell Effect:** Focuses mana into the form of a modulating rod, allowing the user to trade physical health for mental energy.
 
 # Header
