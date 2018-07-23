@@ -4,23 +4,23 @@
 # Spells
 
 **Level 20**
-[Benevolence](benevolence)
-[Citizen Puppet](citizen-puppet)
-[Illusion: Iksar](illusion-iksar)
+[Spell: Benevolence](benevolence)
+[Spell: Citizen Puppet](citizen-puppet)
+[Spell: Illusion: Iksar](illusion-iksar)
 
 **Level 21**
-[Chaos Flux](chaos-flux)
-[Illusion: Earth Elemental](illusion-earth-elemental)
+[Spell: Chaos Flux](chaos-flux)
+[Spell: Illusion: Earth Elemental](illusion-earth-elemental)
 
 **Level 22**
-[Strip Enchantment](strip-enchantment)
+[Spell: Strip Enchantment](strip-enchantment)
 
 **Level 25**
-[Feedback](feedback)
-[Instill](instill)
+[Spell: Feedback](feedback)
+[Spell: Instill](instill)
 
 **Level 27**
-[No Strings Attached](no-strings-attached)
+[Spell: No Strings Attached](no-strings-attached)
 
 **Level 28**
-[Attach Amicable Strings](attach-amicable-strings)
+[Spell: Attach Amicable Strings](attach-amicable-strings)
