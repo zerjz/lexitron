@@ -1,4 +1,10 @@
 <!-- TITLE: Enchant Pearlbone -->
-<!-- SUBTITLE: Enchants a pearlbone with magical energy. -->
+<!-- SUBTITLE:  -->
+
+**Level:** 21
+
+**Subclass:** Jeweler
+
+**Spell Effect:** Enchants a pearlbone with magical energy.
 
 # Header
