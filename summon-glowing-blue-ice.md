@@ -1,4 +1,10 @@
-<!-- TITLE: Summon Glowing Blue Ice -->
-<!-- SUBTITLE: Conjures forth moisture and magic from the air, solidifying into a chunk of glowing blue ice. -->
+<!-- TITLE: Spell: Summon Glowing Blue Ice -->
+<!-- SUBTITLE:  -->
+
+**Level:** 23
+
+**Subclass:** Geomancer
+
+**Spell Effect:** Conjures forth moisture and magic from the air, solidifying into a chunk of glowing blue ice.
 
 # Header
