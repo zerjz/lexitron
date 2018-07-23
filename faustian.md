@@ -4,34 +4,34 @@
 # Spells
 
 **Level 20**
-[Hemotransfer](hemotransfer)
-[Transfusion](transfusion)
+[Spell: Hemotransfer](hemotransfer)
+[Spell: Transfusion](transfusion)
 
 **Level 21**
-[Cell Regeneration](cell-regeneration)
-[Void Soul](void-soul)
+[Spell: Cell Regeneration](cell-regeneration)
+[Spell: Void Soul](void-soul)
 
 **Level 22**
-[Blood Fetish](blood-fetish)
-[Sickly Ritual](sickly-ritual)
+[Spell: Blood Fetish](blood-fetish)
+[Spell: Sickly Ritual](sickly-ritual)
 
 **Level 24**
-[Draw Blood](draw-blood)
-[Hungry Vultures](hungry-vultures)
-[Selfish Wishes](selfish-wishes)
+[Spell: Draw Blood](draw-blood)
+[Spell: Hungry Vultures](hungry-vultures)
+[Spell: Selfish Wishes](selfish-wishes)
 
 **Level 25**
-[Bloodspread](bloodspread)
+[Spell: Bloodspread](bloodspread)
 
 **Level 26**
-[Vampiric Curse](vampiric-curse)
+[Spell: Vampiric Curse](vampiric-curse)
 
 **Level 27**
-[Pact of Shadow](pact-of-shadow)
-[Shroud of Death](shroud-of-death)
+[Spell: Pact of Shadow](pact-of-shadow)
+[Spell: Shroud of Death](shroud-of-death)
 
 **Level 28**
-[Blood Sacrifice](blood-sacrifice)
+[Spell: Blood Sacrifice](blood-sacrifice)
 
 **Level 29**
-[Malarian](malarian)
+[Spell: Malarian](malarian)
