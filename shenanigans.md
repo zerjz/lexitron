@@ -1,14 +1,10 @@
-<!-- TITLE: Shenanigans -->
+<!-- TITLE: Skill: Shenanigans -->
 <!-- SUBTITLE: When you absolutely, positively, just have to be a flaming nuisance. -->
 
-![Shenanigans](/uploads/imp/shenanigans.jpg "Shenanigans")
-<!-- TITLE: Skill:  -->
-<!-- SUBTITLE:  -->
-
-**Level:** 2
+**Level:** 27
 
 **Subclass:** Imp
 
-**Spell Effect:**
+**Spell Effect:** Play a trick on your opponent, gaining agro.  The next time an enemy lands a hit on you they will be hit with a massive damage shield and you will fade from their eyes, dropping your threat.
 
 # Header
