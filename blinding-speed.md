@@ -3,8 +3,8 @@
 
 **Level:** 21
 
-**Subclass:** Dervish
+**Subclass:** [Dervish](dervish)
 
-**Spell Effect:** Focuses energy into your arms, increasing your attack speed.
+**Song Effect:** Focuses energy into your arms, increasing your attack speed.
 
 # Header
