@@ -1,8 +1,8 @@
 <!-- TITLE: Faustian -->
 <!-- SUBTITLE: Practicioners of the occult often find themselves at an impasse at some point during their intellectual pursuits.  Some hammer away at the wall and become great occultists in their own right.  Others find a way to bypass the wall entirely. Faustians gain a great deal of power by making a pact with extraplanar entities, specifically demons.  Obviously this can be problematic.-->
 
-# Spells
 Subclass of [Occultist](occultist)
+# Spells
 
 **Level 20**
 [Spell: Hemotransfer](hemotransfer)
