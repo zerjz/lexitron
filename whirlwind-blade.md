@@ -3,8 +3,8 @@
 
 **Level:** 22
 
-**Subclass:** Dervish
+**Subclass:** [Dervish](dervish)
 
-**Spell Effect:** Executes a whirlwind attack, doing minor damage to all nearby targets.  Enemies find this attack especially infuriating.
+**Song Effect:** Executes a whirlwind attack, doing minor damage to all nearby targets.  Enemies find this attack especially infuriating.
 
 # Header
