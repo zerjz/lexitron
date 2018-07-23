@@ -1,4 +1,10 @@
-<!-- TITLE: Thick Skin -->
-<!-- SUBTITLE: Increases your armor class. -->
+<!-- TITLE: Skill: Thick Skin -->
+<!-- SUBTITLE:  -->
+
+**Level:** 28
+
+**Subclass:** Warrior
+
+**Spell Effect:** Increases your armor class.
 
 # Header
