@@ -3,7 +3,7 @@
 
 **Level:** 21
 
-**Subclass:** Breeder
+**Subclass:** [Breeder](breeder)
 
 **Spell Effect:** Summons a milking bucket, useful for gathering the milk of animals.
 
