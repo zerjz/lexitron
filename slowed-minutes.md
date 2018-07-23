@@ -3,7 +3,7 @@
 
 **Level:** 25
 
-**Subclass:** Chronomage
+**Subclass:** [Chronomage](chronomage)
 
 **Spell Effect:** The minutes drag by slowly, slowing your target's attack rate.
 
