@@ -1,4 +1,10 @@
 <!-- TITLE: Song: Samba Of Swords -->
-<!-- SUBTITLE: This song erects a barrier of blades around you.  Grants increased mitigation to all melee attacks as well as a damage shield. -->
+<!-- SUBTITLE:  -->
+
+**Level:** 25
+
+**Subclass:** Dervish
+
+**Spell Effect:** This song erects a barrier of blades around you.  Grants increased mitigation to all melee attacks as well as a damage shield.
 
 # Header
