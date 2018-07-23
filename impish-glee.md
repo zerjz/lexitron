@@ -1,14 +1,10 @@
-<!-- TITLE: Impish Glee -->
-<!-- SUBTITLE: Strike your foe, causing them to take damage over time while you relish in their misery, increasing your endurance and health regeneration. -->
+<!-- TITLE: Skill: Impish Glee -->
+<!-- SUBTITLE:  Strike your foe, causing them to take damage over time while you relish in their misery, increasing your endurance and health regeneration.-->
 
-![Impish Glee](/uploads/imp/impish-glee.jpg "Impish Glee")
-<!-- TITLE: Skill:  -->
-<!-- SUBTITLE:  -->
-
-**Level:** 2
+**Level:** 24
 
 **Subclass:** Imp
 
-**Spell Effect:**
+**Spell Effect:** Being an imp isn't all fun and games, but it mostly is.  Sap the happiness from your target, doing damage over time while increasing your hit point and endurance regeneration.
 
 # Header
