@@ -1,4 +1,4 @@
 <!-- TITLE: Knight -->
-<!-- SUBTITLE: A quick summary of Knight -->
+<!-- SUBTITLE: Chivalrous warriors that honor valor and courage above all else.
 
 # Skills
