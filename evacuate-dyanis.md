@@ -3,7 +3,7 @@
 
 **Level:** 24
 
-**Subclass:** Galaxian
+**Subclass:** [Galaxian](galaxian)
 
 **Spell Effect:** Evacuates your party to Dyanis, the Fields of Gold.
 
