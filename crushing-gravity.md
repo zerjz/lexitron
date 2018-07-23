@@ -3,7 +3,7 @@
 
 **Level:** 23
 
-**Subclass:** Galaxian
+**Subclass:** [Galaxian](galaxian)
 
 **Spell Effect:** Crushes your target under unimaginable gravity, rooting them in place and dealing a small amount of damage over time.
 
