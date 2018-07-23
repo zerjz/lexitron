@@ -1,6 +1,7 @@
 <!-- TITLE: Chronomage -->
 <!-- SUBTITLE: Masters of time manipulation, Chronomages can be your greatest ally or your mightiest foe.  Capable of reducing buildings to sand in the blink of an eye or granting allies the ability to move at incredible speeds, these masters of time are truly a force to be reckoned with. -->
 
+Subclass of [Sorcerer](sorcerer)
 # Spells
 
 **Level 20**
