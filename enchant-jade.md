@@ -1,4 +1,10 @@
 <!-- TITLE: Enchant Jade -->
-<!-- SUBTITLE: Magically enchants a piece of Ancient Jade -->
+<!-- SUBTITLE:  -->
+
+**Level:** 21
+
+**Subclass:** Jeweler
+
+**Spell Effect:** Magically enchants a piece of Ancient Jade
 
 # Header
