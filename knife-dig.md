@@ -1,14 +1,10 @@
-<!-- TITLE: Knife Dig -->
-<!-- SUBTITLE: A deep strike that can cause bleeding and set your target up for successive attacks. -->
-
-![Knife Dig](/uploads/knife-dig.jpg "Knife Dig")
-<!-- TITLE: Skill:  -->
+<!-- TITLE: Skill: Knife Dig-->
 <!-- SUBTITLE:  -->
 
-**Level:** 2
+**Level:** 22
 
 **Subclass:** Imp
 
-**Spell Effect:**
+**Spell Effect:** Stabs your target, dealing piercing damage.  This attack has a chance to expose a weakness in your opponent's defenses, causing your next backstab to be a critical strike and cause them to bleed internally.
 
 # Header
