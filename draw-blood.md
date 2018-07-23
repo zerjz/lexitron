@@ -3,8 +3,8 @@
 
 **Level:** 24
 
-**Subclass:** Faustian
+**Subclass:** [Faustian](faustian)
 
-**Song Effect:** You draw blood from your veins, filling a bottle for later use.  This spell requires a Glass Bottle to cast.
+**Spell Effect:** You draw blood from your veins, filling a bottle for later use.  This spell requires a Glass Bottle to cast.
 
 # Header
