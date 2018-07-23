@@ -3,7 +3,7 @@
 
 **Level:** 30
 
-**Subclass:** Breeder
+**Subclass:** [Breeder](breeder)
 
 **Spell Effect:** A brief prayer that cleanses corruption from yourself.
 
