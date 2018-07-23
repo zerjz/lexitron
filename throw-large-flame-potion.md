@@ -1,4 +1,4 @@
-<!-- TITLE: Throw Large Flame Potion -->
+<!-- TITLE: Skill: Throw Large Flame Potion -->
 <!-- SUBTITLE:  -->
 
 **Level:** 25
