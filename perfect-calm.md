@@ -1,4 +1,10 @@
-<!-- TITLE: Perfect Calm -->
-<!-- SUBTITLE: Block all pain out from the minds of you and your party members for a brief period of time. -->
+<!-- TITLE: Skill: Perfect Calm -->
+<!-- SUBTITLE:  -->
+
+**Level:** 29
+
+**Subclass:** Sensei
+
+**Spell Effect:** Block all pain out from the minds of you and your party members for a brief period of time.
 
 # Header
