@@ -1,6 +1,7 @@
 <!-- TITLE: Samurai -->
 <!-- SUBTITLE: The way of the blade, ronin or not, the Samurai is a noble swordsman that lives and dies by the sword. -->
 
+Subclass of [Monk](monk)
 # Skills
 
 **Level 21**
