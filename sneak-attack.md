@@ -1,14 +1,10 @@
-<!-- TITLE: Sneak Attack -->
-<!-- SUBTITLE: A skilled attack for empowering backstabs. -->
-
-![Sneak Attack](/uploads/imp/sneak-attack.jpg "Sneak Attack")
-<!-- TITLE: Skill:  -->
+<!-- TITLE: Skill: Sneak Attack -->
 <!-- SUBTITLE:  -->
 
-**Level:** 2
+**Level:** 23
 
 **Subclass:** Imp
 
-**Spell Effect:**
+**Spell Effect:** You take careful aim at your opponent, causing your next backstab to never miss and cause greater damage.  You may only prepare for a sneak attack after being hidden for a few seconds.  Once visible you must attack quickly or else lose your advantage.
 
 # Header
