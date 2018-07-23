@@ -1,4 +1,4 @@
-<!-- TITLE: Malarian -->
+<!-- TITLE: Spell: Malarian -->
 <!-- SUBTITLE:  -->
 
 **Level:** 29
