@@ -3,8 +3,8 @@
 
 **Level:** 24
 
-**Subclass:** Dervish
+**Subclass:** [Dervish](dervish)
 
-**Spell Effect:** This song engulfs your target in magical bonds, slowing their movement speed.
+**Song Effect:** This song engulfs your target in magical bonds, slowing their movement speed.
 
 # Header
