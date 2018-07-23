@@ -1,8 +1,8 @@
 <!-- TITLE: Imp -->
 <!-- SUBTITLE: Mischief is the name of the game for these devilish rogues.  Always up for some shenanigans, if you find yourself in a den of thieves or a rowdy crowd, clutch your coinpurse closely because it may get swapped for an angry beehive, grenade or other unpleasant surprise. -->
 
-# Skills
 Subclass of [Assassin](assassin)
+# Skills
 
 **Level 20**
 [Skill: Imp Form](imp-form)
