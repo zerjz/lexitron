@@ -1,4 +1,10 @@
-<!-- TITLE: Rime Galmi -->
-<!-- SUBTITLE: Summons a powerful rime galmi to aid you in battle.  Consumes white chalk when cast. -->
+<!-- TITLE: Spell: Rime Galmi -->
+<!-- SUBTITLE:  -->
+
+**Level:** 24
+
+**Subclass:** Geomancer
+
+**Spell Effect:** Summons a powerful rime galmi to aid you in battle.  Consumes white chalk when cast.
 
 # Header
