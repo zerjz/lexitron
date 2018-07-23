@@ -5,24 +5,24 @@
 Subclass of [Assassin](assassin)
 
 **Level 20**
-[Counterattack](counterattack)
-[Deadly Aim](deadly-aim)
-[Summon Prismatic Dye](summon-prismatic-dye)
-[Throw Stone](throw-stone)
+[Skill: Counterattack](counterattack)
+[Skill: Deadly Aim](deadly-aim)
+[Skill: Summon Prismatic Dye](summon-prismatic-dye)
+[Skill: Throw Stone](throw-stone)
 
 **Level 21**
-[Starstrike](starstrike)
-[Suspend](suspend)
+[Skill: Starstrike](starstrike)
+[Skill: Suspend](suspend)
 
 **Level 22**
-[Hundred Hands](hundred-hands)
-[Smoke Bomb I](smoke-bomb-i)
+[Skill: Hundred Hands](hundred-hands)
+[Skill: Smoke Bomb I](smoke-bomb-i)
 
 **Level 23**
-[Deftly Dodge](deftly-dodge)
+[Skill: Deftly Dodge](deftly-dodge)
 
 **Level 26**
-[Shadow Step](shadow-step)
+[Skill: Shadow Step](shadow-step)
 
 **Level 28**
-[Weightless Body](weightless-body)
+[Skill: Weightless Body](weightless-body)
