@@ -2,6 +2,8 @@
 <!-- SUBTITLE: In a world without Gods it is passing strange to see so many of the devout.  Bishops offer their flock a safe space to practice their religions, no matter where they came from. Armed with divine power and blessings unknowable, Bishops roam the world offering aid to those in need.-->
 
 # Spells
+Subclass of [Priest](priest)
+
 **Level 20**
 [Spell: Greater Healing](greater-healing)
 [Spell: Ward of Vie](ward-of-vie)
