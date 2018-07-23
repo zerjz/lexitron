@@ -1,6 +1,7 @@
 <!-- TITLE: Sage -->
 <!-- SUBTITLE: Masters of mana manipulation, Sages are invaluable resources for those addicted to the enhancing abilities of mana.  Often pompous and arrogant, Sages stop at nothing to tease out the secrets of mana and sorcery, considering other pursuits to be wholly beneath them. -->
 
+Subclass of [Sorcerer](sorcerer)
 # Spells
 
 **Level 20**
