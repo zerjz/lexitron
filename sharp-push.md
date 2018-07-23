@@ -5,6 +5,6 @@
 
 **Subclass:** Imp
 
-**Spell Effect:** A stunning strike.
+**Spell Effect:** Strikes your target with energy, stunning them briefly and causing between 96 and 175 damage.
 
 # Header
