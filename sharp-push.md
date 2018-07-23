@@ -1,4 +1,10 @@
-<!-- TITLE: Sharp Push -->
-<!-- SUBTITLE: A stunning strike. -->
+<!-- TITLE: Skill: Sharp Push -->
+<!-- SUBTITLE:  -->
 
-![Sharp Push](/uploads/sharp-push.jpg "Sharp Push")
+**Level:** 21
+
+**Subclass:** Imp
+
+**Spell Effect:** A stunning strike.
+
+# Header
