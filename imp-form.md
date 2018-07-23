@@ -5,6 +5,6 @@
 
 **Subclass:** Imp
 
-**Spell Effect:** Transform yourself into the visage of a diabolical imp, gaining increased abilities
+**Spell Effect:** Cloaks your self in the image of an imp, allowing them levitation, increased fire resistance, and a chance to perform an enraging attack.
 
 # Header
