@@ -5,26 +5,26 @@
 Subclass of [Archer](archer)
 
 **Level 21**
-[Bombast](bombast)
+[Skill: Bombast](bombast)
 
 **Level 22**
-[Reactive Armor](reactive-armor)
+[Spell: Reactive Armor](reactive-armor)
 
 **Level 23**
-[Homing Missile](homing-missile)
+[Spell: Homing Missile](homing-missile)
 
 **Level 24**
-[Net Launch](net-launch)
+[Spell: Net Launch](net-launch)
 
 **Level 25**
-[Throw Small Incendiary Grenade](throw-small-incendiary-grenade)
+[Skill: Throw Small Incendiary Grenade](throw-small-incendiary-grenade)
 
 **Level 27**
-[Buckshot Blast](buckshot-blast)
-[Deploy Autoturret](deploy-autoturret)
+[Skill: Buckshot Blast](buckshot-blast)
+[Spell: Deploy Autoturret](deploy-autoturret)
 
 **Level 28**
-[Spirit of Wandering](spirit-of-wandering)
+[Spell: Spirit of Wandering](spirit-of-wandering)
 
 **Level 29**
-[Full Metal Jacket](full-metal-jacket)
+[Spell: Full Metal Jacket](full-metal-jacket)
