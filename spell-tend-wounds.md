@@ -3,7 +3,7 @@
 
 **Level:** 30
 
-**Subclass:** Breeder
+**Subclass:** [Breeder](breeder)
 
 **Spell Effect:** Tend the wounds of your target ally as well as your pet.
 
