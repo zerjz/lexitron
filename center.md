@@ -1,7 +1,7 @@
 <!-- TITLE: Spell: Center -->
 <!-- SUBTITLE:  -->
 
-**Level:** 7/20
+**Level:** 20/7
 
 **Subclass:** Knight/Priest
 
