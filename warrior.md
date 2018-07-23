@@ -1,8 +1,8 @@
 <!-- TITLE: Warrior -->
 <!-- SUBTITLE: Quick to anger, and quicker still to lash out.  Warriors embody the fighter's spirit and are always eager to jump into battle, even when the odds are against them.   -->
 
-# Skills
 Subclass of [Adventurer](adventurer)
+# Skills
 
 **Level 20**
 [Skill: Provoke](provoke)
