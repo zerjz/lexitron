@@ -1,9 +1,8 @@
 <!-- TITLE: Dragoncaller -->
 <!-- SUBTITLE: To be a Dragoncaller one must know what it is to be a dragon.  These warriors have studied their draconic allies with a feverish intensity and have crafted a fighting style completely unique to their caste.  To become a full fledged Dragoncaller, students of the art will have to befriend and summon their own scaled guardian to become fully initiated. -->
 
-# Spells and Skills
-
 Subclass of [Dragoon](dragoon)
+# Spells and Skills
 
 **Level 20**
 [Center](center)
