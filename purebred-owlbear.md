@@ -1,4 +1,10 @@
 <!-- TITLE: Spell: Purebred Owlbear -->
-<!-- SUBTITLE: Calls a trained purebred owlbear to your side to aid you in combat. -->
+<!-- SUBTITLE:  -->
+
+**Level:** 26
+
+**Subclass:** Breeder
+
+**Spell Effect:** Calls a trained purebred owlbear to your side to aid you in combat.
 
 # Header
