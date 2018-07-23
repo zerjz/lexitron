@@ -1,4 +1,10 @@
 <!-- TITLE: Spell: Hearty Aura -->
-<!-- SUBTITLE: Surrounds your target with a hearty aura, increasing their total hitpoints. -->
+<!-- SUBTITLE:  -->
+
+**Level:** 24
+
+**Subclass:** Breeder
+
+**Spell Effect:** Surrounds your target with a hearty aura, increasing their total hitpoints.
 
 # Header
