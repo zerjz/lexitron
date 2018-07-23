@@ -3,8 +3,8 @@
 
 **Level:** 24
 
-**Subclass:** Faustian
+**Subclass:** [Faustian](faustian)
 
-**Song Effect:** Selfishly bolsters your own hitpoints and armor class for 45 minutes.
+**Spell Effect:** Selfishly bolsters your own hitpoints and armor class for 45 minutes.
 
 # Header
