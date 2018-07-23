@@ -5,20 +5,20 @@
 Subclass of [Adventurer](adventurer)
 
 **Level 20**
-[Slip Unnoticed](slip-unnoticed)
+[Skill: Slip Unnoticed](slip-unnoticed)
 
 **Level 21**
-[Snaring Rope](snaring-rope)
+[Skill: Snaring Rope](snaring-rope)
 
 **Level 22**
-[Silverflip](silverflip)
+[Skill: Silverflip](silverflip)
 
 **Level 25**
-[Dressed to Impress](dressed-to-impress)
-[Time is Money](time-is-money)
+[Skill: Dressed to Impress](dressed-to-impress)
+[Skill: Time is Money](time-is-money)
 
 **Level**
-[Heart of Gold](heart-of-gold)
+[Skill: Heart of Gold](heart-of-gold)
 
 **Level 29**
-[Economic Recovery](economic-recovery)
+[Skill: Economic Recovery](economic-recovery)
