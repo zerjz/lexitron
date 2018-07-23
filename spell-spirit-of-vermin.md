@@ -3,7 +3,7 @@
 
 **Level:** 33
 
-**Subclass:** Breeder
+**Subclass:** [Breeder](breeder)
 
 **Spell Effect:** Fills your warder with the spirit of vermin, increasing their dexterity, as well as providing them a chance to perform a disease attack.
 
