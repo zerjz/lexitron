@@ -4,31 +4,31 @@
 # Spells
 
 **Level 20**
-[Root](root)
-[Sediment Galmi](sediment-galmi)
+[Spell: Root](root)
+[Spell: Sediment Galmi](sediment-galmi)
 
 **Level 21**
-[Stone Barrier](stone-barrier)
+[Spell: Stone Barrier](stone-barrier)
 
 **Level 22**
-[Malaise](malaise)
-[Produce Water](produce-water)
+[Spell: Malaise](malaise)
+[Spell: Produce Water](produce-water)
 
 **Level 23**
-[Refreshing Water Globe](refreshing-water-globe)
-[Shock of Spikes](shock-of-spikes)
-[Summon: Glowing Blue Ice](summon-glowing-blue-ice)
+[Spell: Refreshing Water Globe](refreshing-water-globe)
+[Spell: Shock of Spikes](shock-of-spikes)
+[Spell: Summon: Glowing Blue Ice](summon-glowing-blue-ice)
 
 **Level 24**
-[Earthquake](earthquake)
-[Form Icicle](form-icicle)
-[Rime Galmi](rime-galmi)
+[Spell: Earthquake](earthquake)
+[Spell: Form Icicle](form-icicle)
+[Spell: Rime Galmi](rime-galmi)
 
 **Level 26**
-[Glacier Smash](glacier-smash)
+[Spell: Glacier Smash](glacier-smash)
 
 **Level 27**
-[Empower Galmi](empower-galmi)
+[Spell: Empower Galmi](empower-galmi)
 
 **Level 29**
-[Fists of Stone](fists-of-stone)
+[Spell: Fists of Stone](fists-of-stone)
