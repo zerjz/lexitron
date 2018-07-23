@@ -1,7 +1,7 @@
 <!-- TITLE: Spell: Invigoration -->
 <!-- SUBTITLE:  -->
 
-**Level:** 32
+**Level:** 32/32
 
 **Subclass:** [Breeder](breeder)/[Bishop](bishop)
 
