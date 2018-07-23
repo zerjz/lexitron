@@ -1,4 +1,10 @@
 <!-- TITLE: Spirit Of Wandering -->
-<!-- SUBTITLE: Infuses your target with the spirit of wandering, increasing their movement speed. -->
+<!-- SUBTITLE:  -->
+
+**Level:** 10/28
+
+**Subclass:** Soldier/Witch
+
+**Spell Effect:** Infuses your target with the spirit of wandering, increasing their movement speed.
 
 # Header
