@@ -1,4 +1,10 @@
-<!-- TITLE: Summon Phantom Chain -->
-<!-- SUBTITLE: Focuses mana into the form of a pack of phantom chain mail. -->
+<!-- TITLE: Spell: Summon Phantom Chain -->
+<!-- SUBTITLE:  -->
+
+**Level:** 25
+
+**Subclass:** Etherealist
+
+**Spell Effect:** Focuses mana into the form of a pack of phantom chain mail.
 
 # Header
