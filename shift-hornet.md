@@ -3,8 +3,8 @@
 
 **Level:** 21
 
-**Subclass:** Shifter
+**Subclass:** [Shifter](shifter)
 
-**Spell Effect:** You shift into a hornet, greatly increasing your melee damage as well as the amount of hate you gain in combat.
+**Shift Effect:** You shift into a hornet, greatly increasing your melee damage as well as the amount of hate you gain in combat.
 
 # Header
