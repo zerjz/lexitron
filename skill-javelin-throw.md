@@ -3,8 +3,8 @@
 
 **Level:** 28
 
-**Subclass:** Knight
+**Subclass:** [Knight](knight)
 
-**Spell Effect:** Throw a massive bolt at your enemy.
+**Skill Effect:** Throw a massive bolt at your enemy.
 
 # Header
