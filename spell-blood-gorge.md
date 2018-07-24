@@ -1,4 +1,4 @@
-<!-- TITLE: Spell Blood Gorge -->
+<!-- TITLE: Spell: Blood Gorge -->
 <!-- SUBTITLE:  -->
 
 **Level:** 32
