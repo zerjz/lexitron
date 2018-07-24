@@ -27,3 +27,34 @@ Subclass of [Occultist](occultist)
 
 **Level 27**
 [Spell: Luminary Equilibrium](luminary-equilibrium)
+
+**Level 30**
+[Spell: Supernova](spell-supernova)
+[Spell: Darken Skies](spell-darken-skies)
+
+**Level 31**
+[Spell: Jyll's Static Pulse](spell-jylls-static-pulse)
+
+**Level 32**
+[Spell: Voltaic Draught](spell-voltaic-draught)
+
+**Level 33**
+[Spell: Elemental Cloak](spell-elemental-cloak)
+
+**Level 34**
+[Spell: Markar's Discord](spell-markars-discord)
+
+**Level 35**
+[Spell: Invert Gravity](spell-invert-gravity)
+
+**Level 36**
+[Spell: Force Shield](spell-force-shield)
+
+**Level 37**
+[Spell: Shield of Maelin](spell-shield-of-maelin)
+
+**Level 38**
+[Spell: Telekin](spell-telekin)
+
+**Level 39**
+[Spell: Tears of the Sun](spell-tears-of-the-sun)
