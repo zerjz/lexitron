@@ -3,7 +3,7 @@
 
 **Level:** 20
 
-**Subclass:** Etherealist
+**Subclass:** [Etherealist](etherealist)
 
 **Spell Effect:** Pulls a spectral shroud from the ether.
 
