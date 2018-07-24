@@ -1,4 +1,4 @@
-<!-- TITLE: Jewel Shatter -->
+<!-- TITLE: Spell: Jewel Shatter -->
 <!-- SUBTITLE:  -->
 
 **Level:** 20
