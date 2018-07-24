@@ -6,5 +6,3 @@
 **Subclass:** [Etherealist](etherealist)
 
 **Spell Effect:** Pulls a spectral shroud from the ether.
-
-# Header
