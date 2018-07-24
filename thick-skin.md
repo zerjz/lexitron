@@ -3,8 +3,8 @@
 
 **Level:** 28
 
-**Subclass:** Warrior
+**Subclass:** [Warrior](warrior)
 
-**Spell Effect:** Increases your armor class.
+**Skill Effect:** Increases your armor class.
 
 # Header
