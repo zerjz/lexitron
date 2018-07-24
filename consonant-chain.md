@@ -6,5 +6,3 @@
 **Subclass:** [Dervish](dervish)
 
 **Song Effect:** This song engulfs your target in magical bonds, slowing their movement speed.
-
-# Header
