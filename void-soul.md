@@ -6,5 +6,3 @@
 **Subclass:** [Faustian](faustian)
 
 **Spell Effect:** Your soul leaves, healing your body while draining your mana.
-
-# Header
