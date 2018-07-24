@@ -6,5 +6,3 @@
 **Subclass:** [Etherealist](etherealist)
 
 **Spell Effect:** Transports you and your party to Albarn.
-
-# Header
