@@ -3,7 +3,7 @@
 
 **Level:** 21
 
-**Subclass:** Puppetmaster
+**Subclass:** [Puppetmaster](puppetmaster)
 
 **Spell Effect:** Cloaks you in a shimmering illusion that makes you appear to be an Earth Elemental.  This spell also grants you increased strength.
 
