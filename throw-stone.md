@@ -5,6 +5,6 @@
 
 **Subclass:** [Knight](knight)/[Ninja](ninja)/[Warrior](warrior)
 
-**Spell Effect:** Strikes your target with unseen force, causing 10 damage.
+**Skill Effect:** Strikes your target with unseen force, causing 10 damage.
 
 # Header
