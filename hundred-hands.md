@@ -3,8 +3,8 @@
 
 **Level:** 22
 
-**Subclass:** Ninja
+**Subclass:** [Ninja](ninja)
 
-**Spell Effect:** Increases your hand speed, allowing you an increased attack rate and damage.
+**Skill Effect:** Increases your hand speed, allowing you an increased attack rate and damage.
 
 # Header
