@@ -3,8 +3,8 @@
 
 **Level:** 22
 
-**Subclass:** Merchant
+**Subclass:** [Merchant](merchant)
 
-**Spell Effect:** Inflicts a brutal blow to the head causing your enemy to fly backwards, root their feet to the ground, and forget their attacker.
+**Skill Effect:** Inflicts a brutal blow to the head causing your enemy to fly backwards, root their feet to the ground, and forget their attacker.
 
 # Header
