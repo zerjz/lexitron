@@ -36,3 +36,34 @@ Subclass of [Occultist](occultist)
 
 **Level 29**
 [Spell: Malarian](malarian)
+
+**Level 30**
+[Spell: Blood Knowledge](spell-blood-knowledge)
+[Spell: Greater Transfusion](spell-greater-transfusion)
+[Spell: Purify](spell-purify)
+**Level 31**
+[Spell: Cell Engorgement](spell-cell-engorgement)
+
+**Level 32**
+[Spell: Blood Gorge](spell-blood-gorge)
+
+**Level 33**
+[Spell: Hemoptysis](spell-hemoptysis)
+
+**Level 34**
+[Spell: Hemotransmission](spell-hemotransmission)
+
+**Level 35**
+[Spell: Swarming Leeches](spell-swarming-leeches)
+
+**Level 36**
+[Spell: Hemoaegis](spell-hemoaegis)
+
+**Level 37**
+[Spell: Hemodiffusion](spell-hemodiffusion)
+
+**Level 38**
+[Spell: Blood Multiplication](spell-blood-multiplication)
+
+**Level 39**
+[Spell: Porphyria](spell-porphyria)
