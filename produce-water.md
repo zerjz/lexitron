@@ -5,5 +5,4 @@
 
 **Subclass:** [Geomancer](geomancer)
 
-**Spell Effect:** Focuses mana into the form of watery globes suitable for drinking.
-# Header
+**Spell Effect:** Focuses mana into the form of watery globes suitable for drinking
