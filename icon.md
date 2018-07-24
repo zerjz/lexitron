@@ -3,8 +3,8 @@
 
 **Level:** 26
 
-**Subclass:** Sensei
+**Subclass:** [Sensei](sensei)
 
-**Spell Effect:** Imbues your hands with the power of an icon, granting a chance to heal your party with each successful melee strike you perform.
+**Skill Effect:** Imbues your hands with the power of an icon, granting a chance to heal your party with each successful melee strike you perform.
 
 # Header
