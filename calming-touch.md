@@ -3,8 +3,8 @@
 
 **Level:** 23
 
-**Subclass:** Sensei
+**Subclass:** [Sensei](sensei)
 
-**Spell Effect:** Places a calming touch on your target, healing them for 300 hitpoints.
+**Skill Effect:** Places a calming touch on your target, healing them for 300 hitpoints.
 
 # Header
