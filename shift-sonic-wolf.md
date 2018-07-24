@@ -3,8 +3,8 @@
 
 **Level:** 36
 
-**Subclass:** Shifter
+**Subclass:** [Shifter](shifter)
 
-**Spell Effect:** Assume the form of a sonic wolf, increasing your stats, damage done as well as threat produced.
+**Shift Effect:** Assume the form of a sonic wolf, increasing your stats, damage done as well as threat produced.
 
 # Header
