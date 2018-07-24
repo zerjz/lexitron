@@ -5,5 +5,4 @@
 
 **Subclass:** Grim Reaper
 
-**Spell Effect:** Covers your target in a mass of darkness that steals their armor class and gives it to you for 0:10:00.
-# Header
+**Spell Effect:** Covers your target in a mass of darkness that steals their armor class and gives it to you for 0:10:00
