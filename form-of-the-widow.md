@@ -3,7 +3,7 @@
 
 **Level:** 25
 
-**Subclass:** Vodouist
+**Subclass:** [Vodouist](vodouist)
 
 **Spell Effect:** You take the form of a black widow, granting increased mana regeneration.
 
