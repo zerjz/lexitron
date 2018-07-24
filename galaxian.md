@@ -48,7 +48,7 @@ Subclass of [Occultist](occultist)
 [Spell: Invert Gravity](spell-invert-gravity)
 
 **Level 36**
-[Spell: Force Shield](spell-force-shield)
+[Spell: Force Shield](spell-force-field)
 
 **Level 37**
 [Spell: Shield of Maelin](spell-shield-of-maelin)
