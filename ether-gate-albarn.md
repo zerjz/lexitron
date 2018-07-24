@@ -3,7 +3,7 @@
 
 **Level:** 24
 
-**Subclass:** Etherealist
+**Subclass:** [Etherealist](etherealist)
 
 **Spell Effect:** Transports you and your party to Albarn.
 
