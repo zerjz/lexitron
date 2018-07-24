@@ -3,7 +3,7 @@
 
 **Level:** 26
 
-**Subclass:** Geomancer
+**Subclass:** [Geomancer](geomancer)
 
 **Spell Effect:** Summons a giant comet of ice from the sky, causing between 656 and 728 damage to your target.
 
