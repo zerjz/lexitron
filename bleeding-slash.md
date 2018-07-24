@@ -3,8 +3,8 @@
 
 **Level:** 24
 
-**Subclass:** Warrior
+**Subclass:** [Warrior](warrior)
 
-**Spell Effect:** Fills your target's blood with poison, causing 100 damage initially and between 59 and 70 every six seconds.
+**Skill Effect:** Fills your target's blood with poison, causing 100 damage initially and between 59 and 70 every six seconds.
 
 # Header
