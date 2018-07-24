@@ -3,8 +3,8 @@
 
 **Level:** 21
 
-**Subclass:** Soldier
+**Subclass:** [Soldier](soldier)
 
-**Spell Effect:** Creates a ball of fire that burns your target, doing between 130 and 150 damage.
+**Skill Effect:** Creates a ball of fire that burns your target, doing between 130 and 150 damage.
 
 # Header
