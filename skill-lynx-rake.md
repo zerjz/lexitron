@@ -3,8 +3,8 @@
 
 **Level:** 30
 
-**Subclass:** Shifter
+**Subclass:** [Shifter](shifter)
 
-**Spell Effect:** Claw at your opponent, inflicting damage and significantly impairing their movement.
+**Skill Effect:** Claw at your opponent, inflicting damage and significantly impairing their movement.
 
 # Header
