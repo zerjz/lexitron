@@ -3,8 +3,8 @@
 
 **Level:** 22
 
-**Subclass:** Sensei
+**Subclass:** [Sensei](sensei)
 
-**Spell Effect:** Covers your target in a holy guard, increasing their armor class.
+**Skill Effect:** Covers your target in a holy guard, increasing their armor class.
 
 # Header
