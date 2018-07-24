@@ -3,7 +3,7 @@
 
 **Level:** 39
 
-**Subclass:** Shifter
+**Subclass:** [Shifter](shifter)
 
 **Spell Effect:** Spew corrupted bile at your target, dealing up to 765 disease damage.
 
