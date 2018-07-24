@@ -3,8 +3,8 @@
 
 **Level:** 25
 
-**Subclass:** Philosopher
+**Subclass:** [Philosopher](philosopher)
 
-**Spell Effect:** Throws an exploding potion at your target, causing between 92 and 130 damage.
+**Skill Effect:** Throws an exploding potion at your target, causing between 92 and 130 damage.
 
 # Header
