@@ -3,8 +3,8 @@
 
 **Level:** 24
 
-**Subclass:** Imp
+**Subclass:** [Imp](imp)
 
-**Spell Effect:** Being an imp isn't all fun and games, but it mostly is.  Sap the happiness from your target, doing damage over time while increasing your hit point and endurance regeneration.
+**Skill Effect:** Being an imp isn't all fun and games, but it mostly is.  Sap the happiness from your target, doing damage over time while increasing your hit point and endurance regeneration.
 
 # Header
