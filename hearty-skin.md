@@ -3,8 +3,8 @@
 
 **Level:** 25
 
-**Subclass:** Warrior
+**Subclass:** [Warrior](warrior)
 
-**Spell Effect:** Increases your max hit points.
+**Skill Effect:** Increases your max hit points.
 
 # Header
