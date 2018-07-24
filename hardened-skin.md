@@ -6,5 +6,3 @@
 **Subclass:** [Warrior](warrior)
 
 **Skill Effect:** Hardens your skin, absorbing 500 damage.  Consumes 5 rage when cast.
-
-# Header
