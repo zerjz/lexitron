@@ -1,7 +1,7 @@
 <!-- TITLE: Spell: Cell Engorgement -->
 <!-- SUBTITLE:  -->
 
-**Level:** 311
+**Level:** 31
 
 **Subclass:** [Faustian](faustian)
 
