@@ -6,5 +6,3 @@
 **Subclass:** [Shifter](shifter)
 
 **Shift Effect:** You shift into the form of a seahorse, granting you water breathing capabilities.
-
-# Header
