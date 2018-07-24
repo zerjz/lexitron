@@ -6,5 +6,3 @@
 **Subclass:** [Jeweler](jeweler)
 
 **Spell Effect:** Enchants a sapphire with magical energy.
-
-# Header
