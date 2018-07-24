@@ -3,7 +3,7 @@
 
 **Level:** 23
 
-**Subclass:** Geomancer
+**Subclass:** [Geomancer](geomancer)
 
 **Spell Effect:** Condenses ambient moisture into a refreshing globe of water that increases mana regeneration.
 
