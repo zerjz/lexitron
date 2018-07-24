@@ -6,5 +6,3 @@
 **Subclass:** [Sensei](sensei)
 
 **Skill Effect:** Surrounds your group with a chaste resolve, increasing their hitpoints.
-
-# Header
