@@ -6,5 +6,3 @@
 **Subclass:** [Warrior](warrior)
 
 **Skill Effect:** Increases your armor class.
-
-# Header
