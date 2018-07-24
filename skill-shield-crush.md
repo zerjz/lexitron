@@ -3,8 +3,8 @@
 
 **Level:** 29
 
-**Subclass:** Knight
+**Subclass:** [Knight](knight)
 
-**Spell Effect:** Slam your shield into an enemy, crushing them and increasing their hatred toward you.
+**Skill Effect:** Slam your shield into an enemy, crushing them and increasing their hatred toward you.
 
 # Header
