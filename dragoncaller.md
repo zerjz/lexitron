@@ -6,29 +6,29 @@ Subclass of [Dragoon](dragoon)
 
 **Level 20**
 [Spell: Center](center)
-[Fiery Spirit](fiery-spirit)
+[Spell: Fiery Spirit](fiery-spirit)
 
 **Level 21**
-[Breath of Scale](breath-of-scale)
+[Spell: Breath of Scale](breath-of-scale)
 
 **Level 22**
-[Dragon Dance](dragon-dance)
+[Spell: Dragon Dance](dragon-dance)
 
 **Level 23**
-[Dragon's Dexterity](dragons-dexterity)
+[Spell: Dragon's Dexterity](dragons-dexterity)
 
 **Level 24**
 [Skill: Claw Frenzy](claw-frenzy)
 
 **Level 25**
-[Blazing Breath](blazing-breath)
+[Spell: Blazing Breath](blazing-breath)
 
 **Level 26**
-[Call White Dragon](call-white-dragon)
-[Path of Flame](path-of-flame)
+[Spell: Call White Dragon](call-white-dragon)
+[Spell: Path of Flame](path-of-flame)
 
 **Level 27**
 [Skill: Side Claw](side-claw)
 
 **Level 29**
-[Tail Sweep](tail-sweep)
+[Spell: Tail Sweep](tail-sweep)
