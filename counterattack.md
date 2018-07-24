@@ -3,8 +3,8 @@
 
 **Level:** 20
 
-**Subclass:** Ninja
+**Subclass:** [Ninja](ninja)
 
-**Spell Effect:** Allows you to perfectly time your counter attacks, riposting every incoming blow.
+**Skill Effect:** Allows you to perfectly time your counter attacks, riposting every incoming blow.
 
 # Header
