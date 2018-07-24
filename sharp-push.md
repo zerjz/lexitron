@@ -3,8 +3,8 @@
 
 **Level:** 21
 
-**Subclass:** Imp
+**Subclass:** [Imp](imp)
 
-**Spell Effect:** Strikes your target with energy, stunning them briefly and causing between 96 and 175 damage.
+**Skill Effect:** Strikes your target with energy, stunning them briefly and causing between 96 and 175 damage.
 
 # Header
