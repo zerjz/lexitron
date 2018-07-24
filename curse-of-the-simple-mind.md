@@ -6,5 +6,3 @@
 **Subclass:** [Sage](sage)
 
 **Spell Effect:** Weakens your opponents mind, lowering their intelligence and wisdom.
-
-# Header
