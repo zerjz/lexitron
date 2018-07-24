@@ -3,7 +3,7 @@
 
 **Level:** 21
 
-**Subclass:** Etherealist
+**Subclass:** [Etherealist](etherealist)
 
 **Spell Effect:** Transforms the ethereal fabric of your pet into that of a phase spider.
 
