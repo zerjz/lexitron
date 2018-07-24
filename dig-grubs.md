@@ -3,8 +3,8 @@
 
 **Level:** 24
 
-**Subclass:** Imp
+**Subclass:** [Imp](imp)
 
-**Spell Effect:** Reach into the bucket and pull out a handful of bait.
+**Skill Effect:** Reach into the bucket and pull out a handful of bait.
 
 # Header
