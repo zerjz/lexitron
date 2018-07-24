@@ -3,8 +3,8 @@
 
 **Level:** 22
 
-**Subclass:** Warrior
+**Subclass:** [Warrior](warrior)
 
-**Spell Effect:** Fills your target's mind with deadly terror, inciting increased hatred.
+**Skill Effect:** Fills your target's mind with deadly terror, inciting increased hatred.
 
 # Header
