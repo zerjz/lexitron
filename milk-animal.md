@@ -6,5 +6,3 @@
 **Subclass:** [Breeder](breeder)
 
 **Spell Effect:** Summons a milking bucket, useful for gathering the milk of animals.
-
-# Header
