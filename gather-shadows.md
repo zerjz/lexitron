@@ -3,7 +3,7 @@
 
 **Level:** 23
 
-**Subclass:** Vampire
+**Subclass:** [Vampire](vampire)
 
 **Spell Effect:** Calls shadows to conceal your body, allowing you to move undetected by many creatures.
 
