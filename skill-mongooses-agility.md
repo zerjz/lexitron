@@ -3,8 +3,8 @@
 
 **Level:** 38
 
-**Subclass:** Shifter
+**Subclass:** [Shifter](shifter)
 
-**Spell Effect:** Use the agility of the mongoose to your advantage, completely avoiding the next two attacks that would otherwise hit you.
+**Skill Effect:** Use the agility of the mongoose to your advantage, completely avoiding the next two attacks that would otherwise hit you.
 
 # Header
