@@ -19,7 +19,7 @@ Subclass of [Dragoon](dragoon)
 [Dragon's Dexterity](dragons-dexterity)
 
 **Level 24**
-[Claw Frenzy](claw-frenzy)
+[Skill: Claw Frenzy](claw-frenzy)
 
 **Level 25**
 [Blazing Breath](blazing-breath)
@@ -29,7 +29,7 @@ Subclass of [Dragoon](dragoon)
 [Path of Flame](path-of-flame)
 
 **Level 27**
-[Side Claw](side-claw)
+[Skill: Side Claw](side-claw)
 
 **Level 29**
 [Tail Sweep](tail-sweep)
