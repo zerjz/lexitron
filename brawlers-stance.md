@@ -3,8 +3,8 @@
 
 **Level:** 21
 
-**Subclass:** Warrior
+**Subclass:** [Warrior](warrior)
 
-**Spell Effect:** You hunker down into a low and ready brawling stance, increasing both your damage and your generated hate for the duration.
+**Skill Effect:** You hunker down into a low and ready brawling stance, increasing both your damage and your generated hate for the duration.
 
 # Header
