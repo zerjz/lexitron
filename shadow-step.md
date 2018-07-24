@@ -3,8 +3,8 @@
 
 **Level:** 26
 
-**Subclass:** Ninja
+**Subclass:** [Ninja](ninja)
 
-**Spell Effect:** Step in to the shadows, reappearing elsewhere.
+**Skill Effect:** Step in to the shadows, reappearing elsewhere.
 
 # Header
