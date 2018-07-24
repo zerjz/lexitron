@@ -3,8 +3,8 @@
 
 **Level:** 27
 
-**Subclass:** Shifter
+**Subclass:** [Shifter](shifter)
 
-**Spell Effect:** Shift into the form of a manticore, increasing your HP, AC, Strength, as well as giving you a chacne to cast Hornet's Sting in combat.
+**Shift Effect:** Shift into the form of a manticore, increasing your HP, AC, Strength, as well as giving you a chacne to cast Hornet's Sting in combat.
 
 # Header
