@@ -3,7 +3,7 @@
 
 **Level:** 21
 
-**Subclass:** Jeweler
+**Subclass:** [Jeweler](jeweler)
 
 **Spell Effect:** Enchants a pearlbone with magical energy.
 
