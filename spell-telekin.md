@@ -1,4 +1,4 @@
-<!-- TITLE: Spell Telekin -->
+<!-- TITLE: Spell: Telekin -->
 <!-- SUBTITLE:  -->
 
 **Level:** 38
