@@ -5,6 +5,4 @@
 
 **Subclass:** [Dragoncaller](dragoncaller)
 
-**Spell Effect:** Fills our target with the spirit of the dragons, increasing their dexterity.
-
-# Header
+**Spell Effect:** Fills your target with the spirit of the dragons, increasing their dexterity.
