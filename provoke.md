@@ -3,8 +3,8 @@
 
 **Level:** 20
 
-**Subclass:** Warrior
+**Subclass:** [Warrior](warrior)
 
-**Spell Effect:** Bellows profanity at your opponent, causing them to become very angry with you.
+**Skill Effect:** Bellows profanity at your opponent, causing them to become very angry with you.
 
 # Header
