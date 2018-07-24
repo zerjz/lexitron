@@ -1,7 +1,4 @@
 <!-- TITLE: Spell: Word Of Leadership -->
-<!-- SUBTITLE: A quick summary of Spell Word Of Leadership -->
-
-# Header
 <!-- SUBTITLE:  -->
 
 **Level:** 22
