@@ -3,8 +3,8 @@
 
 **Level:** 21
 
-**Subclass:** Merchant
+**Subclass:** [Merchant](merchant)
 
-**Spell Effect:** Lassos your opponent with a rope, slowing their movement speed.
+**Skill Effect:** Lassos your opponent with a rope, slowing their movement speed.
 
 # Header
