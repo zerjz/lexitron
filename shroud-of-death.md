@@ -6,5 +6,3 @@
 **Subclass:** [Faustian](faustian)
 
 **Spell Effect:** Imbues your attacks with a chance to steal life energy from your target for 20 minutes.
-
-# Header
