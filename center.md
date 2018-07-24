@@ -3,7 +3,7 @@
 
 **Level:** 20/7
 
-**Subclass:** Knight/Priest
+**Class:** Dragoon/Priest
 
 **Spell Effect:** Provides your target with a focused sense of self, increasing their hit points and armor class.
 
