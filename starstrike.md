@@ -3,8 +3,8 @@
 
 **Level:** 21
 
-**Subclass:** Ninja
+**Subclass:** [Ninja](ninja)
 
-**Spell Effect:** Produce a shuriken of pure energy to assault your target - this attack is very hard to avoid and has an exceptionally long range.
+**Skill Effect:** Produce a shuriken of pure energy to assault your target - this attack is very hard to avoid and has an exceptionally long range.
 
 # Header
