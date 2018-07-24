@@ -6,5 +6,3 @@
 **Subclass:** [Demonologist](demonologist)
 
 **Spell Effect:** Surrounds an undead target in a shackle of spirits, slowing their attack speed.
-
-# Header
