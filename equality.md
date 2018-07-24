@@ -3,8 +3,8 @@
 
 **Level:** 27
 
-**Subclass:** Sensei
+**Subclass:** [Sensei](sensei)
 
-**Spell Effect:** Balances the health of the party.
+**Skill Effect:** Balances the health of the party.
 
 # Header
