@@ -3,7 +3,7 @@
 
 **Level:** 20
 
-**Subclass:** Jeweler
+**Subclass:** [Jeweler](jeweler)
 
 **Spell Effect:** Enchants to life a malachite sword, following along and aiding you when harmed.
 
