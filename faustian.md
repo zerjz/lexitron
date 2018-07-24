@@ -41,6 +41,7 @@ Subclass of [Occultist](occultist)
 [Spell: Blood Knowledge](spell-blood-knowledge)
 [Spell: Greater Transfusion](spell-greater-transfusion)
 [Spell: Purify](spell-purify)
+
 **Level 31**
 [Spell: Cell Engorgement](spell-cell-engorgement)
 
