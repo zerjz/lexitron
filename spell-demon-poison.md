@@ -6,5 +6,3 @@
 **Subclass:** [Demonologist](demonologist)
 
 **Spell Effect:** Infects your enemy with the venom of a demon.
-
-# Header
