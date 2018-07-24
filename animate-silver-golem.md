@@ -3,7 +3,7 @@
 
 **Level:** 20
 
-**Subclass:** Philosopher
+**Subclass:** [Philosopher](philosopher)
 
 **Spell Effect:** Animates a silver golem from an ingot to assist you in combat.
 
