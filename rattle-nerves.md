@@ -1,10 +1,10 @@
-<!-- TITLE: Rattle Nerves -->
+<!-- TITLE: Skill: Rattle Nerves -->
 <!-- SUBTITLE:  -->
 
 **Level:** 23
 
-**Subclass:** Samurai
+**Subclass:** [Samurai](samurai)
 
-**Spell Effect:** Startles your opponent and makes them nervous, decreasing their magic resistance.
+**Skill Effect:** Startles your opponent and makes them nervous, decreasing their magic resistance.
 
 # Header
