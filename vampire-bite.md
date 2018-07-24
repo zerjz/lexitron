@@ -3,7 +3,7 @@
 
 **Level:** 20
 
-**Subclass:** Vampire
+**Subclass:** [Vampire](vampire)
 
 **Spell Effect:** Leaves your enemy awestruck, briefly stunning them and causing massive damage.
 
