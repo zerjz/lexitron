@@ -3,7 +3,7 @@
 
 **Level:** 26
 
-**Subclass:** Vampire
+**Subclass:** [Vampire](vampire)
 
 **Spell Effect:** Summons a small swarm of bats to assault your target for a brief period of time.
 
