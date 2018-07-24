@@ -6,5 +6,3 @@
 **Subclass:** [Jeweler](jeweler)
 
 **Spell Effect:** Enchants a piece of moonstone with magical energy.
-
-# Header
