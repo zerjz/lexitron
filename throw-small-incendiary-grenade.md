@@ -3,8 +3,8 @@
 
 **Level:** 25
 
-**Subclass:** Soldier
+**Subclass:** [Soldier](soldier)
 
-**Spell Effect:** Throw an exploding potion at your target, causing 350 damage.
+**Skill Effect:** Throw an exploding potion at your target, causing 350 damage.
 
 # Header
