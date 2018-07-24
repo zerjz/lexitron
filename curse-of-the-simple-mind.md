@@ -1,4 +1,10 @@
-<!-- TITLE: Curse Of The Simple Mind -->
-<!-- SUBTITLE: Weakens your opponents mind, lowering their intelligence and wisdom. -->
+<!-- TITLE: Spell: Curse Of The Simple Mind -->
+<!-- SUBTITLE:  -->
+
+**Level:** 21
+
+**Subclass:** [Sage](sage)
+
+**Spell Effect:** Weakens your opponents mind, lowering their intelligence and wisdom.
 
 # Header
