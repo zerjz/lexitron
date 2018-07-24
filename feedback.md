@@ -3,7 +3,7 @@
 
 **Level:** 25
 
-**Subclass:** Puppetmaster
+**Subclass:** [Puppetmaster](puppetmaster)
 
 **Spell Effect:** Wraps your target in chaotic energy that damages anything that attacks them.
 
