@@ -3,7 +3,7 @@
 
 **Level:** 32
 
-**Subclass:** Shifter
+**Subclass:** [Shifter](shifter)
 
 **Spell Effect:** Causes you and your allies to grow gills, enabling wateer breathing for up to 1:12:00
 
