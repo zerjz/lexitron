@@ -3,7 +3,7 @@
 
 **Level:** 28
 
-**Subclass:** Etherealist
+**Subclass:** [Etherealist](etherealist)
 
 **Spell Effect:** Opens a mystic portal that teleports your group to the Starlight Beach.
 
