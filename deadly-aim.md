@@ -3,8 +3,8 @@
 
 **Level:** 20
 
-**Subclass:** Ninja
+**Subclass:** [Ninja](ninja)
 
-**Spell Effect:** Increases your throwing damage and imbues your throwing attacks with a poisonous effect.
+**Skill Effect:** Increases your throwing damage and imbues your throwing attacks with a poisonous effect.
 
 # Header
