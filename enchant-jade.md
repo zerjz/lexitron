@@ -3,7 +3,7 @@
 
 **Level:** 21
 
-**Subclass:** Jeweler
+**Subclass:** [Jeweler](jeweler)
 
 **Spell Effect:** Magically enchants a piece of Ancient Jade
 
