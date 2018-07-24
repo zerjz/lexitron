@@ -1,10 +1,10 @@
-<!-- TITLE: Bladecatch -->
+<!-- TITLE: Skill: Bladecatch -->
 <!-- SUBTITLE:  -->
 
 **Level:** 28
 
-**Subclass:** Samurai
+**Subclass:** [Samurai](samurai)
 
-**Spell Effect:** Choose to block the next attack made against you with your palm, instead taking 75 percent damage.
+**Skill Effect:** Choose to block the next attack made against you with your palm, instead taking 75 percent damage.
 
 # Header
