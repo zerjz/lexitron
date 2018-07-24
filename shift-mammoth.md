@@ -3,8 +3,8 @@
 
 **Level:** 20
 
-**Subclass:** Shifter
+**Subclass:** [Shifter](shifter)
 
-**Spell Effect:** You shift into a mammoth, increasing your strength and total hitpoints.
+**Shift Effect:** You shift into a mammoth, increasing your strength and total hitpoints.
 
 # Header
