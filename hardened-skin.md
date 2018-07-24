@@ -3,8 +3,8 @@
 
 **Level:** 23
 
-**Subclass:** Warrior
+**Subclass:** [Warrior](warrior)
 
-**Spell Effect:** Hardens your skin, absorbing 500 damage.  Consumes 5 rage when cast.
+**Skill Effect:** Hardens your skin, absorbing 500 damage.  Consumes 5 rage when cast.
 
 # Header
