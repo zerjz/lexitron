@@ -6,5 +6,3 @@
 **Subclass:** [Merchant](merchant)
 
 **Skill Effect:** You fade into the shadows, slipping unnoticed.
-
-# Header
