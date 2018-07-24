@@ -6,5 +6,3 @@
 **Subclass:** [Vodouist](vodouist)
 
 **Spell Effect:** Cloaks you in a shimmering illusion that makes you appear to be a scarecrow and grants resistance to fear spells.
-
-# Header
