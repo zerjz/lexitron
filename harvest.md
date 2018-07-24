@@ -6,5 +6,3 @@
 **Subclass:** [Sage](sage)
 
 **Spell Effect:** Gathers ambient mana from your surroundings, replenishing your mana pool.
-
-# Header
