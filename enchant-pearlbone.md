@@ -6,5 +6,3 @@
 **Subclass:** [Jeweler](jeweler)
 
 **Spell Effect:** Enchants a pearlbone with magical energy.
-
-# Header
