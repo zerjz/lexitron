@@ -3,7 +3,7 @@
 
 **Level:** 23
 
-**Subclass:** Etherealist
+**Subclass:** [Etherealist](etherealist)
 
 **Spell Effect:** Covers your target in a shimmer of runes that absorb damage.
 
