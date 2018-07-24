@@ -3,7 +3,7 @@
 
 **Level:** 26
 
-**Subclass:** Etherealist
+**Subclass:** [Etherealist](etherealist)
 
 **Spell Effect:** Conjures a rain of spikes that assaults all creatures in the vicinity of your target, causing three waves of between 91 and 91 damage.
 
