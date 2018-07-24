@@ -10,5 +10,5 @@ Trivial: 25
 [Foldable Medicine Bag](foldable-medicine-bag)
 
 **Ingredients**
-[Bottle of Water](bottle-of-water)
+[Glass Bottle](glass-bottle)
 [Fairy Tears](fairy-tears)
