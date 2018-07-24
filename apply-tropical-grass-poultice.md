@@ -3,8 +3,8 @@
 
 **Level:** 21
 
-**Subclass:** Shaman
+**Subclass:** [Shaman](shaman)
 
-**Spell Effect:** Treat your target with a poultice of tropical grasses, healing them substantially over a short period of time.
+**Skill Effect:** Treat your target with a poultice of tropical grasses, healing them substantially over a short period of time.
 
 # Header
