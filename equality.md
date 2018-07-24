@@ -6,5 +6,3 @@
 **Subclass:** [Sensei](sensei)
 
 **Skill Effect:** Balances the health of the party.
-
-# Header
