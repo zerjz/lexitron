@@ -6,5 +6,3 @@
 **Subclass:** [Etherealist](etherealist)
 
 **Spell Effect:** Summons a monster from your area to aid you in battle.
-
-# Header
