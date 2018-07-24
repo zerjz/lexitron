@@ -3,8 +3,8 @@
 
 **Level:** 23
 
-**Subclass:** Ninja
+**Subclass:** [Ninja](ninja)
 
-**Spell Effect:** Increases your combat reflexes, allowing you to avoid most attacks.
+**Skill Effect:** Increases your combat reflexes, allowing you to avoid most attacks.
 
 # Header
