@@ -3,8 +3,8 @@
 
 **Level:** 20
 
-**Subclass:** Merchant
+**Subclass:** [Merchant](merchant)
 
-**Spell Effect:** You fade into the shadows, slipping unnoticed.
+**Skill Effect:** You fade into the shadows, slipping unnoticed.
 
 # Header
