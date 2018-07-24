@@ -1,9 +1,9 @@
-<!-- TITLE: Enchant Sapphire -->
+<!-- TITLE: Spell: Enchant Sapphire -->
 <!-- SUBTITLE:  -->
 
 **Level:** 27
 
-**Subclass:** Jeweler
+**Subclass:** [Jeweler](jeweler)
 
 **Spell Effect:** Enchants a sapphire with magical energy.
 
