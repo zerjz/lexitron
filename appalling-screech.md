@@ -6,5 +6,3 @@
 **Subclass:** [Dervish](dervish)
 
 **Song Effect:** A terrifying screech that causes nearby enemies to run in terror.
-
-# Header
