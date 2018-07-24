@@ -3,8 +3,8 @@
 
 **Level:** 29
 
-**Subclass:** Warrior
+**Subclass:** [Warrior](warrior)
 
-**Spell Effect:** Rush towards your target headlong with your shoulder lowered, violently crashing into them in order to deal damage and stun them.
+**Skill Effect:** Rush towards your target headlong with your shoulder lowered, violently crashing into them in order to deal damage and stun them.
 
 # Header
