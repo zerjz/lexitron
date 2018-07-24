@@ -1,4 +1,4 @@
-<!-- TITLE: Enchant Moonstone -->
+<!-- TITLE: Spell: Enchant Moonstone -->
 <!-- SUBTITLE:  -->
 
 **Level:** 21
