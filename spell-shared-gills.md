@@ -5,4 +5,4 @@
 
 **Subclass:** [Shifter](shifter)
 
-**Spell Effect:** Causes you and your allies to grow gills, enabling wateer breathing for up to 1:12:00
+**Spell Effect:** Causes you and your allies to grow gills, enabling water breathing for up to 1:12:00
