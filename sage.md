@@ -5,30 +5,30 @@ Subclass of [Sorcerer](sorcerer)
 # Spells
 
 **Level 20**
-[Bolt of Mana](bolt-of-mana)
-[Mana Sieve](mana-sieve)
+[Spell: Bolt of Mana](bolt-of-mana)
+[Spell: Mana Sieve](mana-sieve)
 
 **Level 21**
-[Clarity](clarity)
-[Curse of the Simple Mind](curse-of-the-simple-mind)
-[Funnel Mana](funnel-mana)
+[Spell: Clarity](clarity)
+[Spell: Curse of the Simple Mind](curse-of-the-simple-mind)
+[Spell: Funnel Mana](funnel-mana)
 
 **Level 22**
-[Meltdown](meltdown)
+[Spell: Meltdown](meltdown)
 
 **Level 23**
-[Shield of Mana](shield-of-mana)
+[Spell: Shield of Mana](shield-of-mana)
 
 **Level 24**
-[Pious Sagacity](pious-sagacity)
+[Spell: Pious Sagacity](pious-sagacity)
 
 **Level 25**
-[Mana Tear](mana-tear)
-[O'Keil's Levity](okeils-levity)
-[Pure Magic](pure-magic)
+[Spell: Mana Tear](mana-tear)
+[Spell: O'Keil's Levity](okeils-levity)
+[Spell: Pure Magic](pure-magic)
 
 **Level 26**
-[Magic Mind](magic-mind)
+[Spell: Magic Mind](magic-mind)
 
 **Level 29**
-[Harvest](harvest)
+[Spell: Harvest](harvest)
