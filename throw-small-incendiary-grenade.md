@@ -6,5 +6,3 @@
 **Subclass:** [Soldier](soldier)
 
 **Skill Effect:** Throw an exploding potion at your target, causing 350 damage.
-
-# Header
