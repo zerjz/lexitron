@@ -3,7 +3,7 @@
 
 **Level:** 25
 
-**Subclass:** Etherealist
+**Subclass:** [Etherealist](etherealist)
 
 **Spell Effect:** Focuses mana into the form of a pack of phantom chain mail.
 
