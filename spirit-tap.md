@@ -4,3 +4,5 @@
 **Level:** 26/27
 
 **Subclass:** [Demonologist](demonologist)/[Vampire](vampire)
+
+**Spell Effect:** Drains our target of life energy, siphoning between 202 and 210 hit points.
