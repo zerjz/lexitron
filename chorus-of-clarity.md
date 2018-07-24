@@ -6,5 +6,3 @@
 **Subclass:** [Aristocrat](aristrocrat)
 
 **Song Effect:** A quiet chorus that clears the minds of your group, allowing them to regenerate their mana faster.
-
-# Header
