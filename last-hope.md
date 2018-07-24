@@ -1,10 +1,10 @@
-<!-- TITLE: Last Hope -->
+<!-- TITLE: Skill: Last Hope -->
 <!-- SUBTITLE:  -->
 
 **Level:** 26
 
-**Subclass:** Samurai
+**Subclass:** [Samurai](samurai)
 
-**Spell Effect:** Heals yourself of severe wounds.  This spell will provide more healing the lower your health is when cast.
+**Skill Effect:** Heals yourself of severe wounds.  This spell will provide more healing the lower your health is when cast.
 
 # Header
