@@ -1,4 +1,4 @@
-<!-- TITLE: Animate Turqouise Dagger -->
+<!-- TITLE: Spell: Animate Turqouise Dagger -->
 <!-- SUBTITLE:  -->
 
 **Level:** 20
