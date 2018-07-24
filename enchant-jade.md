@@ -1,4 +1,4 @@
-<!-- TITLE: Enchant Jade -->
+<!-- TITLE: Spell: Enchant Jade -->
 <!-- SUBTITLE:  -->
 
 **Level:** 21
