@@ -6,5 +6,3 @@
 **Subclass:** [Chronomage](chronomage)
 
 **Spell Effect:** Opens three chaotic time rifts, causing between 234 and 300 damage to all creatures in the vicinity of your target.
-
-# Header
