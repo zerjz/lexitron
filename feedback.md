@@ -6,5 +6,3 @@
 **Subclass:** [Puppetmaster](puppetmaster)
 
 **Spell Effect:** Wraps your target in chaotic energy that damages anything that attacks them.
-
-# Header
