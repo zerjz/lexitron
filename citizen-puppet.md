@@ -3,7 +3,7 @@
 
 **Level:** 20
 
-**Subclass:** Puppetmaster
+**Subclass:** [Puppetmaster](puppetmaster)
 
 **Spell Effect:** Animates a weapon and shield to attack your enemies.
 
