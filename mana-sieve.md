@@ -6,5 +6,3 @@
 **Subclass:** [Sage](sage)
 
 **Spell Effect:** Tears at the mind of your opponent, draining their mana.
-
-# Header
