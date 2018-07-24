@@ -3,7 +3,7 @@
 
 **Level:** 27
 
-**Subclass:** Vodouist
+**Subclass:** [Vodouist](vodouist)
 
 **Spell Effect:** You call forth to the Occulus, summoning a limited pet to your aid.
 
