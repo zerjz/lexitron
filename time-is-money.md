@@ -3,8 +3,8 @@
 
 **Level:** 25
 
-**Subclass:** Merchant
+**Subclass:** [Merchant](merchant)
 
-**Spell Effect:** You have no time to waste during the life of a merchant, this ability increases your movement speed to guarantee you are where you need to be at all times.
+**Skill Effect:** You have no time to waste during the life of a merchant, this ability increases your movement speed to guarantee you are where you need to be at all times.
 
 # Header
