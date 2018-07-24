@@ -6,5 +6,3 @@
 **Subclass:** [Dragoncaller](dragoncaller)
 
 **Spell Effect:** Calls forth a great dragon from the skies.
-
-# Header
