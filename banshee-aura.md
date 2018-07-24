@@ -3,7 +3,7 @@
 
 **Level:** 20
 
-**Subclass:** Vampire
+**Subclass:** [Vampire](vampire)
 
 **Spell Effect:** Surrounds your body with an aura of vengeful spirits, causing damage to anyone who strikes you.
 
