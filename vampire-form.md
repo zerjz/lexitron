@@ -3,7 +3,7 @@
 
 **Level:** 20
 
-**Subclass:** Vampire
+**Subclass:** [Vampire](vampire)
 
 **Spell Effect:** Your fangs extend, revealing your true form.
 
