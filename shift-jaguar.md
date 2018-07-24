@@ -3,8 +3,8 @@
 
 **Level:** 22
 
-**Subclass:** Shifter
+**Subclass:** [Shifter](shifter)
 
-**Spell Effect:** You shift into the form of a jaguar, greatly increasing your movement speed.
+**Shift Effect:** You shift into the form of a jaguar, greatly increasing your movement speed.
 
 # Header
