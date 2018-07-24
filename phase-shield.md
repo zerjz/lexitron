@@ -6,5 +6,3 @@
 **Subclass:** [Etherealist](etherealist)
 
 **Spell Effect:** Covers your target in a phase shield, increasing their armor class.
-
-# Header
