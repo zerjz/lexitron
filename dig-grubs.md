@@ -6,5 +6,3 @@
 **Subclass:** [Imp](imp)
 
 **Skill Effect:** Reach into the bucket and pull out a handful of bait.
-
-# Header
