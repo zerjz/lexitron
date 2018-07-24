@@ -6,5 +6,3 @@
 **Subclass:** [Vampire](vampire)
 
 **Spell Effect:** Causes your opponent to fall into an enchanted sleep.
-
-# Header
