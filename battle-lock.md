@@ -1,10 +1,10 @@
-<!-- TITLE: Battle Lock -->
+<!-- TITLE: Skill: Battle Lock -->
 <!-- SUBTITLE:  -->
 
 **Level:** 22
 
-**Subclass:** Samurai
+**Subclass:** [Samurai](samurai)
 
-**Spell Effect:** You lock your target into battle, increasing the amount of hatred they feel toward you.
+**Skill Effect:** You lock your target into battle, increasing the amount of hatred they feel toward you.
 
 # Header
