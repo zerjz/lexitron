@@ -6,5 +6,3 @@
 **Subclass:** [Sage](sage)
 
 **Spell Effect:** Strikes your target with a thunderbolt, causing between 360 and 462 damage.
-
-# Header
