@@ -3,8 +3,8 @@
 
 **Level:** 27
 
-**Subclass:** Soldier
+**Subclass:** [Soldier](soldier)
 
-**Spell Effect:** Blasts a buckshot at your target, inflicting damage.  Consumes a Gemstone Buckshot.
+**Skill Effect:** Blasts a buckshot at your target, inflicting damage.  Consumes a Gemstone Buckshot.
 
 # Header
