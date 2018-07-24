@@ -3,7 +3,7 @@
 
 **Level:** 21
 
-**Subclass:** Jeweler
+**Subclass:** [Jeweler](jeweler)
 
 **Spell Effect:** Enchants a piece of moonstone with magical energy.
 
