@@ -3,8 +3,8 @@
 
 **Level:** 20
 
-**Subclass:** Ninja
+**Subclass:** [Ninja](ninja)
 
-**Spell Effect:** Summons a magical vial of prismatic dye, allowing a Ninja to dye their garb and blend into their surroundings.
+**Skill Effect:** Summons a magical vial of prismatic dye, allowing a Ninja to dye their garb and blend into their surroundings.
 
 # Header
