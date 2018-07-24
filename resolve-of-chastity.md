@@ -3,8 +3,8 @@
 
 **Level:** 26
 
-**Subclass:** Sensei
+**Subclass:** [Sensei](sensei)
 
-**Spell Effect:** Surrounds your group with a chaste resolve, increasing their hitpoints.
+**Skill Effect:** Surrounds your group with a chaste resolve, increasing their hitpoints.
 
 # Header
