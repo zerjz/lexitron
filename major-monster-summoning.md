@@ -3,7 +3,7 @@
 
 **Level:** 22
 
-**Subclass:** Etherealist
+**Subclass:** [Etherealist](etherealist)
 
 **Spell Effect:** Summons a monster from your area to aid you in battle.
 
