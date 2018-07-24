@@ -1,10 +1,10 @@
-<!-- TITLE: Samurai's Retort -->
+<!-- TITLE: Skill: Samurai's Retort -->
 <!-- SUBTITLE:  -->
 
 **Level:** 25
 
-**Subclass:** Samurai
+**Subclass:** [Samurai](samurai)
 
-**Spell Effect:** Grants the chance to deal additional damage and provide the caster with extra armor class.
+**Skill Effect:** Grants the chance to deal additional damage and provide the caster with extra armor class.
 
 # Header
