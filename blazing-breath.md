@@ -6,5 +6,3 @@
 **Subclass:** [Dragoncaller](dragoncaller)
 
 **Spell Effect:** Burns your target's skin with blazing flame, causing damage.
-
-# Header
