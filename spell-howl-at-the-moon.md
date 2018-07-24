@@ -3,7 +3,7 @@
 
 **Level:** 37
 
-**Subclass:** Shifter
+**Subclass:** [Shifter](shifter)
 
 **Spell Effect:** Howl at the moon, making you and your group fearless for 1:12:00
 
