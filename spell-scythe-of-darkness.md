@@ -5,5 +5,4 @@
 
 **Subclass:** [Grim Reaper](grim-reaper)
 
-**Spell Effect:** Disrupts the dark energy of the undead, causing between 346 and 346 damage.
-# Header
+**Spell Effect:** Disrupts the dark energy of the undead, causing between 346 and 346 damage
