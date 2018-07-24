@@ -6,5 +6,3 @@
 **Subclass:** [Etherealist](etherealist)
 
 **Spell Effect:** Focuses mana into the form of a pack of phantom chain mail.
-
-# Header
