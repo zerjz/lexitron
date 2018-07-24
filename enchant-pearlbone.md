@@ -1,4 +1,4 @@
-<!-- TITLE: Enchant Pearlbone -->
+<!-- TITLE: Spell: Enchant Pearlbone -->
 <!-- SUBTITLE:  -->
 
 **Level:** 21
