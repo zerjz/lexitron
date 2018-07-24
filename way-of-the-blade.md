@@ -1,4 +1,4 @@
-<!-- TITLE: Way Of The Blade -->
+<!-- TITLE: Skill: Way Of The Blade -->
 <!-- SUBTITLE:  -->
 
 **Level:** 29
