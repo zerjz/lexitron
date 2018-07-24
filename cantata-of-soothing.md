@@ -6,5 +6,3 @@
 **Subclass:** [Aristocrat](aristrocrat)
 
 **Song Effect:** A light cantata that regenerates the health, mana, and stamina of your entire group.
-
-# Header
