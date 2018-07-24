@@ -5,5 +5,4 @@
 
 **Subclass:** Grim Reaper
 
-**Spell Effect:** Tears strength from your target and infuses your muscles for 0:06:00.
-# Header
+**Spell Effect:** Tears strength from your target and infuses your muscles for 0:06:00
