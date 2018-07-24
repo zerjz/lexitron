@@ -6,5 +6,3 @@
 **Subclass:** [Demonologist](demonologist)
 
 **Spell Effect:** Drains the strength of all nearby creatures for 0:06:00.
-
-# Header
