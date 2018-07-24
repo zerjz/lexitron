@@ -6,5 +6,3 @@
 **Subclass:** [Ninja](ninja)
 
 **Skill Effect:** Increases your hand speed, allowing you an increased attack rate and damage.
-
-# Header
