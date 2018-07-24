@@ -5,24 +5,24 @@ Subclass of [Archer](archer)
 # Traps and Skills
 
 **Traps**
-[Poison Spike Trap](poison-spike-trap)
-[Heavy Spike Trap](heavy-spike-trap)
-[Small Rope Trap](small-rope-trap)
 [Dart Trap](dart-trap)
 [Explosive Wooden Barrel](explosive-wooden-barrel)
+[Heavy Spike Trap](heavy-spike-trap)
+[Poison Spike Trap](poison-spike-trap)
+[Small Rope Trap](small-rope-trap)
 [Spider Egg Trap](spider-egg-trap)
 
 **Level 21**
-[Barbed Arrows](barbed-arrows)
+[Spell: Barbed Arrows](barbed-arrows)
 
 **Level 23**
-[Volley](volley)
+[Skill: Volley](volley)
 
 **Level 25**
-[Blazing Arrow](blazing-arrow)
+[Spell: Blazing Arrow](blazing-arrow)
 
 **Level 27**
-[Blink Arrow](blink-arrow)
+[Spell: Blink Arrow](blink-arrow)
 
 **Level 29**
-[Ambush](ambush)
+[Skill: Ambush](ambush)
