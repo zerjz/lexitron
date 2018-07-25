@@ -23,3 +23,44 @@ Subclass of [Witch](witch)
 
 **Level 29**
 [Spell: Cactus Spines](cactus-spines)
+
+**Level 30**
+[Spell: Harmony of Nature](harmony-of-nature)
+[Spell: Purify](purify)
+[Spell: Resist Cold](resist-cold)
+[Spell: Sunsliver](sunsliver)
+
+**Level 31**
+[Spell: Caring Spirit](caring-spirit)
+[Spell: Lightning Blast](lightning-blast)
+
+**Level 32**
+[Spell: Beguile Animals](beguile-animals)
+[Spell: Spirit of Ash](spirit-of-ash)
+
+**Level 33**
+[Spell: Chloroplast](chloroplast)
+[Spell: Enveloping Roots](enveloping-roots)
+
+**Level 34**
+[Spell: Healing Water](healing-water)
+[Spell: Storm Strength](storm-strength)
+
+**Level 35**
+[Spell: Baby Treant](baby-treant)
+[Spell: Engulfing Roots](engulfing-roots)
+
+**Level 36**
+[Spell: Growth](growth)
+
+**Level 37**
+[Spell: Legacy of Spike](legacy-of-spike)
+[Spell: Summon: Heart Blossom Tree](summon-heart-blossom-tree)
+
+**Level 38**
+[Spell: Tangle](tangle)
+[Spell: Upheaval](upheaval)
+
+**Level 39**
+[Spell: Circle of Summer](circle-of-summer)
+[Spell: Circle of Winter](circle-of-winter)
