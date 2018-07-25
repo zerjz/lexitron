@@ -35,3 +35,36 @@ Subclass of [Witch](witch)
 **Level 29**
 [Spell: Fear](fear)
 [Spell: The Witch's Hand](the-witch's-hand)
+
+**Level 30**
+[Spell: Dark Assistant](dark-assistant)
+[Spell: Night of the Pumpkin](night-of-the-pumpkin)
+[Spell: Turn to Zombie](turn-to-zombie)
+
+**Level 31**
+[Spell: Drones of Doom](drones-of-doom)
+
+**Level 32**
+[Spell: Shock of the Eighth Sun](shock-of-the-eighth-sun)
+
+**Level 33**
+[Spell: Enveloping Roots](enveloping-roots)
+[Spell: Mambo Evil Eye](mambo-evil-eye)
+
+**Level 34**
+[Spell: Samhain's Touch](samhains-touch)
+
+**Level 35**
+[Spell: Dustdevil](dustdevil)
+
+**Level 36**
+[Spell: Nullify Magic](nullify-magic)
+
+**Level 37**
+[Spell: Resist Poison](resist-poison)
+
+**Level 38**
+[Spell: Winged Death](winged-death)
+
+**Level 39**
+[Spell: Ghost Force](ghost-force)
