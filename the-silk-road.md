@@ -1,5 +1,5 @@
 <!-- TITLE: The Silk Road -->
-<!-- SUBTITLE: A quick summary of The Silk Road -->
+
 
 **Level:** 32
 
