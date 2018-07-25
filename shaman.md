@@ -22,3 +22,37 @@ Subclass of [Alchemist](alchemist)
 
 **Level 26**
 [Spell: Spiritual Precision](spiritual-precision)
+
+**Level 30**
+[Spell: Gale of Poison](gale-of-poison)
+[Spell: Shamanistic Fury](shamanistic-fury)
+[Spell: Spirit of Bih'Li](spirit-of-bihli)
+
+**Level 31**
+[Spell: Vigilant Spirit](vigilant-spirit)
+
+**Level 32**
+[Spell: Insidious Malady](insidious-malady)
+
+**Level 33**
+[Spell: Deftness](deftness)
+
+**Level 34**
+[Spell: Furious Strength](furious-strength)
+
+**Level 35**
+[Spell: Agility](agility)
+[Spell: Incapacitate](incapacitate)
+
+**Level 36**
+[Spell: Guardian](guardian)
+
+**Level 37**
+[Spell: Stamina](stamina)
+
+**Level 39**
+[Spell: Blizzard Blast](blizzard-blast)
+[Spell: Rage](rage)
+
+**Level 40**
+[Spell: Odium](odium)
