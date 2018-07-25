@@ -16,6 +16,7 @@
 [a Mana Elemental](a-mana-elemental)
 [a Mana Goblin](a-mana-goblin)
 [a Mana Golem](a-mana-golem)
+[a Priest](a-priest)
 [a Shade](a-shade)
 [a Shrouded Miner](a-shrouded-miner)
 [a Spectral Troll](a-spectral-troll)
