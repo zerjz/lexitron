@@ -42,7 +42,7 @@ Subclass of [Monk](monk)
 [Skill: Low Slash](low-slash)
 
 **Level 33**
-[Skill: Samura's Stealth](samurais-stealth)
+[Skill: Samurai's Stealth](samurais-stealth)
 
 **Level 34**
 [Skill: Half Moon Slash](half-moon-slash)
