@@ -55,7 +55,7 @@ Subclass of [Sorcerer](sorcerer)
 [Spell: Clarity II](clarity-ii)
 
 **Level 38**
-[Spell: Gift of Inisight](gift-of-insight)
+[Spell: Gift of Insight](gift-of-insight)
 
 **Level 39**
 [Spell: Gift of Pure Thought](gift-of-pure-thought)
