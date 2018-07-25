@@ -32,3 +32,40 @@ Subclass of [Sorcerer](sorcerer)
 
 **Level 27**
 [Spell: Time Lapse](time-lapse)
+
+**Level 30**
+[Spell: Celerity](celerity)
+[Spell: Circle of Force](circle-of-force)
+
+**Level 31**
+[Spell: Greater Shielding](greater-shielding)
+
+**Level 32**
+[Spell: Entombment](entombment)
+[Spell: Shifting Deeds](shifting-deeds)
+
+**Level 33**
+[Spell: Force Spiral](force-spiral)
+
+**Level 34**
+[Spell: Artificial Age](artificial-age)
+[Spell: Shifting Sight](shifting-sight)
+
+**Level 35**
+[Spell: Force Strike](force-strike)
+
+**Level 36**
+[Spell: Gravity Flux](gravity-flux)
+
+**Level 37**
+[Spell: Concussion](concussion)
+
+**Level 38**
+[Spell: Markar's Clash](markars-clash)
+[Spell: Rend](rend)
+
+**Level 39**
+[Spell: Ice Age](ice-age)
+
+**Level 45**
+[Spell: Supernova](supernova)
