@@ -105,7 +105,7 @@ Rushforth Ocean
 Sanglii, the Isle of Blood
 S'Aquia Water Temple
 [S'Aquia, City of the Sirens](saquia)
-Telvaz, the Misery Mire
+[Telvaz, the Misery Mire](miserymire)
 The Alchemy Chambers
 The Arena
 The Bazaar
