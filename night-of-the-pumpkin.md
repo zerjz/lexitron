@@ -1,4 +1,4 @@
-<!-- TITLE: Night Of The Pumpkin -->
+<!-- TITLE: Spell: Night Of The Pumpkin -->
 
 **Level:** 30
 
