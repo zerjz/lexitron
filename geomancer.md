@@ -33,3 +33,37 @@ Subclass of [Summoner](summoner)
 
 **Level 29**
 [Spell: Fists of Stone](fists-of-stone)
+
+**Level 30**
+[Spell: Diamondskin](diamondskin)
+[Spell: Ice Shock](ice-shock)
+
+**Level 31**
+[Spell: Frost Storm](frost-storm)
+[Spell: Summon Water Bubble](summon-water-bubble)
+
+**Level 32**
+[Spell: Elemental Armor](elemental-armor)
+[Spell: Permafrost Galmi](permafrost-galmi)
+
+**Level 33**
+[Spell: Lure of Frost](lure-of-frost)
+
+**Level 34**
+[Spell: Frozen Harpoon](frozen-harpoon)
+[Spell: Refresh Summoning](refresh-summoning)
+
+**Level 35**
+[Spell: Zephyr of Ice](zephyr-of-ice)
+
+**Level 36**
+[Spell: Draught of Ice](draught-of-ice)
+
+**Level 37**
+[Spell: Iceflame Guard](iceflame-guard)
+
+**Level 38**
+[Spell: Ice Meteor](ice-meteor)
+
+**Level 39**
+[Spell: Clinging Frost](clinging-frost)
