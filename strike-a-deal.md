@@ -1,5 +1,4 @@
 <!-- TITLE: Strike A Deal -->
-<!-- SUBTITLE: A quick summary of Strike A Deal -->
 
 **Level:** 30
 
