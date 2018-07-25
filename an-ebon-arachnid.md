@@ -12,3 +12,10 @@ Level:
 
 
 # Loot
+
+**Common**
+
+[Sharp Fang](sharp-fang)
+[Spider Silk Strings](spider-silk-strings)
+[Insect Pieces](insect-pieces)
+[Spider Eye](spider-eye)
