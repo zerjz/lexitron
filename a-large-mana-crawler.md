@@ -8,7 +8,7 @@
 Level: 
 ```
 > "Blast the entire hive with fireballs, it's the only way to be sure."
-> *~Rigley, Apprentice Sorceror*
+> *~Rigley, Apprentice Sorcerer*
 
 
 # Loot
