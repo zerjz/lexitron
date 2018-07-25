@@ -28,3 +28,33 @@ Subclass of [Monk](monk)
 
 **Level 29**
 [Skill: Perfect Calm](perfect-calm)
+
+**Level 30**
+[Skill: Tranquil Punch](tranquil-punch)
+
+**Level 31**
+[Skill: Motivation](motivation)
+
+**Level 32**
+[Skill: Tranquil Touch](tranquil-touch)
+
+**Level 33**
+[Skill: Shared Compassion](shared-compassion)
+
+**Level 34**
+[Skill: Greater Icon](greater-icon)
+
+**Level 35**
+[Skill: Guidance](guidance)
+
+**Level 36**
+[Skill: Tenacity](tenacity)
+
+**Level 37**
+[Skill: Vow of Continence](vow-of-continence)
+
+**Level 38**
+[Skill: Perfect Calm](perfect-calm)
+
+**Level 39**
+[Skill: Vll's Teaching](vlls-teaching)
