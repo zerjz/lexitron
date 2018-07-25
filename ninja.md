@@ -26,3 +26,33 @@ Subclass of [Assassin](assassin)
 
 **Level 28**
 [Skill: Weightless Body](weightless-body)
+
+**Level 30**
+[Skill: Barbed Shuriken](barbed-shuriken)
+
+**Level 31**
+[Skill: Ninja's Meditation](ninjas-meditation)
+
+**Level 32**
+[Skill: Ichigeki](ichigeki)
+
+**Level 33**
+[Skill: Shuriken Volley](shuriken-volley)
+
+**Level 34**
+[Skill: Shadowslip](shadowslip)
+
+**Level 35**
+[Skill: Cover of the Ninja](cover-of-the-ninja)
+
+**Level 36**
+[Skill: Master's Aim](masters-aim)
+
+**Level 37**
+[Skill: Kakusa Cowl](kakusa-cowl)
+
+**Level 38**
+[Skill: Shizuka Na Shi](shizuka-na-shi)
+
+**Level 39**
+[Skill: Hijo Shoku](hijo-shoku)
