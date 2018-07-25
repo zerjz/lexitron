@@ -1,4 +1,4 @@
-<!-- TITLE: An Ebon Arachnid -->
+<!-- TITLE: an ebon arachnid -->
 
 [S'Aquia, City of Sirens](saquia)
 
