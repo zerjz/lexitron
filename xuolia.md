@@ -34,6 +34,7 @@ The delicate Manastone bricks that comprise the city itself are in severe disrep
 
 
 # NPCs
+[Spiritsmith Quen](spiritsmith-quen)
 
 
 # Connections
