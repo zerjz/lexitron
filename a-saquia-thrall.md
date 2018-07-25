@@ -1,4 +1,4 @@
-<!-- TITLE: A S'Aquia Thrall -->
+<!-- TITLE: a S'Aquia thrall -->
 [S'Aquia, The City of Sirens](saquia)
 
 # Info
