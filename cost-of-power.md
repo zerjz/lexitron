@@ -1,5 +1,5 @@
 <!-- TITLE: Cost Of Power -->
-<!-- SUBTITLE: A quick summary of Cost Of Power -->
+
 
 **Level:** 34
 
