@@ -1,4 +1,4 @@
-<!-- TITLE: Dark Assistant -->
+<!-- TITLE: Spell: Dark Assistant -->
 
 **Level:** 30
 
