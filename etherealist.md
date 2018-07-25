@@ -36,5 +36,33 @@ Subclass of [Summoner](summoner)
 **Level 28**
 [Spell: Ether Gate: Starlight Beach](ether-gate-starlight-beach)
 
+**Level 30**
+[Spell: Voidcrawlers](voidcrawlers)
+
+**Level 31**
+[Spell: Void Rune](void-rune)
+
+**Level 32**
+[Spell: Summon: Shadowy Assassin](summon-shadowy-assassin)
+
+**Level 33**
+[Spell: Rain of Swords](rain-of-swords)
+
 **Level 34**
 [Spell: Refresh Summoning](refresh-summoning)
+[Spell: Scintillation](scintillation)
+
+**Level 35**
+[Spell: Annul Magic](annul-magic)
+
+**Level 36**
+[Spell: Boon of Immolation](boon-of-immolation)
+
+**Level 37**
+[Spell: Summon: Planar Defender](summon-planar-defender)
+
+**Level 38**
+[Spell: Summon: Muzzle of Mardu](summon-muzzle-of-mardu)
+
+**Level 39**
+[Spell: Seeking Flame of Seukor](seeking-flame-of-seukor)
