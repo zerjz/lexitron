@@ -18,10 +18,18 @@
 
 # Harvesting
 **Mining**
-
+[Copper Ore](copper-ore)
+[Mercury](mercury)
+[Silver Ore](silver-ore)
+[Worthless Rock](worthless-rock)
 
 **Logging**
-
+[Dry Bark](dry-bark)
+[Nectarnut](nectarnut)
+[Plain Log](plain-log)
+[Stick](stick)
+[Wood Planks](wood-planks)
+[Worthless Wood Chips](worthless-wood-chips)
 
 # Connections
 [Daggerdepth Lake](daggerdepth)
