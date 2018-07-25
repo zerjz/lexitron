@@ -1,5 +1,5 @@
 <!-- TITLE: Call Sales Associate -->
-<!-- SUBTITLE: A quick summary of Call Sales Associate -->
+
 
 **Level:** 36
 
