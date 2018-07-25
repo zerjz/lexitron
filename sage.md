@@ -37,6 +37,7 @@ Subclass of [Sorcerer](sorcerer)
 [Spell: Absorb Mind](absorb-mind)
 [Spell: Cast Sight](cast-sight)
 [Spell: Gift of Magic](gift-of-magic)
+[Spell: Pillage Enchantment](pillage-enchantment)
 
 **Level 31**
 [Spell: Insight](insight)
