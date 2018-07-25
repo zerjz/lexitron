@@ -43,3 +43,35 @@ Subclass of [Priest](priest)
 
 **Level 29**
 [Spell: Form of the Bat](form-of-the-bat)
+
+**Level 30**
+[Spell: Invoke Fear](invoke-fear)
+
+**Level 31**
+[Spell: Beguile Undead](beguile-undead)
+
+**Level 32**
+[Spell: Augment Death](augment-death)
+
+**Level 33**
+[Spell: Word of Souls](word-of-souls)
+
+**Level 34**
+[Spell: Drain Spirit](drain-spirit)
+[Spell: Expel Undead](expel-undead)
+
+**Level 35**
+[Spell: Dead Man Floating](dead-man-floating)
+
+**Level 36**
+[Spell: Ignite Bones](ignite-bones)
+
+**Level 37**
+[Spell: Auspice](auspice)
+
+**Level 38**
+[Spell: Insidious Retrogression](insidious-retrogression)
+
+**Level 39**
+[Spell: Lich](lich)
+[Spell: Splurt](splurt)
