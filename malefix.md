@@ -8,6 +8,7 @@
 [a Bard](a-bard)
 [a Crying Fairy](a-crying-fairy)
 [a Cube of Mana](a-cube-of-mana)
+[a Glowing Griffin](a-glowing-griffin)
 [a Large Mana Crawler](a-large-mana-crawler)
 [a Lesser Mana Elemental](a-lesser-mana-elemental)
 [a Lost Wisp](a-lost-wisp)
