@@ -32,3 +32,25 @@ Subclass of [Dragoon](dragoon)
 
 **Level 29**
 [Spell: Tail Sweep](tail-sweep)
+
+**Level 30**
+[Spell: Call Gold Dragon](call-gold-dragon)
+[Spell: Dragon's Breath](dragons-breath)
+
+**Level 31**
+[Skill: Dragon's Fury](dragons-fury)
+[Spell: Cinder Bolt](cinder-bolt)
+[Spell: Primsatic Scales](prismatic-scales)
+
+**Level 32**
+[Skill: Fang Chomp](fang-chomp)
+[Spell: Burnout III](burnout-iii)
+
+**Level 33**
+[Spell: Flame Arc](flame-arc)
+
+**Level 35**
+[Spell: Lava Bolt](lava-bolt)
+
+**Level 37**
+[Spell: Conflagration](conflagration)
