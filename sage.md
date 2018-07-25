@@ -32,3 +32,33 @@ Subclass of [Sorcerer](sorcerer)
 
 **Level 29**
 [Spell: Harvest](harvest)
+
+**Level 30**
+[Spell: Absorb Mind](absorb-mind)
+[Spell: Cast Sight](cast-sight)
+[Spell: Gift of Magic](gift-of-magic)
+
+**Level 31**
+[Spell: Insight](insight)
+
+**Level 32**
+[Spell: Calming Visage](calming-visage)
+[Spell: Wandering Mind](wandering-mind)
+
+**Level 33**
+[Spell: Boon of the Clear Mind](boon-of-the-clear-mind)
+
+**Level 36**
+[Spell: Theft of Thought](theft-of-thought)
+
+**Level 37**
+[Spell: Clarity II](clarity-ii)
+
+**Level 38**
+[Spell: Gift of Inisight](gift-of-insight)
+
+**Level 39**
+[Spell: Gift of Pure Thought](gift-of-pure-thought)
+
+**Level 44**
+[Spell: Bounce](bounce)
