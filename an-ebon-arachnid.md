@@ -5,7 +5,7 @@
 # Info
 
 ```perl
-Level: 
+Level: 10
 ```
 > "Chitinous black in a city of white and azure.  A stark contrast, if ever I saw one."
 > *~Thrule*
