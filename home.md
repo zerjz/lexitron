@@ -92,7 +92,7 @@ Eyerime, the Frozen Cloister
 Glimmer, the Plane of Luster
 Kupakai Cave
 Liar's Archipelago
-Malefix, the Mines of Mana
+[Malefix, the Mines of Mana](malefix)
 Malsyrian Villa
 Marid Manor
 [New Mechatropolis](mechatropolis)
