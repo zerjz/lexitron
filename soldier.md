@@ -28,3 +28,33 @@ Subclass of [Archer](archer)
 
 **Level 29**
 [Spell: Full Metal Jacket](full-metal-jacket)
+
+**Level 30**
+[Skill: Into the Fray](into-the-fray)
+
+**Level 31**
+[Spell: Reactive Plates](reactive-plates)
+
+**Level 32**
+[Skill: Sniper Shot](sniper-shot)
+
+**Level 33**
+[Skill: Mortar Strike](mortar-strike)
+
+**Level 34**
+[Skill: Uppercut](uppercut)
+
+**Level 35**
+[Spell: Deploy Autocannon](deploy-autocannon)
+
+**Level 36**
+[Spell: Explosive Rounds](explosive-rounds)
+
+**Level 37**
+[Skill: Blastback](blastback)
+
+**Level 38**
+[Spell: Reactive Aegis](reactive-aegis)
+
+**Level 39**
+[Skill: Overcharge](overcharge)
