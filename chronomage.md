@@ -42,7 +42,7 @@ Subclass of [Sorcerer](sorcerer)
 
 **Level 32**
 [Spell: Entombment](entombment)
-[Spell: Shifting Deeds](shifting-deeds)
+[Spell: Shiftless Deeds](shiftless-deeds)
 
 **Level 33**
 [Spell: Force Spiral](force-spiral)
