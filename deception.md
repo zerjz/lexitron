@@ -1,4 +1,4 @@
-<!-- TITLE: Deception -->
+<!-- TITLE: Skill: Deception -->
 
 
 **Level:** 38
