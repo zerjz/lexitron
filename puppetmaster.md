@@ -25,3 +25,40 @@ Subclass of [Enchanter](enchanter)
 
 **Level 28**
 [Spell: Attach Amicable Strings](attach-amicable-strings)
+
+**Level 30**
+[Spell: Anarchy](anarchy)
+[Spell: Entrancing Lights](entrancing-lights)
+
+**Level 31**
+[Spell: Invoke Fear](invoke-fear)
+[Spell: Pacify](pacify)
+
+**Level 32**
+[Spell: Gravity Flux](gravity-flux)
+[Spell: Mind Wipe](mind-wipe)
+
+**Level 33**
+[Spell: Cajoling Whispers](cajoling-whispers)
+
+**Level 34**
+[Spell: Immobilize](immobilize)
+[Spell: Insipid Weakness](insipid-weakness)
+[Spell: Rampage](rampage)
+
+**Level 35**
+[Spell: Tashanian](tashanian)
+
+**Level 36**
+[Spell: Color Skew](color-skew)
+[Spell: Discordant Mind](discordant-mind)
+
+**Level 37**
+[Spell: Blanket of Forgetfulness](blanket-of-forgetfulness)
+[Spell: Dazzle](dazzle)
+
+**Level 38**
+[Spell: Gasping Embrace](gasping-embrace)
+
+**Level 39**
+[Spell: Collaboration](collaboration)
