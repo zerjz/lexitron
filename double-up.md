@@ -1,5 +1,5 @@
 <!-- TITLE: Double Up -->
-<!-- SUBTITLE: A quick summary of Double Up -->
+
 
 **Level:** 37
 
