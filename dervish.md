@@ -33,3 +33,33 @@ Subclass of [Bard](bard)
 
 **Level 29**
 [Song: Cyclone of Blades](cyclone-of-blades)
+
+**Level 30**
+[Song: Jig of Fancy Footwork](jig-of-fancy-footwork)
+
+**Level 31**
+[Skill: Flurry of Kicks](flurry-of-kicks)
+
+**Level 32**
+[Skill: Dervish's Clash](dervishs-clash)
+
+**Level 33**
+[Song: Sword Dancing](sword-dancing)
+
+**Level 34**
+[Song: Dervish's Whirling Chant](dervishs-whirling-chant)
+
+**Level 35**
+[Song: Blur](blur)
+
+**Level 36**
+[Skill: Embellished Steps](embellished-steps)
+
+**Level 37**
+[Skill: Flourish](flourish)
+
+**Level 38**
+[Song: Purifying Percussion](purifying-percussion)
+
+**Level 39**
+[Song: Aria of Winged Feet](aria-of-winged-feet)
