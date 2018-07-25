@@ -1,4 +1,4 @@
-<!-- TITLE: Gift Of Magic -->
+<!-- TITLE: Spell: Gift Of Magic -->
 
 **Level:** 30
 
