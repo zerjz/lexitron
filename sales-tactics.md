@@ -1,4 +1,4 @@
-<!-- TITLE: Sales Tactics -->
+<!-- TITLE: Skill: Sales Tactics -->
 
 
 **Level:** 35
