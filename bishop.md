@@ -35,5 +35,34 @@ Subclass of [Priest](priest)
 [Scroll: Vow of Vehemence](vow-of-vehemence)
 [Spell: Complete Healing](complete-healing)
 
+**Level 30**
+[Spell: Purify](purify)
+[Spell: Ward of the Bishop](ward-of-the-bishop)
+
+**Level 31**
+[Spell: Superior Healing](superior-healing)
+
+**Level 32**
+[Spell: Invigoration](invigoration)
+
+**Level 33**
+[Spell: Armor of Faith](armor-of-faith)
+
+**Level 34**
+[Spell: Symbol of Grider](symbol-of-grider)
+
 **Level 35**
 [Spell: Fortitude](fortitude)
+[Spell: Wave of Healing](wave-of-healing)
+
+**Level 36**
+[Spell: Brilliant Bastion](brilliant-bastion)
+
+**Level 37**
+[Spell: Blessed Healing](blessed-healing)
+
+**Level 38**
+[Spell: Tectonic Upheaval](tectonic-upheaval)
+
+**Level 39**
+[Spell: Vow of Veneration](vow-of-veneration)
