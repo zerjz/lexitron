@@ -4,7 +4,7 @@
 # Info
 
 ```perl
-Level: 15
+Level: 12
 ```
 > "It was passing strange, the tales of the infamous S'Aquia.  When I first stepped foot within its walls I thought it picturesque and, in it's own ways, quite grand.  A perfect place to spend my days in cozy respite.  The locals eagerly agreed."
 > *~Thrule*
@@ -12,6 +12,13 @@ Level: 15
 
 # Loot
 
+**Common**
+
+[Nectarnut Soup](nectarnut-soup)
+[The Hierophant](the-hierophant)
+[Siren Scale](siren-scale)
+[Kelp Sleeping Mask](kelp-sleeping-mask)
+
 **Rare**
 
-[Voice of the Siren](voice-of-the-siren)
+[Silver Ingot](silver-ingot)
