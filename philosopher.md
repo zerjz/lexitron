@@ -29,3 +29,33 @@ Subclass of [Alchemist](alchemist)
 **Level 27**
 [Spell: Construct: Golden Golem](construct-golden-golem)
 [Spell: Copper Blitz](copper-blitz)
+
+**Level 30**
+[Spell: Scholar's Focus](scholars-focus)
+
+**Level 31**
+[Skill: Throw Twinblade Potion](throw-twinblast-potion)
+
+**Level 32**
+[Spell: Silver Blitz](silver-blitz)
+
+**Level 33**
+[Spell: Goldfist](goldfist)
+
+**Level 34**
+[Spell: Animate Blackmetal Golem](animate-blackmetal-golem)
+
+**Level 35**
+[Spell: Flawless Reasoning](flawless-reasoning)
+
+**Level 36**
+[Skill: Throw Fungus Potion](throw-fungus-potion)
+
+**Level 37**
+[Skill: Throw Potion of Sage Extract](throw-potion-of-sage-extract)
+
+**Level 38**
+[Spell: Great Thinker's Barrier](great-thinkers-barrier)
+
+**Level 39**
+[Spell: Golden Blitz](golden-blitz)
