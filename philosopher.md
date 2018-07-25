@@ -34,7 +34,7 @@ Subclass of [Alchemist](alchemist)
 [Spell: Scholar's Focus](scholars-focus)
 
 **Level 31**
-[Skill: Throw Twinblade Potion](throw-twinblast-potion)
+[Skill: Throw Twinblast Potion](throw-twinblast-potion)
 
 **Level 32**
 [Spell: Silver Blitz](silver-blitz)
