@@ -6,7 +6,7 @@
 ```perl
 Level: 
 ```
-> "Grumpy or bored, I'm never sure which, unless I come to Bitterpike with gifts."
+> "We're in the army now!"
 > *~Thrule*
 
 
