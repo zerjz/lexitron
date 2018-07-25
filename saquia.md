@@ -28,6 +28,24 @@ Ruled by the moody and sensual Queen Ssyrella, the S'Aquia sirens have learned a
 [Sergeant Bitterpike](sergeant-bitterpike)
 
 
+# Harvesting
+**Mining**
+[Cinnabar](cinnabar)
+[Copper Ore](copper-ore)
+[Sand](sand)
+[Sand Dollar](sand-dollar)
+[Worthless Rock](worthless-rock)
+
+**Logging**
+[Blue Cherries](blue-cherries)
+[Dry Bark](dry-bark)
+[Golden Sap](golden-sap)
+[Plain Log](plain-log)
+[Stick](stick)
+[Wooden Planks](wooden-planks)
+[Worthless Wood Chips](worthless-wood-chips)
+
+
 # Connections
 [S'Aquia Water Temple](watertemple)
 [Telvaz, the Misery Mire](miserymire)
