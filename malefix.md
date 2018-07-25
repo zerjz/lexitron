@@ -6,6 +6,7 @@
 
 [a Baby Mana Crawler](a-baby-mana-crawler)
 [a Bard](a-bard)
+[a Blackened Golem](a-blackened-golem)
 [a Crying Fairy](a-crying-fairy)
 [a Cube of Mana](a-cube-of-mana)
 [a Glowing Griffin](a-glowing-griffin)
