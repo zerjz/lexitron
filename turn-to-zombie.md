@@ -1,4 +1,4 @@
-<!-- TITLE: Turn To Zombie -->
+<!-- TITLE: Spell: Turn To Zombie -->
 
 **Level:** 30
 
