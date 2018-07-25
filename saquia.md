@@ -7,6 +7,7 @@ Ruled by the moody and sensual Queen Ssyrella, the S'Aquia sirens have learned a
 [an ebon arachnid](an-ebon-arachnid)
 [Armorer Sharpane](armorer-sharpane)
 [a bathing siren](a-bathing-siren)
+[a singing siren](a-singing-siren)
 [a sleeping siren](a-sleeping-siren)
 [a sorcery bound sentinel](a-sorcery-bound-sentinel)
 [a S'Aquia dutchess](a-saquia-dutchess)
