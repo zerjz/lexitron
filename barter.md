@@ -1,4 +1,4 @@
-<!-- TITLE: Barter -->
+<!-- TITLE: Skill: Barter -->
 
 
 **Level:** 39
