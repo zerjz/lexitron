@@ -28,3 +28,33 @@ Subclass of [Assassin](assassin)
 
 **Level 27**
 [Skill: Shenanigans](shenanigans)
+
+**Level 30**
+[Skill: Play Possum](play-possum)
+
+**Level 31**
+[Skill: Dirty Stab](dirty-stab)
+
+**Level 32**
+[Skill: Blackout](blackout)
+
+**Level 33**
+[Skill: Apply Blowfish Poison](apply-blowfish-poison)
+
+**Level 34**
+[Skill: Impish Delight](impish-delight)
+
+**Level 35**
+[Skill: Muscle Rip](muscle-rip)
+
+**Level 36**
+[Skill: Chicanery](chicanery)
+
+**Level 37**
+[Skill: Decapitate](decapitate)
+
+**Level 38**
+[Skill:  Impish Nights](impish-nights)
+
+**Level 39**
+[Skill: Uncover Weakness](uncover-weakness)
