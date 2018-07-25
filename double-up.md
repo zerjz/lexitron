@@ -1,4 +1,4 @@
-<!-- TITLE: Double Up -->
+<!-- TITLE: Skill: Double Up -->
 
 
 **Level:** 37
