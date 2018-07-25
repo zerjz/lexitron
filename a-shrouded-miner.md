@@ -7,7 +7,7 @@
 ```perl
 Level: 
 ```
-> "Indifferent and ominous, the miners lost to the deeper shafts serve as reminder to those foolish enough to chase their avarice."
+> "Keen to take advantage of a desparate situation, Gal'Vae has sent their excavation crews to pillage what manastone they can from Xuolia's mines."
 > *~Thrule*
 
 
