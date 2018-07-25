@@ -1,5 +1,5 @@
 <!-- TITLE: Goldflip -->
-<!-- SUBTITLE: A quick summary of Goldflip -->
+
 
 **Level:** 34
 
