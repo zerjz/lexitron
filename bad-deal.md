@@ -1,4 +1,4 @@
-<!-- TITLE: Bad Deal -->
+<!-- TITLE: Skill: Bad Deal -->
 
 
 **Level:** 31
