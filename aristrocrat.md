@@ -32,3 +32,29 @@ Subclass of [Bard](bard)
 
 **Level 28**
 [Song: Dissension](dissension)
+
+**Level 30**
+[Song: Bellow of Bladeturning](bellow-of-bladeturning)
+
+**Level 31**
+[Song: Canticle of Generation](canticle-of-generation)
+[Song: Song of Suffering](song-of-suffering)
+
+**Level 33**
+[Song: Aristocrat's Lullaby](aristocrats-lullaby)
+[Song: Sorcerer's Intensifying Song](sorcerers-intensifying-song)
+
+**Level 35**
+[Song: Hired Assassin](hired-assassin)
+
+**Level 36**
+[Song: Chant of Wikkytok](chant-of-wikkytok)
+
+**Level 37**
+[Song: Rejuvenating Chorus](rejuvenating-chorus)
+
+**Level 38**
+[Song: Betwitching Beckon](bewitching-beckon)
+
+**Level 39**
+[Song: Dirge of Destruction](dirge-of-destruction)
