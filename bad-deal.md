@@ -1,5 +1,5 @@
 <!-- TITLE: Bad Deal -->
-<!-- SUBTITLE: A quick summary of Bad Deal -->
+
 
 **Level:** 31
 
