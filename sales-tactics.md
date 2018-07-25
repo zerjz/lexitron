@@ -1,5 +1,5 @@
 <!-- TITLE: Sales Tactics -->
-<!-- SUBTITLE: A quick summary of Sales Tactics -->
+
 
 **Level:** 35
 
