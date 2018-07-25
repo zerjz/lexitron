@@ -1,4 +1,4 @@
-<!-- TITLE: Boon Of The Clear Mind -->
+<!-- TITLE: Spell: Boon Of The Clear Mind -->
 
 **Level:** 33
 
