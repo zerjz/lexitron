@@ -1,4 +1,4 @@
-<!-- TITLE: Strike A Deal -->
+<!-- TITLE: Skill: Strike A Deal -->
 
 **Level:** 30
 
