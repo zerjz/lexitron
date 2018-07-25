@@ -10,6 +10,7 @@
 [a Cube of Mana](a-cube-of-mana)
 [a Large Mana Crawler](a-large-mana-crawler)
 [a Lesser Mana Elemental](a-lesser-mana-elemental)
+[a Lost Wisp](a-lost-wisp)
 [a Mana Crawler](a-mana-crawler)
 [a Mana Elemental](a-mana-elemental)
 [a Mana Goblin](a-mana-goblin)
@@ -26,6 +27,8 @@
 [Mana Bones](mana-bones)
 [Priest of Gal'Vae](priest-of-galvae)
 [Statue of Windre](statue-of-windre)
+[The Avatar of Mana](the-avatar-of-mana)
+[The Manaspun Knight](the-manaspun-knight)
 
 # NPCs
 
