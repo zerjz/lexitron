@@ -4,10 +4,13 @@
 # Info
 
 ```perl
-Level: 
+Level: 16
 ```
 > "To say the relationship between Djinn, Efreeti and Siren is complicated, is an understatement.  Mocoly strives to strengthen their ties, but likely serves her own ends."
 > *~Thrule*
 
 
 # Loot
+
+[Djinn Spirit Gown](djinn-spirit-gown)
+[Cosmic Essence](cosmic-essence)
