@@ -1,4 +1,4 @@
-<!-- TITLE: Cost Of Power -->
+<!-- TITLE: Skill: Cost Of Power -->
 
 
 **Level:** 34
