@@ -1,7 +1,7 @@
 <!-- TITLE: Spell: Invoke Fear -->
 
-**Level:** 30
+**Level:** 31 | 30
 
-**Subclass:** [Vampire](vampire)
+**Subclass:** [Puppetmaster](puppetmaster) | [Vampire](vampire)
 
 **Spell Effect:** A booming voice fills your target's ears, causing them to flee in terror.
