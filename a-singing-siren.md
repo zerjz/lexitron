@@ -7,7 +7,7 @@
 ```perl
 Level: 15
 ```
-> ""
+> "The voice of an angel with a temper to match any demon."
 > *~Thrule*
 
 
