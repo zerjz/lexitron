@@ -1,5 +1,4 @@
 <!-- TITLE: Skill: Into The Fray -->
-<!-- SUBTITLE: A quick summary of Into The Fray -->
 
 **Level:** 30
 
