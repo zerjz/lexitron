@@ -1,4 +1,4 @@
-<!-- TITLE: Malefix -->
+<!-- TITLE: Malefix, Mines of Mana -->
 
 
 
