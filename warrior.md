@@ -32,3 +32,34 @@ Subclass of [Adventurer](adventurer)
 
 **Level 29**
 [Skill: Bull Rush](bull-rush)
+
+**Level 30**
+[Skill: Furious](furious)
+
+**Level 31**
+[Skill: Flurry](flurry)
+[Skill: Warrior's Wrath](warriors-wrath)
+
+**Level 32**
+[Skill: Gauntlet Strike](gauntlet-strike)
+
+**Level 33**
+[Skill: Berate](berate)
+
+**Level 34**
+[Skill: Aggressive Stance](aggressive-stance)
+
+**Level 35**
+[Skill: Furious Roar](furious-roar)
+
+**Level 36**
+[Skill: Defender's Stance](defenders-stance)
+
+**Level 37**
+[Skill: Pain Tolerance](pain-tolerance)
+
+**Level 38**
+[Skill: Stomp](stomp)
+
+**Level 39**
+[Skill: Incite](incite)
