@@ -52,5 +52,8 @@ Subclass of [Dragoon](dragoon)
 **Level 35**
 [Spell: Lava Bolt](lava-bolt)
 
+**Level 36**
+[Spell: Lava Storm](lava-storm)
+
 **Level 37**
 [Spell: Conflagration](conflagration)
