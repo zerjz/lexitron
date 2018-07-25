@@ -54,7 +54,7 @@ Subclass of [Monk](monk)
 [Skill: Vow of Continence](vow-of-continence)
 
 **Level 38**
-[Skill: Perfect Calm](perfect-calm)
+[Skill: Perfect Calm](perfect-calm-alt)
 
 **Level 39**
 [Skill: Vll's Teaching](vlls-teaching)
