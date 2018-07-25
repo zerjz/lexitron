@@ -1,5 +1,5 @@
 <!-- TITLE: Deception -->
-<!-- SUBTITLE: A quick summary of Deception -->
+
 
 **Level:** 38
 
