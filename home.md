@@ -13,7 +13,7 @@ Mana is a precious resource in Magnos. Once plentiful and abundant, over time, t
 Change is rapid in Magnos, and as the dimension grows in population, it expands itself to accomodate. New unexplored areas of the dimension are always being discovered, making it an ideal place for adventurous souls to reside
 
 
-# Classes[Classes](classes)
+# Classes
 
 [Adventurer](adventurer)
 [Alchemist](alchemist)
@@ -31,7 +31,7 @@ Change is rapid in Magnos, and as the dimension grows in population, it expands 
 [Witch](witch)
 [Sorcerer](sorcerer)
 
-# [Subclasses](subclasses)
+# Subclasses
 
 [Aristocrat](aristrocrat)
 [Bishop](bishop)
@@ -64,7 +64,7 @@ Change is rapid in Magnos, and as the dimension grows in population, it expands 
 [Vodouist](vodouist)
 [Warrior](warrior)
 
-# [Tradeskills](tradeskills)
+# Tradeskills
 
 [Alchemy](alchemy)
 [Crafting](crafting)
@@ -76,7 +76,7 @@ Change is rapid in Magnos, and as the dimension grows in population, it expands 
 [Jewelcrafting](jewelcrafting)
 [Engineering](engineering)
 
-# [Locations](locations)
+# Locations
 
 [Albarn, the Jaded Shrine](jadedshrine)
 An'Nar, Court of the Ifrit
@@ -139,6 +139,6 @@ Whiskreasel Stronghold
 Xuolia Palace
 Xuolia Underground
 
-# [Buy/Sell](buysell)
+# Buy/Sell
 
 [Marketplace](market)
