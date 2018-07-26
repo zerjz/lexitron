@@ -13,7 +13,7 @@ Mana is a precious resource in Magnos. Once plentiful and abundant, over time, t
 Change is rapid in Magnos, and as the dimension grows in population, it expands itself to accomodate. New unexplored areas of the dimension are always being discovered, making it an ideal place for adventurous souls to reside
 
 
-# Classes
+# [[Classes]](classes)
 
 [Adventurer](adventurer)
 [Alchemist](alchemist)
