@@ -30,7 +30,7 @@ Change is rapid in Magnos, and as the dimension grows in population, it expands 
 [Witch](witch)
 [Sorcerer](sorcerer)
 
-# Subclasses
+# [Subclasses](subclasses)
 
 [Aristocrat](aristrocrat)
 [Bishop](bishop)
@@ -63,7 +63,7 @@ Change is rapid in Magnos, and as the dimension grows in population, it expands 
 [Vodouist](vodouist)
 [Warrior](warrior)
 
-# Tradeskills
+# [Tradeskills](tradeskills)
 [Alchemy](alchemy)
 [Crafting](crafting)
 [Cooking](cooking)
@@ -74,7 +74,7 @@ Change is rapid in Magnos, and as the dimension grows in population, it expands 
 [Jewelcrafting](jewelcrafting)
 [Engineering](engineering)
 
-# Locations
+# [Locations](locations)
 
 [Albarn, the Jaded Shrine](jadedshrine)
 An'Nar, Court of the Ifrit
@@ -137,6 +137,6 @@ Whiskreasel Stronghold
 Xuolia Palace
 Xuolia Underground
 
-# Buy/Sell
+# [Buy/Sell](buysell)
 
 [Marketplace](market)
