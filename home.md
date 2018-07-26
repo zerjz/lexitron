@@ -14,6 +14,7 @@ Change is rapid in Magnos, and as the dimension grows in population, it expands 
 
 
 # [Classes](classes)
+
 [Adventurer](adventurer)
 [Alchemist](alchemist)
 [Archer](archer)
@@ -64,6 +65,7 @@ Change is rapid in Magnos, and as the dimension grows in population, it expands 
 [Warrior](warrior)
 
 # [Tradeskills](tradeskills)
+
 [Alchemy](alchemy)
 [Crafting](crafting)
 [Cooking](cooking)
