@@ -1,6 +1,13 @@
 <!-- TITLE: Cooking -->
 <!-- SUBTITLE: Everybody eats, and someone's gotta make it -->
 
+# Mixing Bowl
+[Mayonnaise](mayonnaise)
+[Sugar](sugar)
+[Sugared Flowers](sugared-flowers)
+[White Wedding Cake](white-wedding-cake)
+[Wildflower Salad](wildflower-salad)
+[Egg Filling](egg-filling)
 # Spit
 [Baked Cod](baked-cod)
 [Baked Potato](baked-potato)
@@ -31,12 +38,6 @@
 [Spicy Seasoning](spicy-seasoning)
 [Sweet Spun Sugar](sweet-spun-sugar)
 [Toasted Bread](toasted-bread)
+[Wildflower Salad](wildflower-salad)
 [White Meat Jerky](white-meat-jerky)
 
-# Mixing Bowl
-[Mayonnaise](mayonnaise)
-[Sugar](sugar)
-[Sugared Flowers](sugared-flowers)
-[White Wedding Cake](white-wedding-cake)
-[Wildflower Salad](wildflower-salad)
-[Egg Filling](egg-filling)
