@@ -6,6 +6,7 @@
 [Black Coffee](black-coffee)
 [Bottle of Filtered Water](bottle-of-filtered-water)
 [Bottle of Milk](bottle-of-milk)
+[Bottle of Sparkling Water](bottle-of-sparkling-water)
 [Bottle of Water](bottle-of-water)
 [Butter](butter)
 [Coffee with Cream](coffee-with-cream)
