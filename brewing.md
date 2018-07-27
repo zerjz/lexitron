@@ -17,6 +17,7 @@
 [Iced Tea](iced-tea)
 [Iced Tea with Lemon](iced-tea-with-lemon)
 [Lemonade](lemonade)
+[Mushroom Tea](mushroom-tea)
 [Nectarnut Soup](nectarnut-soup)
 [Rose Water](rose-water)
 [Sweet Ice Cream](sweet-ice-cream)
