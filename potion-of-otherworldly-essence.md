@@ -1,9 +1,14 @@
 <!-- TITLE: Potion Of Otherworldly Essence -->
 <!-- SUBTITLE: Cosmic and otherworldly energy swirls within this vial.-->
+# Alchemy 
+**Skill**
+Minimum: 
+Trivial: 50
 
-# Recipe:
-1x [Otherworldly Essence](otherworldly-essence)
-1x [Bottle of Filtered Water](bottle-of-filtered-water) in an Alembic.  Yield 1 with a trivial of 50 Alchemy.
-# Used In:
 
-# Sources:
+**Container**
+[Chrysopoeia Alembic](chrysopoeia-alembic)
+
+**Ingredients**
+[Otherworldly Essence](otherworldly-essence)
+[Bottle of Filtered Water](bottle-of-filtered-water)
