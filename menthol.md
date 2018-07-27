@@ -1,8 +1,13 @@
 <!-- TITLE: Menthol -->
 <!-- SUBTITLE: A distillation with a cooling minty taste and odor. -->
+# Alchemy 
+**Skill**
+Minimum: 
+Trivial: 30
 
-# Recipe:
-5x [Concentrate of Mint](concentrate-of-mint) in an Extraction Still.  Yield 1 with a trivial of 30 Alchemy.
-# Used In:
 
-# Sources:
+**Container**
+[Extraction Still](extraction-still)
+
+**Ingredients**
+[Concentrate of Mint](concentrate-of-mint) x5
