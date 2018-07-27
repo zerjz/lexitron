@@ -1,5 +1,5 @@
 <!-- TITLE: Bottle Of Sparkling Water -->
-<!-- SUBTITLE: Bubbling, evervescent water. -->
+<!-- SUBTITLE: Bubbling, effervescent water. -->
 # Brewing
 **Skill**
 Minimum: 
