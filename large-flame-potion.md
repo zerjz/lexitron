@@ -1,10 +1,14 @@
 <!-- TITLE: Large Flame Potion -->
 <!-- SUBTITLE: A vial of liquid flame; volatile, but also welcoming.-->
+# Alchemy 
+**Skill**
+Minimum: 
+Trivial: 50
 
-# Recipe:
-2x [Emberthistle](emberthistle)
-1x [Bottle of Filtered Water](bottle-of-filtered-water) in an Alembic.  Yield 1 with a trivial of 50 Alchemy.
 
-# Used In:
+**Container**
+[Chrysopoeia Alembic](chrysopoeia-alembic)
 
-# Sources:
+**Ingredients**
+[Emberthistle](emberthistle) x2
+[Bottle of Filtered Water](bottle-of-filtered-water) x1
