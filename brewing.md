@@ -1,6 +1,8 @@
 <!-- TITLE: Brewing -->
 <!-- SUBTITLE: Refreshing beverages and other liquified liquids -->
 
+# Collapsible Distillery
+[Vodka](vodka)
 # Mixing Bowl
 [Azuki Bean Tea](azuki-bean-tea)
 [Black Coffee](black-coffee)
