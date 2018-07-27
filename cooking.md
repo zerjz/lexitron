@@ -18,6 +18,7 @@
 [Cooling Seasoning](cooling-seasoning)
 [Curried Meat](curried-meat)
 [Deviled Egg](deviled-egg)
+[Egg Noodles](egg-noodles)
 [Filet of Rat](filet-of-rat)
 [Fried Cod](fried-cod)
 [Fried Prawns](fried-prawns)
