@@ -2,8 +2,10 @@
 <!-- SUBTITLE: The art of potion making, transmutation, herbalism, and equivalent exchange -->
 
 # Chrysopoeia Alembic
+[Clear Resin](clear-resin)
 [Gold Bits](gold-bits)
 [Large Flame Potion](large-flame-potion)
+[Potassium Hydroxide](potassium-hydroxide)
 [Potion of Otherworldly Essence](potion-of-otherworldly-essence)
 [Silver Bits](silver-bits)
 
