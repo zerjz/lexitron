@@ -1,6 +1,16 @@
 <!-- TITLE: Alchemy -->
 <!-- SUBTITLE: The art of potion making, transmutation, herbalism, and equivalent exchange -->
 
+# Chrysopoeia Alembic
+[Gold Bits](gold-bits)
+[Large Flame Potion](large-flame-potion)
+[Potion of Otherworldly Essence](potion-of-otherworldly-essence)
+[Silver Bits](silver-bits)
+
+# Extraction Still
+[Concentrate of Mint](concentrate-of-mint)
+[Menthol](menthol)
+
 # Foldable Medicine Bag
 [Amethyst Potion](amethyst-potion)
 [Bloody Tears Potion](bloody-tears-potion)
