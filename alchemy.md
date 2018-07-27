@@ -30,6 +30,7 @@
 [Potion of Aquatic Ivy](potion-of-aquatic-ivy)
 [Potion of Cosmic Essence](potion-of-cosmic-essence)
 [Potion of Glowing Grass](potion-of-glowing-grass)
+[Potion of Health](potion-of-health)
 [Potion of the Snake](potion-of-the-snake)
 [Purple Passion Pipe Grass](purple-passion-pipe-grass)
 [Raven Eye Poison](raven-eye-poison)
