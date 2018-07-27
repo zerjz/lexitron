@@ -23,6 +23,7 @@
 [Lemonade](lemonade)
 [Mushroom Tea](mushroom-tea)
 [Nectarnut Soup](nectarnut-soup)
+[Rootbeer](rootbeer)
 [Rose Water](rose-water)
 [Sweet Ice Cream](sweet-ice-cream)
 [Sweet Tea](sweet-tea)
