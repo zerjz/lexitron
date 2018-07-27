@@ -1,4 +1,3 @@
-# Header
 <!-- TITLE: Belt Buckle -->
 <!-- SUBTITLE: A belt buckle for use in, belts! -->
 
