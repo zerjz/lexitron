@@ -16,6 +16,7 @@
 [Crushed Insect](crushed-insect)
 [Dragon's Blood Ink](dragons-blood-ink)
 [Dried Tobacco](dried-tobacco)
+[Dye](dye)
 [Egg Yolk](egg-yolk)
 [Emberthistle Seeds](emberthistle-seeds)
 [Extraction Still](extraction-still)
