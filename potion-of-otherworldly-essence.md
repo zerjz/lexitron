@@ -3,7 +3,7 @@
 
 # Recipe:
 1x [Otherworldly Essence](otherworldly-essence)
-1x [Bottle of Filtered Water](bottle-of-filtered-water) yield 1 with a trivial of 50 Alchemy.
+1x [Bottle of Filtered Water](bottle-of-filtered-water) in an Alembic.  Yield 1 with a trivial of 50 Alchemy.
 # Used In:
 
 # Sources:
