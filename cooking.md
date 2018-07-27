@@ -27,6 +27,7 @@
 [Hardtack](hardtack)
 [Icing](icing)
 [Jasmine Rice](jasmine-rice)
+[Lemon Cod](lemon-cod)
 [Mashed Potatoes](mashed-potatoes)
 [Naan Bread](naan-bread)
 [Oil](oil)
