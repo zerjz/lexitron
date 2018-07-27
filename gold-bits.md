@@ -1,10 +1,13 @@
 <!-- TITLE: Gold Bits -->
 <!-- SUBTITLE: Small chunks of gold-->
+# Alchemy
+**Skill**
+Minimum: 
+Trivial: 80
 
-# Recipe:
-3x [Silver Ingot](silver-ingot) in Alembic.  Yield 2 with a trivial of 80 Alchemy.
 
-# Used In:
+**Container**
+[Chrysopoeia Alembic](chrysopoeia-alembic)
 
-
-# Sources:
+**Ingredients**
+[Silver Ingot](silver-ingot) x3
