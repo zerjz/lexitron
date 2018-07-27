@@ -1,7 +1,7 @@
 <!-- TITLE: Engineering -->
 <!-- SUBTITLE: Gadgets for those who like to tinker -->
 
-# [Engineering Accoutrements](Engineering-Accoutrements)
+# Engineering Accoutrements
 
 [Belt Buckle](belt-buckle)
 [Blackmetal Gunblade](blackmetal-gunblade)
