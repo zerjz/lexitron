@@ -11,5 +11,5 @@ Trivial: 85
 
 **Ingredients**
 [Flat Sheet of Gold](flat-sheet-of-gold)
-[tanned-leather](tanned-leather)
+[Tanned Leather](tanned-leather)
 [Leather Strips](leather-strips)
