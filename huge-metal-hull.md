@@ -18,7 +18,7 @@ Chest
 50.00
 
 # Stats
-| Primary Stats |    | Resist and Regen |    |  Speciality  |    |  Regeneration |    |
+| Primary Stats |    | Resist and Regen |    |  Speciality |    |
 |:---:|:---|:---:|:---|:---:|:---|:---:|:---|
 |Agility||Cold||Accuracy||Endurance||
 |Charisma||Disease||Avoidance||Health||
