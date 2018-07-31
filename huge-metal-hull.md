@@ -21,11 +21,11 @@ Chest
 | Primary Stats |    |  |    | Secondary Stats |    |||
 |:---:|:---|:---:|:---|:---:|:---|:---:|:---|
 |Agility||Cold||Accuracy||Avoidance||
-|Charisma||Disease||Avoidance||Health||
-|Dexterity||Fire||Clairvoyance||Mana||
-|Intelligence||Disease||Shielding||||||
-|Stamina||Magic||Spell Shield|||||||
-|Strength||Poison||Strike Through||||
+|Charisma||Disease||Clairvoyance||Damage Shield||
+|Dexterity||Fire||Damage Shield Mitigation||DoT Damage||
+|Intelligence||Disease||Heal Amount||Melee Damage||
+|Stamina||Magic||Shielding||Spell Damage||
+|Strength||Poison||Spell Shield||Strike Through||
 |Endurance||Endurance Regen||||||
 |Health||Health Regen||||||
 |Mana||Mana Regen||||||
