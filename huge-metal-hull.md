@@ -31,11 +31,8 @@ Chest
 |Health||Health Regen||
 |Mana||Mana Regen||
 ```perl
-AC
-50
-
-HP
-150
+AC               HP
+50               150
 
 Mana
 -150
