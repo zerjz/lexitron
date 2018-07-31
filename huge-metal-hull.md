@@ -18,7 +18,8 @@ Chest
 50.00
 
 # Stats
-
+| Primary Stats |    | Resists |    |  Speciality  |    |  Regeneration |    |
+|----------------|---|---------|---|------------|---|-----------------|---|
 ```perl
 AC
 50
