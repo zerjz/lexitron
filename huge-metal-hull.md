@@ -18,7 +18,7 @@ Chest
 50.00
 
 # Stats
-| Primary Stats |    | Resist and Regen |    |  Speciality |    |||
+| Primary Stats |    |  |    | Secondary Stats |    |||
 |:---:|:---|:---:|:---|:---:|:---|:---:|:---|
 |Agility||Cold||Accuracy||Avoidance||
 |Charisma||Disease||Avoidance||Health||
