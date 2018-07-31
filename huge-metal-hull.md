@@ -26,7 +26,7 @@ Chest
 |Intelligence||Disease||Shielding||||||
 |Stamina||Magic||Spell Shield|||||||
 |Strength||Poison||Strike Through||||
-|Endurance||Endurance||||||
+|Endurance||Endurance Regen||||||
 |Health||Health Regen||||||
 |Mana||Mana Regen||||||
 ```perl
