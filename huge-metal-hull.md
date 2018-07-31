@@ -20,15 +20,15 @@ Chest
 # Stats
 | Primary Stats |    |  |    | Secondary Stats |    |||
 |:---:|:---|:---:|:---|:---:|:---|:---:|:---|
-|Agility||Cold||Accuracy||Avoidance||
-|Charisma||Disease||Clairvoyance||Damage Shield||
-|Dexterity||Fire||Damage Shield Mitigation||DoT Damage||
-|Intelligence||Disease||Haste||Heal Amount||
-|Stamina||Magic||Melee Damage||Shielding||
-|Strength||Poison||Spell Damage||Spell Shield||
-|Endurance||Endurance Regen||Strike Through|||||
-|Health||Health Regen||||||
-|Mana||Mana Regen||||||
+|Agility||Cold||Accuracy||Armor Class||
+|Charisma||Disease||Attack||Avoidance||
+|Dexterity||Fire||Clairvoyance||Damage Shield||
+|Intelligence||Disease||Damage Shield Mitigation||DoT Damage||
+|Stamina||Magic||Haste||Heal Amount||
+|Strength||Poison||Melee Damage||Shielding||
+|Endurance||Endurance Regen||Spell Damage||Spell Shield||
+|Health||Health Regen||Strike Through||
+|Mana||Mana Regen||
 ```perl
 AC
 50
