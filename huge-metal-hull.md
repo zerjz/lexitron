@@ -31,32 +31,13 @@ Chest
 |Health||Health Regen||
 |Mana||Mana Regen||
 ```perl
-AC               HP
-50               150
+AC               HP                 Mana                     Strength                   Agility
+50               150                -150                     -25                        -25
 
-Mana
--150
 
-Strength
--25
+Dexterity        Magic Resist       Fire Resist              Cold Resist                Disease Resist
+-25              25                 25                       25                         25
 
-Agility
--25
-
-Dexterity
--25
-
-Magic
+Poison Resist
 25
-
-Fire
-25
-
-Cold
-25
-
-Disease
-25
-
-Poison
-25
+ 
