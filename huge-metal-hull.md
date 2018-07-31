@@ -18,13 +18,17 @@ Chest
 50.00
 
 # Stats
-| Primary Stats |    | Resists |    |  Speciality  |    |  Regeneration |    |
+| Primary Stats |    | Resist and Regen |    |  Speciality  |    |  Regeneration |    |
 |:---:|:---|:---:|:---|:---:|:---|:---:|:---|
 |Agility||Cold||Accuracy||Endurance||
 |Charisma||Disease||Avoidance||Health||
 |Dexterity||Fire||Clairvoyance||Mana||
 |Intelligence||Disease||Shielding||||||
-|Stamina||Magic|||Spell Shield|||||||
+|Stamina||Magic||Spell Shield|||||||
+|Strength||Poison||Strike Through||||
+|Endurance||Endurance||||||
+|Health||Health Regen||||||
+|Mana||Mana Regen||||||
 ```perl
 AC
 50
