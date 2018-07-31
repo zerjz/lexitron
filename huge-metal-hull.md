@@ -23,10 +23,10 @@ Chest
 |Agility||Cold||Accuracy||Avoidance||
 |Charisma||Disease||Clairvoyance||Damage Shield||
 |Dexterity||Fire||Damage Shield Mitigation||DoT Damage||
-|Intelligence||Disease||Heal Amount||Melee Damage||
-|Stamina||Magic||Shielding||Spell Damage||
-|Strength||Poison||Spell Shield||Strike Through||
-|Endurance||Endurance Regen||||||
+|Intelligence||Disease||Haste||Heal Amount||
+|Stamina||Magic||Melee Damage||Shielding||
+|Strength||Poison||Spell Damage||Spell Shield||
+|Endurance||Endurance Regen||Strike Through|||||
 |Health||Health Regen||||||
 |Mana||Mana Regen||||||
 ```perl
