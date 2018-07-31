@@ -25,9 +25,9 @@ Chest
 |Dexterity|-25|Fire|25|Clairvoyance||Damage Shield||
 |Intelligence||Magic|25|Damage Shield Mitigation||DoT Damage||
 |Stamina||Poison||Haste||Heal Amount||
-|Strength|-25||Melee Damage||Shielding||
+|Strength|-25|Melee Damage||Shielding||
 |Wisdom||||Spell Damage||Spell Shield||
-|Endurance||Endurance Regen||Strike Through||
+|Endurance||End. Regen||Strike Through||
 |Health|150|Health Regen||
 |Mana|-150|Mana Regen||
 ```perl
