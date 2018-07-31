@@ -20,7 +20,8 @@ Chest
 # Stats
 | Primary Stats |    | Resists |    |  Speciality  |    |  Regeneration |    |
 |---|---|---|---|---|---|---|---|
-|:Agility:|:x:|:Cold:|:x:|:Avoidance:|:x:|:Endurance:|:x:|    
+|:Agility:|::|:Cold:|::|:Avoidance:|::|:Endurance:|::|
+|:Dexterity:|::|:Disease:|::|:Accuracy:|::|:Health:|::|
 ```perl
 AC
 50
