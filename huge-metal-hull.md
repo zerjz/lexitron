@@ -28,7 +28,8 @@ Chest
 |Strength||Poison||Melee Damage||Shielding||
 |Wisdom||Endurance Regen||Spell Damage||Spell Shield||
 |Endurance||Health Regen||Strike Through||
-|Health||Mana||Mana Regen||
+|Health||Mana Regen||
+|Mana||
 ```perl
 AC
 50
