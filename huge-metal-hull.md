@@ -20,7 +20,7 @@ Chest
 # Stats
 | Primary Stats |    | Resist and Regen |    |  Speciality |    |
 |:---:|:---|:---:|:---|:---:|:---|:---:|:---|
-|Agility||Cold||Accuracy||Endurance||
+|Agility||Cold||Accuracy||Avoidance||
 |Charisma||Disease||Avoidance||Health||
 |Dexterity||Fire||Clairvoyance||Mana||
 |Intelligence||Disease||Shielding||||||
