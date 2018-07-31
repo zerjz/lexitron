@@ -26,25 +26,12 @@ Chest
 |Intelligence||Disease||Damage Shield Mitigation||DoT Damage||
 |Stamina||Magic||Haste||Heal Amount||
 |Strength||Poison||Melee Damage||Shielding||
-|Wisdom|||||Spell Damage||Spell Shield||
-|Endurance||Endurance Regen||Strike Through||
-|Health||Health Regen||
+|Endurance||Endurance Regen||Spell Damage||Spell Shield||
+|Health||Health Regen||Strike Through||
 |Mana||Mana Regen||
 ```perl
-AC
-50
-
-HP
-150
-
-Mana
--150
-
-Strength
--25
-
-Agility
--25
+AC            HP               Mana               Strength               Agility
+50            150              -150               -25                    -25
 
 Dexterity
 -25
