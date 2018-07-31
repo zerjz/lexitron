@@ -26,10 +26,10 @@ Chest
 |Intelligence||Disease||Damage Shield Mitigation||DoT Damage||
 |Stamina||Magic||Haste||Heal Amount||
 |Strength||Poison||Melee Damage||Shielding||
-|Wisdom||Endurance Regen||Spell Damage||Spell Shield||
-|Endurance||Health Regen||Strike Through||
-|Health||Mana Regen||
-|Mana||
+|Wisdom|||||Spell Damage||Spell Shield||
+|Endurance||Endurance Regen||Strike Through||
+|Health||Health Regen||
+|Mana||Mana Regen||
 ```perl
 AC
 50
