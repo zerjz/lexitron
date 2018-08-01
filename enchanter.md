@@ -34,13 +34,12 @@
 |4|[Gate](gate)|Teleport to bind spot|Check bind spot with /charinfo|
 |4|[Invisibility](invisibility)|Make Target Invisible|Can target non-groupmembers|
 |4|[Enfeeblement](enfeeblement)|AC/Str debuff||
-
-**Level 5**
-[Enchant Turquoise](enchant-turquoise)
-[Animate Silk Puppet](animate-silk-puppet)
-[Illusion: Wood Elf](illusion-wood-elf)
-[Sentinel](sentinel)
-[Eye of Confusion](eye-of-confusion)
+|**Level 5**|
+|5|[Enchant Turquoise](enchant-turquoise)|Enchant 1 Turquoise||
+|5|[Animate Silk Puppet](animate-silk-puppet)|Summon Pet - Puppet||
+|5|[Illusion: Wood Elf](illusion-wood-elf)|Turn into a Wood Elf||
+|5|[Sentinel](sentinel)|AE Alarm Notification|Gives you a message for each creature in the area around you every few seconds|
+|5|[Eye of Confusion](eye-of-confusion)|Blind Target||
 
 **Level 6**
 [Lesser Shielding](lesser-shielding)
