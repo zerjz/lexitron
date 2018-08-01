@@ -11,7 +11,7 @@
 |Level|Spell Name|Spell Type|Comments|
 |:---:|:-----|:----|:----:|
 |**Level 1**|
-|1|[Shallow Breath](shallow-breath)|DoT and Debuff||
+|1|[Shallow Breath](shallow-breath)|Damage over Time + Stat Debuff||
 |1|[Reclaim Energy](reclaim-energy)|Pet Unsummon for mana refund||
 |1|[Enchanting Wisp](enchanting-wisp)|Summon Familiar||
 |1|[Strengthen](strengthen)|Strength Buff||
@@ -29,12 +29,11 @@
 |3|[Haze](haze)|AC Buff||
 |3|[Illusion: Half-Elf](illusion-half-elf)|Turn into a Half-Elf||
 |3|[Fear](fear)|Cause target to Flee||
-
-**Level 4**
-[Suffocating Sphere](suffocating-sphere)
-[Gate](gate)
-[Invisibility](invisibility)
-[Enfeeblement](enfeeblement)
+|**Level 4**|
+|4|[Suffocating Sphere](suffocating-sphere)|Damage over Time + Debuff||
+|4|[Gate](gate)|
+|4|[Invisibility](invisibility)|
+|4|[Enfeeblement](enfeeblement)|
 
 **Level 5**
 [Enchant Turquoise](enchant-turquoise)
