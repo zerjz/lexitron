@@ -9,7 +9,7 @@
 # Spells
 
 |Level|Spell Name|Spell Type|Comments|
-|:---:|:-----|:----|:----:|
+|:---:|:-----:|:----:|:----:|
 |**1**|[Shallow Breath](shallow-breath)|DD + Damage over Time + Str/Agi Debuff||
 |**1**|[Reclaim Energy](reclaim-energy)|Pet Unsummon for mana refund||
 |**1**|[Enchanting Wisp](enchanting-wisp)|Summon Familiar|Resist Buff + Fizzle Reducer|
