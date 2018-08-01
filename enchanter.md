@@ -10,7 +10,7 @@
 **Level 1**
 |Level|Spell Name|Spell Type|Comments|
 |:---:|:-----:|:----:|:----:|
-|[Shallow Breath](shallow-breath)|DoT and Debuff|Level 1|
+|1|[Shallow Breath](shallow-breath)|DoT and Debuff|DD + DoT + Str Debuff|
 
 **Level 1**
 [Shallow Breath](shallow-breath)
