@@ -5,3 +5,63 @@
 
 [Jeweler](jeweler)
 [Puppetmaster](puppetmaster)
+
+# Spells
+
+**Level 1**
+[Shallow Breath](shallow-breath)
+[Reclaim Energy](reclaim-energy)
+[Enchanting Wisp](enchanting-wisp)
+[Strengthen](strengthen)
+[Minor Illusion](minor-illusion)
+[Weaken](weaken)
+[Lull](lull)
+[Taper Enchantment](taper-enchantment)
+
+**Level 2**
+[Illusion: Human](illusion-human)
+[Mesmerize](mesmerize)
+[Tashan](tashan)
+
+**Level 3**
+[Enchant Malachite](enchant-malachite)
+[Color Flux](color-flux)
+[Haze](haze)
+[Illusion: Half-Elf](illusion-half-elf)
+[Fear](fear)
+
+**Level 4**
+[Suffocating Sphere](suffocating-sphere)
+[Gate](gate)
+[Invisibility](invisibility)
+[Enfeeblement](enfeeblement)
+
+**Level 5**
+[Enchant Turquoise](enchant-turquoise)
+[Animate Silk Puppet](animate-silk-puppet)
+[Illusion: Wood Elf](illusion-wood-elf)
+[Sentinel](sentinel)
+[Eye of Confusion](eye-of-confusion)
+
+**Level 6**
+[Lesser Shielding](lesser-shielding)
+[See Invisible](see-invisible)
+[Soothe](soothe)
+[Wave of Enfeeblement](wave-of-enfeeblement)
+[Hand of Earth](hand-of-earth)
+
+**Level 7**
+[Chaotic Feedback](chaotic-feedback)
+[Cancel Magic](cancel-magic)
+
+**Level 8**
+[Enchant Amethyst](enchant-amethyst)
+[Animate Malachite Sword](animate-malachite-sword)
+[Alliance](alliance)
+[Illusion: Gnome](illusion-gnome)
+[Bind Sight](bind-sight)
+
+**Level 9**
+[Whirl Till You Hurl](whirl-till-you-hurl)
+[Ebbing Strength](ebbing-strength)
+[Languid Pace](languid-pace)
