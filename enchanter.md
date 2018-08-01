@@ -11,8 +11,14 @@
 |Level|Spell Name|Spell Type|Comments|
 |:---:|:-----:|:----:|:----:|
 |1|[Shallow Breath](shallow-breath)|DoT and Debuff||
-|1|[Reclaim Energy](reclaim-energy)| Pet Unsummon for mana refund||
-|1|[Enchanting Wisp](enchanting-wisp)| Summon Familiar||
+|1|[Reclaim Energy](reclaim-energy)|Pet Unsummon for mana refund||
+|1|[Enchanting Wisp](enchanting-wisp)|Summon Familiar||
+|1|[Strengthen](strengthen)|Strength Buff||
+|1|[Minor Illusion](minor-illusion)|Turn into nearby object||
+|1|[Weaken](weaken)|Strength Debuff||
+|1|[Lull](lull)|Aggro Radius Reducer||
+|1|[Taper Enchantment](taper-enchantment)|Dispel Magic||
+
 
 **Level 1**
 [Shallow Breath](shallow-breath)
