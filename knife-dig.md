@@ -1,6 +1,6 @@
 <!-- TITLE: Skill: Knife Dig-->
 <!-- SUBTITLE:  -->
-
+![Knife Dig](/uploads/imp/knife-dig.jpg "Knife Dig")
 **Level:** 22
 
 **Subclass:** [Imp](imp)
