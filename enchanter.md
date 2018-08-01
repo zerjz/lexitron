@@ -21,7 +21,7 @@
 |1|[Taper Enchantment](taper-enchantment)|Dispel Magic||
 |**Level 2**|
 |2|[Illusion: Human](illusion-human)|Turn into a Human||
-|2|[Mesmerize](mesmerize)|Crowd Control||
+|2|[Mesmerize](mesmerize)|Single Target Crowd Control||
 |2|[Tashan](tashan)|Magic Resist Debuff||
 |**Level 3**|
 |3|[Enchant Malachite](enchant-malachite)|Enchant 1 Malachite||
@@ -40,13 +40,12 @@
 |5|[Illusion: Wood Elf](illusion-wood-elf)|Turn into a Wood Elf||
 |5|[Sentinel](sentinel)|AE Alarm Notification|Gives you a message for each creature in the area around you every few seconds|
 |5|[Eye of Confusion](eye-of-confusion)|Blind Target||
-
-**Level 6**
-[Lesser Shielding](lesser-shielding)
-[See Invisible](see-invisible)
-[Soothe](soothe)
-[Wave of Enfeeblement](wave-of-enfeeblement)
-[Hand of Earth](hand-of-earth)
+|**Level 6**|
+|6|[Lesser Shielding](lesser-shielding)|Self HP/AC/Magic Resist Buff||
+|6|[See Invisible](see-invisible)|Allows target to see invisible||
+|6|[Soothe](soothe)|Aggro Radius Reducer||
+|6|[Wave of Enfeeblement](wave-of-enfeeblement)|AE AC/Str Debuff||
+|6|[Hand of Earth](hand-of-earth)|Root target||
 
 **Level 7**
 [Chaotic Feedback](chaotic-feedback)
