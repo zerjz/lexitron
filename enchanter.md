@@ -36,7 +36,7 @@
 |4|[Enfeeblement](enfeeblement)|AC/Str debuff||
 |**Level 5**|
 |5|[Enchant Turquoise](enchant-turquoise)|Enchant 1 Turquoise||
-|5|[Animate Silk Puppet](animate-silk-puppet)|Summon Pet - Puppet||
+|5|[Animate Silk Puppet](animate-silk-puppet)|Summon Pet - Puppet|Consumes 1 [Cosmic Dust](cosmic-dust)|
 |5|[Illusion: Wood Elf](illusion-wood-elf)|Turn into a Wood Elf||
 |5|[Sentinel](sentinel)|AE Alarm Notification|Gives message for each creature in area around you every few seconds|
 |5|[Eye of Confusion](eye-of-confusion)|Blind Target||
@@ -46,19 +46,16 @@
 |6|[Soothe](soothe)|Aggro Radius Reducer||
 |6|[Wave of Enfeeblement](wave-of-enfeeblement)|AE AC/Str Debuff||
 |6|[Hand of Earth](hand-of-earth)|Root target||
-
-**Level 7**
-[Chaotic Feedback](chaotic-feedback)
-[Cancel Magic](cancel-magic)
-
-**Level 8**
-[Enchant Amethyst](enchant-amethyst)
-[Animate Malachite Sword](animate-malachite-sword)
-[Alliance](alliance)
-[Illusion: Gnome](illusion-gnome)
-[Bind Sight](bind-sight)
-
-**Level 9**
-[Whirl Till You Hurl](whirl-till-you-hurl)
-[Ebbing Strength](ebbing-strength)
-[Languid Pace](languid-pace)
+|**Level 7**|
+|7|[Chaotic Feedback](chaotic-feedback)|DD + Short Stun|
+|7|[Cancel Magic](cancel-magic)|Dispel Magic|
+|**Level 8**|
+|8|[Enchant Amethyst](enchant-amethyst)|Enchant 1 Amethyst||
+|8|[Animate Malachite Sword](animate-malachite-sword)|Summon Pet - Malachite Sword|Consumes 1 [Malachite Sword](malachite-sword)|
+|8|[Alliance](alliance)|Buffs your faction with faction of target||
+|8|[Illusion: Gnome](illusion-gnome)|Turn into a Gnome||
+|8|[Bind Sight](bind-sight)|Binds your vision to your target||
+|**Level 9**|
+|9|[Whirl Till You Hurl](whirl-till-you-hurl)|Stun||
+|9|[Ebbing Strength](ebbing-strength)|Str Debuff target||
+|9|[Languid Pace](languid-pace)|Slow targets attack speed||
