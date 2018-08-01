@@ -9,7 +9,7 @@
 # Spells
 |Tables | Test | One |
 |:---:|:-----:|:----:|
-|:[Shallow Breath](shallow-breath):|:Spell Description:|: mana cost:|
+|[Shallow Breath](shallow-breath)|Spell Description|Mana cost|
 
 **Level 1**
 [Shallow Breath](shallow-breath)
