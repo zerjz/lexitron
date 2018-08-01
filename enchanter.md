@@ -10,7 +10,7 @@
 
 |Level|Spell Name|Spell Type|Comments|
 |:---:|:-----|:----|:----:|
-|**Level 1**|---|
+|**Level 1**|
 |1|[Shallow Breath](shallow-breath)|DoT and Debuff||
 |1|[Reclaim Energy](reclaim-energy)|Pet Unsummon for mana refund||
 |1|[Enchanting Wisp](enchanting-wisp)|Summon Familiar||
@@ -23,15 +23,12 @@
 |2|[Illusion: Human](illusion-human)|Turn into a Human||
 |2|[Mesmerize](mesmerize)|Crowd Control||
 |2|[Tashan](tashan)|Magic Resist Debuff||
-
-
-
-**Level 3**
-[Enchant Malachite](enchant-malachite)
-[Color Flux](color-flux)
-[Haze](haze)
-[Illusion: Half-Elf](illusion-half-elf)
-[Fear](fear)
+|**Level 3**|
+|3|[Enchant Malachite](enchant-malachite)|Enchant 1 Malachite||
+|3|[Color Flux](color-flux)|Point Blank AE Stun||
+|3|[Haze](haze)|AC Buff||
+|3|[Illusion: Half-Elf](illusion-half-elf)|Turn into a Half-Elf||
+|3|[Fear](fear)|Cause target to Flee||
 
 **Level 4**
 [Suffocating Sphere](suffocating-sphere)
