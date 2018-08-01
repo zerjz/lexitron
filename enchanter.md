@@ -13,15 +13,15 @@
 |**Level 1**|
 |1|[Shallow Breath](shallow-breath)|DD + Damage over Time + Str/Agi Debuff||
 |1|[Reclaim Energy](reclaim-energy)|Pet Unsummon for mana refund||
-|1|[Enchanting Wisp](enchanting-wisp)|Summon Familiar||
+|1|[Enchanting Wisp](enchanting-wisp)|Summon Familiar|Resist Buff + Fizzle Reducer|
 |1|[Strengthen](strengthen)|Strength Buff||
 |1|[Minor Illusion](minor-illusion)|Turn into nearby object||
 |1|[Weaken](weaken)|Strength Debuff||
-|1|[Lull](lull)|Aggro Radius Reducer||
+|1|[Lull](lull)|Aggro Radius Reducer|Affects creatures up to level 30|
 |1|[Taper Enchantment](taper-enchantment)|Dispel Magic||
 |**Level 2**|
 |2|[Illusion: Human](illusion-human)|Turn into a Human||
-|2|[Mesmerize](mesmerize)|Single Target Crowd Control||
+|2|[Mesmerize](mesmerize)|Single Target Crowd Control|24 second duration|
 |2|[Tashan](tashan)|Magic Resist Debuff||
 |**Level 3**|
 |3|[Enchant Malachite](enchant-malachite)|Enchant 1 Malachite||
@@ -43,7 +43,7 @@
 |**Level 6**|
 |6|[Lesser Shielding](lesser-shielding)|Self HP/AC/Magic Resist Buff||
 |6|[See Invisible](see-invisible)|Allows target to see invisible||
-|6|[Soothe](soothe)|Aggro Radius Reducer||
+|6|[Soothe](soothe)|Aggro Radius Reducer|Affects creatures up to level 40|
 |6|[Wave of Enfeeblement](wave-of-enfeeblement)|AE AC/Str Debuff||
 |6|[Hand of Earth](hand-of-earth)|Root target||
 |**Level 7**|
@@ -58,4 +58,4 @@
 |**Level 9**|
 |9|[Whirl Till You Hurl](whirl-till-you-hurl)|Stun||
 |9|[Ebbing Strength](ebbing-strength)|Str Debuff target||
-|9|[Languid Pace](languid-pace)|Slow targets attack speed||
+|9|[Languid Pace](languid-pace)|Snare target|Lowers targets movement speed for 3:30|
