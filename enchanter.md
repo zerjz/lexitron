@@ -7,9 +7,9 @@
 [Puppetmaster](puppetmaster)
 
 # Spells
-|||**Level 1**|||
-|Spell Name | Spell Type | Level Requirement |
-|:---:|:-----:|:----:|
+**Level 1**
+|Level|Spell Name|Spell Type|Comments|
+|:---:|:-----:|:----:|:----:|
 |[Shallow Breath](shallow-breath)|DoT and Debuff|Level 1|
 
 **Level 1**
