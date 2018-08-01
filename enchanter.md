@@ -9,7 +9,7 @@
 # Spells
 
 ||Spell Name|Spell Type|Comments|
-||:-----|:----|:----:|
+|:-----|:----|:----:|
 |**Level 1**|
 |[Shallow Breath](shallow-breath)|DD + Damage over Time + Str/Agi Debuff||
 |[Reclaim Energy](reclaim-energy)|Pet Unsummon for mana refund||
