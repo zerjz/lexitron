@@ -18,14 +18,12 @@
 |1|[Weaken](weaken)|Strength Debuff||
 |1|[Lull](lull)|Aggro Radius Reducer||
 |1|[Taper Enchantment](taper-enchantment)|Dispel Magic||
+**Level 2**
 |2|[Illusion: Human](illusion-human)|Turn into a Human||
 |2|[Mesmerize](mesmerize)|Crowd Control||
 |2|[Tashan](tashan)|Magic Resist Debuff||
 
-**Level 2**
-[Illusion: Human](illusion-human)
-[Mesmerize](mesmerize)
-[Tashan](tashan)
+
 
 **Level 3**
 [Enchant Malachite](enchant-malachite)
