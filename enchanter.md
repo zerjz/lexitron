@@ -7,6 +7,8 @@
 [Puppetmaster](puppetmaster)
 
 # Spells
+|Tables | Test | One |
+|:---:|:-----:|:----:|
 
 **Level 1**
 [Shallow Breath](shallow-breath)
