@@ -38,7 +38,7 @@
 |5|[Enchant Turquoise](enchant-turquoise)|Enchant 1 Turquoise||
 |5|[Animate Silk Puppet](animate-silk-puppet)|Summon Pet - Puppet||
 |5|[Illusion: Wood Elf](illusion-wood-elf)|Turn into a Wood Elf||
-|5|[Sentinel](sentinel)|AE Alarm Notification|Gives you a message for each creature in the area around you every few seconds|
+|5|[Sentinel](sentinel)|AE Alarm Notification|Gives message for each creature in area around you every few seconds|
 |5|[Eye of Confusion](eye-of-confusion)|Blind Target||
 |**Level 6**|
 |6|[Lesser Shielding](lesser-shielding)|Self HP/AC/Magic Resist Buff||
