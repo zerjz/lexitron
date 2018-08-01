@@ -10,14 +10,14 @@
 
 |Level|Spell Name|Spell Type|Comments|
 |:---:|:-----|:----|:----:|
-|1|[Shallow Breath](shallow-breath)|DD + Damage over Time + Str/Agi Debuff||
-|1|[Reclaim Energy](reclaim-energy)|Pet Unsummon for mana refund||
-|1|[Enchanting Wisp](enchanting-wisp)|Summon Familiar|Resist Buff + Fizzle Reducer|
-|1|[Strengthen](strengthen)|Strength Buff||
-|1|[Minor Illusion](minor-illusion)|Turn into nearby object||
-|1|[Weaken](weaken)|Strength Debuff||
-|1|[Lull](lull)|Aggro Radius Reducer|Affects creatures up to level 30|
-|1|[Taper Enchantment](taper-enchantment)|Dispel Magic||
+|**1**|[Shallow Breath](shallow-breath)|DD + Damage over Time + Str/Agi Debuff||
+|**1**|[Reclaim Energy](reclaim-energy)|Pet Unsummon for mana refund||
+|**1**|[Enchanting Wisp](enchanting-wisp)|Summon Familiar|Resist Buff + Fizzle Reducer|
+|**1**|[Strengthen](strengthen)|Strength Buff||
+|**1**|[Minor Illusion](minor-illusion)|Turn into nearby object||
+|**1**|[Weaken](weaken)|Strength Debuff||
+|**1**|[Lull](lull)|Aggro Radius Reducer|Affects creatures up to level 30|
+|**1**|[Taper Enchantment](taper-enchantment)|Dispel Magic||
 |2|[Illusion: Human](illusion-human)|Turn into a Human||
 |2|[Mesmerize](mesmerize)|Single Target Crowd Control|24 second duration|
 |2|[Tashan](tashan)|Magic Resist Debuff||
