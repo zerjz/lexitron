@@ -7,9 +7,9 @@
 [Puppetmaster](puppetmaster)
 
 # Spells
-|Tables | Test | One |
+|Spell Name | Spell Type | Level Requirement |
 |:---:|:-----:|:----:|
-|[Shallow Breath](shallow-breath)|Spell Description|Mana cost|
+|[Shallow Breath](shallow-breath)|DoT and Debuff|Level 1|
 
 **Level 1**
 [Shallow Breath](shallow-breath)
