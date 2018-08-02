@@ -30,3 +30,4 @@ Dexterity        Magic Resist       Fire Resist              Cold Resist        
 Poison Resist
 25
  
+ Big long unimportant sentence put in purely for formatting purposes.Big long unimportant sentence put in purely for formatting purposes.Big long unimportant sentence put in purely for formatting purposes.Big long unimportant sentence put in purely for formatting purposes.Big long unimportant sentence put in purely for formatting purposes.Big long unimportant sentence put in purely for formatting purposes.Big long unimportant sentence put in purely for formatting purposes.
