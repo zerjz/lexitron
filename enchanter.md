@@ -19,8 +19,8 @@
 |**1**|[Lull](lull)|Aggro Radius Reducer|Affects creatures up to level 30|
 |**1**|[Taper Enchantment](taper-enchantment)|Dispel Magic||
 |**2**|[Illusion: Human](illusion-human)|Turn into a Human||
-|**2**|[Mesmerize](mesmerize)|Single Target Crowd Control|24 second duration|
-|**2**|[Tashan](tashan)|Magic Resist Debuff||
+|**2**|[Mesmerize](mesmerize)|Mesmerize Target|24 second duration crowd control|
+|**2**|[Tashan](tashan)|Magic Resist Debuff|Unresistable|
 |**3**|[Enchant Malachite](enchant-malachite)|Enchant 1 Malachite||
 |**3**|[Color Flux](color-flux)|Point Blank AE Stun||
 |**3**|[Haze](haze)|AC Buff||
@@ -50,3 +50,45 @@
 |**9**|[Whirl Till You Hurl](whirl-till-you-hurl)|Stun||
 |**9**|[Ebbing Strength](ebbing-strength)|Str Debuff target||
 |**9**|[Languid Pace](languid-pace)|Snare target|Lowers targets movement speed for 3:30|
+|**10**|[Serpent Sight](serpent-sight)|Improved Night Vision||
+|**10**|[Mist](mist)|AC Buff||
+|**10**|[Memory Blur](memory-blur)|Reset Hate List of Target|10% chance of success per cast|
+|**10**|[Illusion: Dark Elf](illusion-dark-elf)|Turn into a Dark Elf||
+|**11**|[Choke](choke)|DD + DoT + Str/Agi Debuff||
+|**11**|[Intellectual Advancement](intellectual-advancement)|Reduce Fizzle Rate|Increases Effective Casting Level by 3|
+|**11**|[Illusion: High Elf](illusion-high-elf)|Turn into a High Elf||
+|**12**|[Illusion: Halfling](illusion-halfling)|Turn into a Halfling||
+|**12**|[Bind Affinity](bind-affinity)|Set Bind Point of Target||
+|**12**|[Enduring Breath](enduring-breath)|Water Breathing||
+|**12**|[Illusion: Erudite](illusion-erudite)|Turn into a Erudite||
+|**13**|[Enthrall](enthrall)|Mesmerize Target|48 second duration crowd control|
+|**13**|[Illusion: Dwarf](illusion-dwarf)|Turn into a Dwarf||
+|**14**|[Invisibility vs Undead](invisibility-vs-undead)|Invisibility to Undead||
+|**15**|[Gem Smash](gem-smash)|Direct Damage|Consumes 1 [Gemstone Shards](gemstone-shards)|
+|**15**|[Illusion: Barbarian](illusion-barbarian)|Turn into a Barbarian||
+|**15**|[Animate Fur Puppet](animate-fur-puppet)|Summon Pet - Fur Puppet|Consumes 1 [Cosmic Dust](cosmic-dust)|
+|**15**|[Levitate](levitate)|Levitate Target||
+|**16**|[Disempower](disempower)|Str/Sta/AC Debuff||
+|**16**|[Mesmerization](mesmerization)|AE Mesmerization|Small chance of memory blur|
+|**16**|[Sanity Warp](sanity-warp)|DD + Short Stun||
+|**16**|[Shielding](shielding)|Self HP/AC/Magic Resist Buff||
+|**17**|[Illusion: Ogre](illusion-ogre)|Turn into an Ogre||
+|**17**|[Endure Magic](endure-magic)|Magic Resist Buff||
+|**17**|[Intellectual Superiority](intellectual-superiority)|Reduce Fizzle Rate|Increase Effective Casting Level by 6|
+|**17**|[Cloud](cloud)|AC Buff||
+|**18**|[Illusion: Troll](illusion-troll)|Turn into a Troll||
+|**18**|[Calm](calm)|Aggro Radius Reducer|Affects creatures up to level 50|
+|**18**|[Sympathetic Aura](sympathetic-aura)|CHA Buff||
+|**18**|[Tashani](tashani)|Magic Resist Debuff|Unresistable|
+|**19**|[Feckless Might](feckless-might)|Str Debuff||
+|**19**|[Berserker Strength](berserker-strength)|Self Str Buff / Agi Debuff + Small Rune||
+|**19**|[Tiny Companion](tiny-companion)|Shrink Pet Size||
+
+
+
+
+
+
+
+
+
