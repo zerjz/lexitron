@@ -15,7 +15,7 @@ Subclass of [Enchanter](enchanter)
 [Spell Casting Reinforcement](spell-casting-reinforcement) - Increase duration of beneficial spells cast by 5% / 15% / 30% / 50%
 
 ## Build (costs AA points)
-[Animation Empathy](animation-empathy) - Gives animations ability to "Guard" and Follower at rank 1 - "Attack" and "Queue Attack" at rank 2 - Various others at rank 3 - *NOTE: Rank 1 and 2 are given for free at level 25
+[Animation Empathy](animation-empathy) - Gives animations ability to "Guard" and Follower at rank 1 - "Attack" and "Queue Attack" at rank 2 - Various others at rank 3 - ****NOTE: Rank 1 and 2 are given for free at level 25****
 
 
 # Spells
