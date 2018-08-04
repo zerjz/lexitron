@@ -9,10 +9,10 @@ Subclass of [Enchanter](enchanter)
 |**20**|[Benevolence](benevolence)|Increase self Faction of Target|Increases Faction by 200|
 |**20**|[Spell: Citizen Puppet](citizen-puppet)|Summon Pet - Citizen Puppet| Consumes 1 [Malachite Sword](malachite-sword)|
 |**20**|[Spell: Illusion: Iksar](illusion-iksar)|Turn into an Iksar||
+|**21**|[Spell: Chaos Flux](chaos-flux)|DD + Small Stun||
+|**21**|[Spell: Illusion: Earth Elemental](illusion-earth-elemental)|Turn into an Earth Elemental|Comes with Str buff|
 
-**Level 21**
-[Spell: Chaos Flux](chaos-flux)
-[Spell: Illusion: Earth Elemental](illusion-earth-elemental)
+
 
 **Level 22**
 [Spell: Strip Enchantment](strip-enchantment)
