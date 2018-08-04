@@ -4,6 +4,7 @@
 Subclass of [Enchanter](enchanter)
 
 # AA Abilities
+## Subclass (given for free based on level)
 [Arcane Whisper](arcane-whisper) - Reduces Hate on target over time
 [Beam of Slumber](beam-of-slumber) - Mesmerize up to 8 targets around you
 [Beguilers Banishment](beguilers-banishment) - Has a chance to forcibly move some enemies from around you away from you and cause them to forget that you exist
@@ -12,6 +13,10 @@ Subclass of [Enchanter](enchanter)
 [Project Illusion](project-illusion) - Give current illusion spell to target
 [Spell Casting Mastery](spell-casting-mastery) - Lower mana cost of spells by 2% / 5% / 10%
 [Spell Casting Reinforcement](spell-casting-reinforcement) - Increase duration of beneficial spells cast by 5% / 15% / 30% / 50%
+
+## Build (costs AA points)
+[Animation Empathy](animation-empathy) - NOTE: Rank 1 and 2 are given for free at level 25 - Gives animations ability to "Guard" and Follower at rank 1 - "Attack" and "Queue Attack" at rank 2 - Various others at rank 3
+
 
 # Spells
 
