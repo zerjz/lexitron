@@ -6,7 +6,7 @@ Subclass of [Enchanter](enchanter)
 
 |Level|Spell Name|Spell Type|Comments|
 |:---:|:-----:|:----:|:----:|
-|**20**|[Benvolence](benevolence)|Increase self Faction of Target|Increases Faction by 200|
+|**20**|[Benevolence](benevolence)|Increase self Faction of Target|Increases Faction by 200|
 |**20**|[Spell: Citizen Puppet](citizen-puppet)|Summon Pet - Citizen Puppet| Consumes 1 [Malachite Sword](malachite-sword)|
 |**20**|[Spell: Illusion: Iksar](illusion-iksar)|Turn into an Iksar||
 
