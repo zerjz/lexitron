@@ -2,6 +2,7 @@
 <!-- SUBTITLE: General crafty things that might not require particularly talented hands -->
 
 # Crafting Supplies
+## Backpacks
 |Item Produced|Materials|Trivial|Container|
 |:---:|:-----:|:----:|:----:|
 |Dirty Leather Backpack - 5% WR|	Leather Strips + Leather x4|	15|	Large Sewing Kit|
