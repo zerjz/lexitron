@@ -14,7 +14,7 @@
 ## Dirty Leather
 |Item Produced|Materials|Trivial|Container|
 |:---:|:-----:|:----:|:----:|
-|Dirty Flesh Robe|	Dirty Flesh x8	|5|	Large Sewing Kit|
+|[Dirty Flesh Robe](dirty-flesh-robe)|[Dirty Flesh](dirty-flesh) x8	|5|	Large Sewing Kit|
 |Dirty Leather Gloves|	Leather x2	|5|	Large Sewing Kit|
 |Dirty Leather Bracer|	Leather x3	|7|	Large Sewing Kit|
 |Dirty Leather Sleeves|	Leather x4	|10|	Large Sewing Kit|
