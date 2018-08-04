@@ -2,7 +2,13 @@
 <!-- SUBTITLE: General crafty things that might not require particularly talented hands -->
 
 # Crafting Supplies
-
+|Item Produced|Materials|Trivial|Container|
+|:---:|:-----:|:----:|:----:|
+|Dirty Leather Backpack - 5% WR|	Leather Strips + Leather x4|	15|	Large Sewing Kit|
+|Black Fur Backpack - 10% WR|	Leather Strips + Black Fur x4|	25|	Large Sewing Kit|
+|White Fur Backpack - 10% WR|	Leather Strips + White Fur x4|	25|	Large Sewing Kit|
+|Exotic Fur Backpack - 15% WR|	Leather Strips + Exotic Fur x4|	30|	Large Sewing Kit|
+|Silversilk Backpack - 30% WR|	Leather Strips x2 + Silversilk Swatch x4|	50|	Large Sewing Kit|
 [Ball of Slime](ball-of-slime)
 [Black Ink](black-ink)
 [Blue Ink](blue-ink)
