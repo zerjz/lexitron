@@ -16,7 +16,7 @@ Subclass of [Enchanter](enchanter)
 
 ## Build (costs AA points)
 [Animation Empathy](animation-empathy) - Gives animations ability to "Guard" and Follower at rank 1 - "Attack" and "Queue Attack" at rank 2 - Various others at rank 3 - ****NOTE: Rank 1 and 2 are given for free at level 25****
-[Battle Ready](battle-ready) - Expands bandolier slots by 1 save slot
+[Battle Ready](battle-ready) - Expands bandolier by 1 save slot
 [Beguilers Direct Banishment](beguilers-direct-banishment) -  Has a chance to forcibly move your target from around you away from you and cause them to forget that you exist
 [Doppleganger](doppleganger) - Create mirror of self to draw attacks - Each rank slightly increases power of summoned minion
 [Enhanced Forgetfulness](enhanced-forgetfulness) - Increases success chance of memory blur attempts
