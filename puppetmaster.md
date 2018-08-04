@@ -7,15 +7,15 @@ Subclass of [Enchanter](enchanter)
 |Level|Spell Name|Spell Type|Comments|
 |:---:|:-----:|:----:|:----:|
 |**20**|[Benevolence](benevolence)|Increase self Faction of Target|Increases Faction by 200|
-|**20**|[Spell: Citizen Puppet](citizen-puppet)|Summon Pet - Citizen Puppet| Consumes 1 [Malachite Sword](malachite-sword)|
-|**20**|[Spell: Illusion: Iksar](illusion-iksar)|Turn into an Iksar||
-|**21**|[Spell: Chaos Flux](chaos-flux)|DD + Small Stun||
-|**21**|[Spell: Illusion: Earth Elemental](illusion-earth-elemental)|Turn into an Earth Elemental|+10 Str buff|
-|**22**|[Spell: Strip Enchantment](strip-enchantment)|Dispel Magic on Target||
-|**25**|[Spell: Feedback](feedback)|Damage Shield Target||
-|**25**|[Spell: Instill](instill)|Root Target||
-|**27**|[Spell: No Strings Attached](no-strings-attached)|||
-|**28**|[Spell: Attach Amicable Strings](attach-amicable-strings)|Aggro Radius Reducer + Self Faction Increase to target|+350 Faction|
+|**20**|[Citizen Puppet](citizen-puppet)|Summon Pet - Citizen Puppet| Consumes 1 [Malachite Sword](malachite-sword)|
+|**20**|[Illusion: Iksar](illusion-iksar)|Turn into an Iksar||
+|**21**|[Chaos Flux](chaos-flux)|DD + Small Stun||
+|**21**|[Illusion: Earth Elemental](illusion-earth-elemental)|Turn into an Earth Elemental|+10 Str buff|
+|**22**|[Strip Enchantment](strip-enchantment)|Dispel Magic on Target||
+|**25**|[Feedback](feedback)|Damage Shield Target||
+|**25**|[Instill](instill)|Root Target||
+|**27**|[No Strings Attached](no-strings-attached)|||
+|**28**|[Attach Amicable Strings](attach-amicable-strings)|Aggro Radius Reducer + Self Faction Increase to target|+350 Faction|
 
 
 **Level 30**
