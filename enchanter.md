@@ -10,7 +10,7 @@
 # AA Abilities
 [Mass Group Buff](mass-group-buff) - Next Group Spell Cast will be an AE Cast at 2x the mana cost
 [Mental Clarity](mental-clarity) - Increase Mana Regen +1
-[Mystical Attuning](mystical attuning) - Increase Total Buff Slots +1
+[Mystical Attuning](mystical-attuning) - Increase Total Buff Slots +1
 [Pet Discipline](pet-discipline) - Grants your pet the "Hold" and "Greater Pet Hold" command
 
 
