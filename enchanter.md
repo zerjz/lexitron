@@ -6,6 +6,10 @@
 [Jeweler](jeweler)
 [Puppetmaster](puppetmaster)
 
+
+#AA Abilities
+
+
 # Spells
 
 |Level|Spell Name|Spell Type|Comments|
