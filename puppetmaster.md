@@ -14,6 +14,7 @@ Subclass of [Enchanter](enchanter)
 |**22**|[Strip Enchantment](strip-enchantment)|Dispel Magic on Target||
 |**25**|[Feedback](feedback)|Damage Shield Target||
 |**25**|[Instill](instill)|Root Target||
+|**26**|[Charm](charm)|Charm Target|Affects creatures up to level 25 - For sale in New Mechatropolis - Gypsy|
 |**27**|[No Strings Attached](no-strings-attached)|||
 |**28**|[Attach Amicable Strings](attach-amicable-strings)|Aggro Radius Reducer + Self Faction Increase to target|+350 Faction|
 
