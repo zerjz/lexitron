@@ -32,7 +32,7 @@ Subclass of [Enchanter](enchanter)
 
 |Level|Spell Name|Spell Type|Comments|
 |:---:|:-----:|:----:|:----:|
-|**20**|[Benevolence](benevolence)|Increase self Faction of Target|Increases Faction by 200|
+|**20**|[Benevolence](benevolence)|Increase self Faction of Target|+200 Faction|
 |**20**|[Citizen Puppet](citizen-puppet)|Summon Pet - Citizen Puppet| Consumes 1 [Malachite Sword](malachite-sword)|
 |**20**|[Illusion: Iksar](illusion-iksar)|Turn into an Iksar||
 |**21**|[Chaos Flux](chaos-flux)|DD + Small Stun||
