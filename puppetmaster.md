@@ -10,7 +10,7 @@ Subclass of [Enchanter](enchanter)
 |**20**|[Spell: Citizen Puppet](citizen-puppet)|Summon Pet - Citizen Puppet| Consumes 1 [Malachite Sword](malachite-sword)|
 |**20**|[Spell: Illusion: Iksar](illusion-iksar)|Turn into an Iksar||
 |**21**|[Spell: Chaos Flux](chaos-flux)|DD + Small Stun||
-|**21**|[Spell: Illusion: Earth Elemental](illusion-earth-elemental)|Turn into an Earth Elemental|Comes with Str buff|
+|**21**|[Spell: Illusion: Earth Elemental](illusion-earth-elemental)|Turn into an Earth Elemental|+10 Str buff|
 
 
 
