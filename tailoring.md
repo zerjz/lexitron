@@ -10,6 +10,21 @@
 |[White Fur Backpack](white-fur-backpack) - 10% WR|[Leather Strips](leather-strips) + [White Fur](white-fur) x4|25|	Large Sewing Kit|
 |[Exotic Fur Backpack](exotic-fur-backpack) - 15% WR|[Leather Strips](leather-strips) + [Exotic Fur](exotic-fur) x4|30|	Large Sewing Kit|
 |[Silversilk Backpack](silversilk-backpack) - 30% WR|[Leather Strips](leather-strips) x2 + [Silversilk Swatch](silversilk-swatch) x4|50|Large Sewing Kit|
+
+## Dirty Leather
+|Item Produced|Materials|Trivial|Container|
+|:---:|:-----:|:----:|:----:|
+|Dirty Flesh Robe|	Dirty Flesh x8	|5|	Large Sewing Kit|
+|Dirty Leather Gloves|	Leather x2	|5|	Large Sewing Kit|
+|Dirty Leather Bracer|	Leather x3	|7|	Large Sewing Kit|
+|Dirty Leather Sleeves|	Leather x4	|10|	Large Sewing Kit|
+|Dirty Leather Boots|	Leather x5	|8|	Large Sewing Kit|
+|Dirty Leather Pants|	Leather x6	|10|	Large Sewing Kit|
+|Dirty Leather Vest|	Leather x7	|10|	Large Sewing Kit|
+
+
+
+
 [Animal Spirit Hood](animal-spirit-hood)
 [Bandages](bandages)
 [Belt of White Fur](belt-of-white-fur)
