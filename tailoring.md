@@ -15,12 +15,12 @@
 |Item Produced|Materials|Trivial|Container|
 |:---:|:-----:|:----:|:----:|
 |[Dirty Flesh Robe](dirty-flesh-robe)|[Dirty Flesh](dirty-flesh) x8	|5|	Large Sewing Kit|
-|Dirty Leather Gloves|	Leather x2	|5|	Large Sewing Kit|
-|Dirty Leather Bracer|	Leather x3	|7|	Large Sewing Kit|
-|Dirty Leather Sleeves|	Leather x4	|10|	Large Sewing Kit|
-|Dirty Leather Boots|	Leather x5	|8|	Large Sewing Kit|
-|Dirty Leather Pants|	Leather x6	|10|	Large Sewing Kit|
-|Dirty Leather Vest|	Leather x7	|10|	Large Sewing Kit|
+|[Dirty Leather Gloves](dirty-leather-gloves)|[Leather](leather) x2	|5|	Large Sewing Kit|
+|[Dirty Leather Bracer](dirty-leather-bracer)|[Leather](leather) x3	|7|	Large Sewing Kit|
+|[Dirty Leather Sleeves](dirty-leather-sleeves)|[Leather](leather) x4	|10|	Large Sewing Kit|
+|[Dirty Leather Boots](dirty-leather-boots)|[Leather](leather) x5	|8|	Large Sewing Kit|
+|[Dirty Leather Pants](dirty-leather-pants)|[Leather](leather) x6	|10|	Large Sewing Kit|
+|[Dirty Leather Vest](dirty-leather-vest)|[Leather](leather) x7	|10|	Large Sewing Kit|
 
 
 
