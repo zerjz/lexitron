@@ -3,7 +3,6 @@
 
 Subclass of [Enchanter](enchanter)
 
-Special:WhatLinksHere/Puppetmaster
 # AA Abilities
 ## Subclass (given for free based on level)
 [Arcane Whisper](arcane-whisper) - Reduces Hate on target over time
