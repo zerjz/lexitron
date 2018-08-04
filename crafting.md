@@ -5,9 +5,9 @@
 ## Backpacks
 |Item Produced|Materials|Trivial|Container|
 |:---:|:-----:|:----:|:----:|
-|[Dirty Leather Backpack](dirty-leather-backpack) - 5% WR|	[Leather Strips](leather-strips) + [Leather](leather) x4|15|Large Sewing Kit|
-|Black Fur Backpack - 10% WR|	Leather Strips + Black Fur x4|	25|	Large Sewing Kit|
-|White Fur Backpack - 10% WR|	Leather Strips + White Fur x4|	25|	Large Sewing Kit|
+|[Dirty Leather Backpack](dirty-leather-backpack) - 5% WR|[Leather Strips](leather-strips) + [Leather](leather)x4|15|Large Sewing Kit|
+|[Black Fur Backpack](black-fur-backpack) - 10% WR|[Leather Strips](leather-strips) + [Black Fur](black-fur)x4|25|Large Sewing Kit|
+|[White Fur Backpack](white-fur-backpack) - 10% WR|[Leather Strips](leather-strips) + [White Fur](white-fur)x4|	25|	Large Sewing Kit|
 |Exotic Fur Backpack - 15% WR|	Leather Strips + Exotic Fur x4|	30|	Large Sewing Kit|
 |Silversilk Backpack - 30% WR|	Leather Strips x2 + Silversilk Swatch x4|	50|	Large Sewing Kit|
 [Ball of Slime](ball-of-slime)
