@@ -2,7 +2,7 @@
 <!-- SUBTITLE: The hobby of choice for budding fashionistas -->
 
 # Large Sewing Kit
-## Backpacks
+### Backpacks
 |Item Produced|Materials|Trivial|Container|
 |:---:|:-----:|:----:|:----:|
 |[Dirty Leather Backpack](dirty-leather-backpack) - 5% WR|[Leather Strips](leather-strips) + [Leather](leather) x4|15|Large Sewing Kit|
