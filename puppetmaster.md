@@ -2,6 +2,17 @@
 <!-- SUBTITLE: Puppetmasters can appear to be quite charming, no pun intended, but beware, for they are masters of anima-controlling magic.  What could start as a simple puppet show may turn into a bloody affair if only the Puppetmaster willed it so.  Darker still, you may find yourself an unwilling participant in their little mummer's farce.   -->
 
 Subclass of [Enchanter](enchanter)
+
+# AA Abilities
+[Arcane Whisper](arcane-whisper) - Reduces Hate on target over time
+[Beam of Slumber](beam-of-slumber) - Mesmerize up to 8 targets around you
+[Beguilers Banishment](beguilers-banishment) - Has a chance to forcibly move some enemies from around you away from you and cause them to forget that you exist
+[Deep Sleep](deep-sleep) - Gives Mesmerize a chance to put a 2 minute offense debuff on the target
+[Feigned Minion](feigned-minion) - Allows pet to feign death - 25% / 50% / 75% chance of success
+[Project Illusion](project-illusion) - Give current illusion spell to target
+[Spell Casting Mastery](spell-casting-mastery) - Lower mana cost of spells by 2% / 5% / 10%
+[Spell Casting Reinforcement](spell-casting-reinforcement) - Increase duration of beneficial spells cast by 5% / 15% / 30% / 50%
+
 # Spells
 
 |Level|Spell Name|Spell Type|Comments|
