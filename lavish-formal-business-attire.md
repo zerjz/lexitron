@@ -3,6 +3,6 @@
 
 # Lavish Formal Business Attire
 
-Obtained by hailing Delfino the Clown once you are a Puppetmaster
+Obtained by hailing Delfino the Clown in Xuolia once you are a Puppetmaster
 
 ![Puppet Class Item](/uploads/puppetmaster/puppet-class-item.png "Puppet Class Item")
