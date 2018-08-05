@@ -3,7 +3,7 @@
 
 Subclass of [Enchanter](enchanter)
 
-Puppetmaster Class Item - [Lavish Formal Business Attire](lavish-formal-business-attire)![Puppet Class Item](/uploads/puppetmaster/puppet-class-item.png "Puppet Class Item")
+Puppetmaster Class Item - [Lavish Formal Business Attire](lavish-formal-business-attire)
 
 
 # AA Abilities
