@@ -26,14 +26,14 @@
 ## Thin Silk
 |Item Produced|Materials|Trivial|Container|Comments|
 |:---:|:-----:|:----:|:----:|:---|
-|[Thin Silk Breath Muffle](thin-silk-breath-muffle)|[Silk Square](silk-square) x1 + [Spider Silk Strings](spider-silk-strings) x1|10| Large Sewing Kit|5ac 5hp 1agi/dex 1% haste|
-|[Thin Silk Gloves](thin-silk-gloves)|[Silk Square](silk-square) x2|10| Large Sewing Kit|5ac 5hp 1agi/dex|
-|[Thin Silk Wristbands](thin-silk-wristbands)|[Silk Square](silk-square) x3|5| Large Sewing Kit|2ac 5hp 2sta 1agi|
-|[Thin Silk Sleeves](thin-silk-sleeves)|[Silk Square](silk-square) x4|10| Large Sewing Kit|3ac 3dex|
-|[Thin Silk Shoes](thin-silk-shoes)|[Silk Square](silk-square) x5|8| Large Sewing Kit|2ac 4hp 2agi|
-|[Thin Silk Pants](thin-silk-pants)|[Silk Square](silk-square) x6|10| Large Sewing Kit|5ac 4str|
-|[Thin Silk Tunic](thin-silk-tunic)|[Silk Square](silk-square) x7|10| Large Sewing Kit|5ac 3agi - item called Thin Silk Shirt|
-|[Thin Silk Scarf](thin-silk-scarf)|[Silk Square](silk-square) x10|10| Large Sewing Kit|5hp/mana - Neck / Accessory slot|
+|[Thin Silk Breath Muffle](thin-silk-breath-muffle)|[Spider Silk Square](spider-silk-square) x1 + [Spider Silk Strings](spider-silk-strings) x1|10| Large Sewing Kit|5ac 5hp 1agi/dex 1% haste|
+|[Thin Silk Gloves](thin-silk-gloves)|[Spider Silk Square](spider-silk-square) x2|10| Large Sewing Kit|5ac 5hp 1agi/dex|
+|[Thin Silk Wristbands](thin-silk-wristbands)|[Spider Silk Square](spider-silk-square) x3|5| Large Sewing Kit|2ac 5hp 2sta 1agi|
+|[Thin Silk Sleeves](thin-silk-sleeves)|[Spider Silk Square](spider-silk-square) x4|10| Large Sewing Kit|3ac 3dex|
+|[Thin Silk Shoes](thin-silk-shoes)|[Spider Silk Square](spider-silk-square) x5|8| Large Sewing Kit|2ac 4hp 2agi|
+|[Thin Silk Pants](thin-silk-pants)|[Spider Silk Square](spider-silk-square) x6|10| Large Sewing Kit|5ac 4str|
+|[Thin Silk Tunic](thin-silk-tunic)|[Spider Silk Square](spider-silk-square) x7|10| Large Sewing Kit|5ac 3agi - item called Thin Silk Shirt|
+|[Thin Silk Scarf](thin-silk-scarf)|[Spider Silk Square](spider-silk-square) x10|10| Large Sewing Kit|5hp/mana - Neck / Accessory slot|
 
 
 
