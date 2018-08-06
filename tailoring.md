@@ -26,14 +26,14 @@
 ## Thin Silk
 |Item Produced|Materials|Trivial|Container|Comments|
 |:---:|:-----:|:----:|:----:|:---:|
-|[Thin Silk Breath Muffle](thin-silk-breath-muffle)|[Silk Square](silk-square) x2| 
-|[Thin Silk Gloves](thin-silk-gloves)|
-|[Thin Silk Pants](thin-silk-pants)|
-|[Thin Silk Scarf](thin-silk-scarf)|
-|[Thin Silk Shoes](thin-silk-shoes)|
-|[Thin Silk Sleeves](thin-silk-sleeves)|
-|[Thin Silk Tunic](thin-silk-tunic)|
-|[Thin Silk Wristbands](thin-silk-wristbands)|
+|[Thin Silk Breath Muffle](thin-silk-breath-muffle)|[Silk Square](silk-square) x1 + [Spider Silk Strings](spider-silk-strings) x1| 
+|[Thin Silk Gloves](thin-silk-gloves)|[Silk Square](silk-square) x2|10| Large Sewing Kit||
+|[Thin Silk Pants](thin-silk-pants)|[Silk Square](silk-square) x6|10| Large Sewing Kit||
+|[Thin Silk Scarf](thin-silk-scarf)|[Silk Square](silk-square) x10|10| Large Sewing Kit||
+|[Thin Silk Shoes](thin-silk-shoes)|[Silk Square](silk-square) x5|8| Large Sewing Kit||
+|[Thin Silk Sleeves](thin-silk-sleeves)|[Silk Square](silk-square) x4|10| Large Sewing Kit||
+|[Thin Silk Tunic](thin-silk-tunic)|[Silk Square](silk-square) x7|10| Large Sewing Kit||
+|[Thin Silk Wristbands](thin-silk-wristbands)|[Silk Square](silk-square) x3|5| Large Sewing Kit||
 ## Unsorted
 [Animal Spirit Hood](animal-spirit-hood)
 [Bandages](bandages)
