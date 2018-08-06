@@ -2,6 +2,7 @@
 <!-- SUBTITLE: Made from thin spider silk -->
 
 # Tailoring
+![Thin Silk Breath Muffle](/uploads/tailoring/thin-silk-breath-muffle.png "Thin Silk Breath Muffle")
 **Skill**
 Minimum: 0
 Trivial: 10
