@@ -34,6 +34,16 @@
 |[Thin Silk Sleeves](thin-silk-sleeves)|[Silk Square](silk-square) x4|10| Large Sewing Kit|3ac 3dex|
 |[Thin Silk Tunic](thin-silk-tunic)|[Silk Square](silk-square) x7|10| Large Sewing Kit|5ac 3agi - item called Thin Silk Shirt|
 |[Thin Silk Wristbands](thin-silk-wristbands)|[Silk Square](silk-square) x3|5| Large Sewing Kit|2ac 5hp 2sta 1agi|
+
+## Frozen Silk
+|Item Produced|Materials|Trivial|Container|Comments|
+|:---:|:-----:|:----:|:----:|:---|
+|[Frozen Silk Gloves](frozen-silk-gloves)|[Thin Silk Gloves](thin-silk-gloves) + [Frozen Chromium](frozen-chromium)|10| Large Sewing Kit|7ac 7hp 1agi/dex 3sv cold|
+|[Frozen Silk Pants](frozen-silk-pants)|[Thin Silk Pants](thin-silk-pants) + [Frozen Chromium](frozen-chromium)|10| Large Sewing Kit|7ac 5str 2dex 3sv cold|
+|[Frozen Silk Shirt](frozen-silk-shirt)|[Thin Silk Shirt](thin-silk-shirt) + [Frozen Chromium](frozen-chromium)|10| Large Sewing Kit|7ac 3hp 1sta 4agi 3sv cold|
+|[Frozen Silk Shoes](frozen-silk-shoes)|[Thin Silk Shoes](thin-silk-shoes) + [Frozen Chromium](frozen-chromium)|10| Large Sewing Kit|4ac 5hp 3agi 3sv cold|
+|[Frozen Silk Sleeves](frozen-silk-sleeves)|[Thin Silk Sleeves](thin-silk-sleeves) + [Frozen Chromium](frozen-chromium)|10| Large Sewing Kit|6ac 2hp 4dex 3sv cold|
+|[Frozen Silk Wristband](frozen-silk-wristband)|[Thin Silk Wristband](thin-silk-wristband) + [Frozen Chromium](frozen-chromium)|10| Large Sewing Kit|4ac 7hp 3sta/agi 3sv cold|
 ## Unsorted
 [Animal Spirit Hood](animal-spirit-hood)
 [Bandages](bandages)
@@ -86,12 +96,6 @@
 [Finest Silk Square](finest-silk-square)
 [Finest Silk Tunic](finest-silk-tunic)
 [Finest Silk Wristband](finest-silk-wristband)
-[Frozen Silk Gloves](frozen-silk-gloves)
-[Frozen Silk Pants](frozen-silk-pants)
-[Frozen Silk Shirt](frozen-silk-shirt)
-[Frozen Silk Shoes](frozen-silk-shoes)
-[Frozen Silk Sleeves](frozen-silk-sleeves)
-[Frozen Silk Wristband](frozen-silk-wristband)
 [Fur Puppet](fur-puppet)
 [Furry Winter Gloves](furry-winter-gloves)
 [Galaxy Velvet Gloves](galaxy-velvet-gloves)
