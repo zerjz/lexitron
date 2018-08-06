@@ -4,7 +4,7 @@
 # Large Sewing Kit
 ## Backpacks
 |Item Produced|Materials|Trivial|Container|Comments|
-|:---:|:-----:|:----:|:----:|
+|:---:|:-----:|:----:|:----:|:---:|
 |[Dirty Leather Backpack](dirty-leather-backpack) - 5% WR|[Leather Strips](leather-strips) + [Leather](leather) x4|15|Large Sewing Kit|
 |[Black Fur Backpack](black-fur-backpack) - 10% WR|[Leather Strips](leather-strips) + [Black Fur](black-fur) x4|25|Large Sewing Kit|
 |[White Fur Backpack](white-fur-backpack) - 10% WR|[Leather Strips](leather-strips) + [White Fur](white-fur) x4|25|	Large Sewing Kit|
