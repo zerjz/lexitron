@@ -2,6 +2,7 @@
 <!-- SUBTITLE: Made of spider silk soaked in chromium -->
 
 # Tailoring
+![Frozen Silk Shoes](/uploads/tailoring/frozen-silk-shoes.png "Frozen Silk Shoes")
 **Skill**
 Minimum: 0
 Trivial: 10
