@@ -2,6 +2,7 @@
 <!-- SUBTITLE: A robe made from dirty leather -->
 
 # Tailoring
+![Dirty Flesh Robe](/uploads/tailoring/dirty-flesh-robe.png "Dirty Flesh Robe")
 **Skill**
 Minimum: 0
 Trivial: 5
