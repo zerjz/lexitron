@@ -23,7 +23,17 @@
 |[Dirty Leather Vest](dirty-leather-vest)|[Leather](leather) x7	|10|	Large Sewing Kit| 10ac 1hp|
 
 
-
+## Thin Silk
+|Item Produced|Materials|Trivial|Container|Comments|
+|:---:|:-----:|:----:|:----:|:---:|
+|[Thin Silk Breath Muffle](thin-silk-breath-muffle)|[Silk Square](silk-square) x2| 
+|[Thin Silk Gloves](thin-silk-gloves)|
+|[Thin Silk Pants](thin-silk-pants)|
+|[Thin Silk Scarf](thin-silk-scarf)|
+|[Thin Silk Shoes](thin-silk-shoes)|
+|[Thin Silk Sleeves](thin-silk-sleeves)|
+|[Thin Silk Tunic](thin-silk-tunic)|
+|[Thin Silk Wristbands](thin-silk-wristbands)|
 ## Unsorted
 [Animal Spirit Hood](animal-spirit-hood)
 [Bandages](bandages)
@@ -172,14 +182,6 @@
 [Tattered Cloth Shoes](tattered-cloth-shoes)
 [Tattered Cloth Sleeves](tattered-cloth-sleeves)
 [Thin Silk Belt](thin-silk-belt)
-[Thin Silk Breath Muffle](thin-silk-breath-muffle)
-[Thin Silk Gloves](thin-silk-gloves)
-[Thin Silk Pants](thin-silk-pants)
-[Thin Silk Scarf](thin-silk-scarf)
-[Thin Silk Shoes](thin-silk-shoes)
-[Thin Silk Sleeves](thin-silk-sleeves)
-[Thin Silk Tunic](thin-silk-tunic)
-[Thin Silk Wristbands](thin-silk-wristbands)
 [Torn Cloth Strips](torn-cloth-strips)
 [Velvet Square](velvet-square)
 [White Fur Lined Boots](white-fur-lined-boots)
