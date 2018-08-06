@@ -2,6 +2,7 @@
 <!-- SUBTITLE: Made from thin spider silk -->
 
 # Tailoring
+![Thin Silk Wristbands](/uploads/tailoring/thin-silk-wristbands.png "Thin Silk Wristbands")
 **Skill**
 Minimum: 0
 Trivial: 10
