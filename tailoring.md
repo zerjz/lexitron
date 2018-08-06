@@ -5,11 +5,11 @@
 ## Backpacks
 |Item Produced|Materials|Trivial|Container|Comments|
 |:---:|:-----:|:----:|:----:|:---:|
-|[Dirty Leather Backpack](dirty-leather-backpack) - 5% WR|[Leather Strips](leather-strips) + [Leather](leather) x4|15|Large Sewing Kit|
-|[Black Fur Backpack](black-fur-backpack) - 10% WR|[Leather Strips](leather-strips) + [Black Fur](black-fur) x4|25|Large Sewing Kit|
-|[White Fur Backpack](white-fur-backpack) - 10% WR|[Leather Strips](leather-strips) + [White Fur](white-fur) x4|25|	Large Sewing Kit|
-|[Exotic Fur Backpack](exotic-fur-backpack) - 15% WR|[Leather Strips](leather-strips) + [Exotic Fur](exotic-fur) x4|30|	Large Sewing Kit|
-|[Silversilk Backpack](silversilk-backpack) - 30% WR|[Leather Strips](leather-strips) x2 + [Silversilk Swatch](silversilk-swatch) x4|50|Large Sewing Kit|
+|[Dirty Leather Backpack](dirty-leather-backpack) - 5% WR|[Leather Strips](leather-strips) + [Leather](leather) x4|15|Large Sewing Kit|5% Weight Reduction|
+|[Black Fur Backpack](black-fur-backpack) - 10% WR|[Leather Strips](leather-strips) + [Black Fur](black-fur) x4|25|Large Sewing Kit| 10% Weight Reduction|
+|[White Fur Backpack](white-fur-backpack) - 10% WR|[Leather Strips](leather-strips) + [White Fur](white-fur) x4|25|	Large Sewing Kit| 10% Weight Reduction|
+|[Exotic Fur Backpack](exotic-fur-backpack) - 15% WR|[Leather Strips](leather-strips) + [Exotic Fur](exotic-fur) x4|30|	Large Sewing Kit| 15% Weight Reduction|
+|[Silversilk Backpack](silversilk-backpack) - 30% WR|[Leather Strips](leather-strips) x2 + [Silversilk Swatch](silversilk-swatch) x4|50|Large Sewing Kit| 30% Weight Reduction|
 
 ## Dirty Leather
 |Item Produced|Materials|Trivial|Container|Comments|
