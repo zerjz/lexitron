@@ -2,6 +2,7 @@
 <!-- SUBTITLE: Made of spider silk soaked in chromium -->
 
 # Tailoring
+![Frozen Silk Wristbands](/uploads/tailoring/frozen-silk-wristbands.png "Frozen Silk Wristbands")
 **Skill**
 Minimum: 0
 Trivial: 10
