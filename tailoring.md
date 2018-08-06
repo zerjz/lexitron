@@ -14,12 +14,12 @@
 ## Dirty Leather
 |Item Produced|Materials|Trivial|Container|Comments|
 |:---:|:-----:|:----:|:----:|:---:|
-|[Dirty Flesh Robe](dirty-flesh-robe)|[Dirty Flesh](dirty-flesh) x8	|5|	Large Sewing Kit| 10ac 1str/sta/agi/dex 2int/wis
-|[Dirty Leather Gloves](dirty-leather-gloves)|[Leather](leather) x2	|5|	Large Sewing Kit| 1ac 1hp
-|[Dirty Leather Bracer](dirty-leather-bracer)|[Leather](leather) x3	|7|	Large Sewing Kit| 2ac 1hp
-|[Dirty Leather Sleeves](dirty-leather-sleeves)|[Leather](leather) x4	|10|	Large Sewing Kit| 2ac 1hp
-|[Dirty Leather Boots](dirty-leather-boots)|[Leather](leather) x5	|8|	Large Sewing Kit| 2ac 1hp
-|[Dirty Leather Pants](dirty-leather-pants)|[Leather](leather) x6	|10|	Large Sewing Kit| 5ac 1hp
+|[Dirty Flesh Robe](dirty-flesh-robe)|[Dirty Flesh](dirty-flesh) x8	|5|	Large Sewing Kit| 10ac 1str/sta/agi/dex 2int/wis|
+|[Dirty Leather Gloves](dirty-leather-gloves)|[Leather](leather) x2	|5|	Large Sewing Kit| 1ac 1hp|
+|[Dirty Leather Bracer](dirty-leather-bracer)|[Leather](leather) x3	|7|	Large Sewing Kit| 2ac 1hp|
+|[Dirty Leather Sleeves](dirty-leather-sleeves)|[Leather](leather) x4	|10|	Large Sewing Kit| 2ac 1hp|
+|[Dirty Leather Boots](dirty-leather-boots)|[Leather](leather) x5	|8|	Large Sewing Kit| 2ac 1hp|
+|[Dirty Leather Pants](dirty-leather-pants)|[Leather](leather) x6	|10|	Large Sewing Kit| 5ac 1hp|
 |[Dirty Leather Vest](dirty-leather-vest)|[Leather](leather) x7	|10|	Large Sewing Kit| 10ac 1hp|
 
 
