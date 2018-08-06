@@ -4,7 +4,7 @@
 # Large Sewing Kit
 ## Backpacks
 |Item Produced|Materials|Trivial|Container|Comments|
-|:---:|:-----:|:----:|:----:|:---:|
+|:---:|:-----:|:----:|:----:|:---|
 |[Dirty Leather Backpack](dirty-leather-backpack)|[Leather Strips](leather-strips) + [Leather](leather) x4|15|Large Sewing Kit|5% Weight Reduction|
 |[Black Fur Backpack](black-fur-backpack)|[Leather Strips](leather-strips) + [Black Fur](black-fur) x4|25|Large Sewing Kit| 10% Weight Reduction|
 |[White Fur Backpack](white-fur-backpack)|[Leather Strips](leather-strips) + [White Fur](white-fur) x4|25|	Large Sewing Kit| 10% Weight Reduction|
@@ -13,7 +13,7 @@
 
 ## Dirty Leather
 |Item Produced|Materials|Trivial|Container|Comments|
-|:---:|:-----:|:----:|:----:|:---:|
+|:---:|:-----:|:----:|:----:|:---|
 |[Dirty Flesh Robe](dirty-flesh-robe)|[Dirty Flesh](dirty-flesh) x8	|5|	Large Sewing Kit| 10ac 1str/sta/agi/dex 2int/wis|
 |[Dirty Leather Gloves](dirty-leather-gloves)|[Leather](leather) x2	|5|	Large Sewing Kit| 1ac 1hp|
 |[Dirty Leather Bracer](dirty-leather-bracer)|[Leather](leather) x3	|7|	Large Sewing Kit| 2ac 1hp|
@@ -25,7 +25,7 @@
 
 ## Thin Silk
 |Item Produced|Materials|Trivial|Container|Comments|
-|:---:|:-----:|:----:|:----:|:---:|
+|:---:|:-----:|:----:|:----:|:---|
 |[Thin Silk Breath Muffle](thin-silk-breath-muffle)|[Silk Square](silk-square) x1 + [Spider Silk Strings](spider-silk-strings) x1|10| Large Sewing Kit|5ac 5hp 1agi/dex 1% haste|
 |[Thin Silk Gloves](thin-silk-gloves)|[Silk Square](silk-square) x2|10| Large Sewing Kit|5ac 5hp 1agi/dex|
 |[Thin Silk Pants](thin-silk-pants)|[Silk Square](silk-square) x6|10| Large Sewing Kit|5ac 4str|
