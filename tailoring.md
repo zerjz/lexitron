@@ -3,7 +3,7 @@
 
 # Large Sewing Kit
 ## Backpacks
-|Item Produced|Materials|Trivial|Container|
+|Item Produced|Materials|Trivial|Container|Comments|
 |:---:|:-----:|:----:|:----:|
 |[Dirty Leather Backpack](dirty-leather-backpack) - 5% WR|[Leather Strips](leather-strips) + [Leather](leather) x4|15|Large Sewing Kit|
 |[Black Fur Backpack](black-fur-backpack) - 10% WR|[Leather Strips](leather-strips) + [Black Fur](black-fur) x4|25|Large Sewing Kit|
@@ -12,15 +12,15 @@
 |[Silversilk Backpack](silversilk-backpack) - 30% WR|[Leather Strips](leather-strips) x2 + [Silversilk Swatch](silversilk-swatch) x4|50|Large Sewing Kit|
 
 ## Dirty Leather
-|Item Produced|Materials|Trivial|Container|
-|:---:|:-----:|:----:|:----:|
+|Item Produced|Materials|Trivial|Container|Comments|
+|:---:|:-----:|:----:|:----:|:---:|
 |[Dirty Flesh Robe](dirty-flesh-robe)|[Dirty Flesh](dirty-flesh) x8	|5|	Large Sewing Kit|
 |[Dirty Leather Gloves](dirty-leather-gloves)|[Leather](leather) x2	|5|	Large Sewing Kit|
 |[Dirty Leather Bracer](dirty-leather-bracer)|[Leather](leather) x3	|7|	Large Sewing Kit|
 |[Dirty Leather Sleeves](dirty-leather-sleeves)|[Leather](leather) x4	|10|	Large Sewing Kit|
 |[Dirty Leather Boots](dirty-leather-boots)|[Leather](leather) x5	|8|	Large Sewing Kit|
 |[Dirty Leather Pants](dirty-leather-pants)|[Leather](leather) x6	|10|	Large Sewing Kit|
-|[Dirty Leather Vest](dirty-leather-vest)|[Leather](leather) x7	|10|	Large Sewing Kit|
+|[Dirty Leather Vest](dirty-leather-vest)|[Leather](leather) x7	|10|	Large Sewing Kit| 10ac 1hp|
 
 
 
