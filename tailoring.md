@@ -26,7 +26,7 @@
 ## Thin Silk
 |Item Produced|Materials|Trivial|Container|Comments|
 |:---:|:-----:|:----:|:----:|:---:|
-|[Thin Silk Breath Muffle](thin-silk-breath-muffle)|[Silk Square](silk-square) x1 + [Spider Silk Strings](spider-silk-strings) x1| 
+|[Thin Silk Breath Muffle](thin-silk-breath-muffle)|[Silk Square](silk-square) x1 + [Spider Silk Strings](spider-silk-strings) x1|10| Large Sewing Kit||
 |[Thin Silk Gloves](thin-silk-gloves)|[Silk Square](silk-square) x2|10| Large Sewing Kit||
 |[Thin Silk Pants](thin-silk-pants)|[Silk Square](silk-square) x6|10| Large Sewing Kit||
 |[Thin Silk Scarf](thin-silk-scarf)|[Silk Square](silk-square) x10|10| Large Sewing Kit||
