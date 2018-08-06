@@ -2,6 +2,7 @@
 <!-- SUBTITLE: Made from thin spider silk -->
 
 # Tailoring
+![Thin Silk Shirt](/uploads/tailoring/thin-silk-shirt.png "Thin Silk Shirt")
 **Skill**
 Minimum: 0
 Trivial: 10
