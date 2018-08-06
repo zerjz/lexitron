@@ -2,6 +2,7 @@
 <!-- SUBTITLE: Made of dirty leather -->
 
 # Tailoring
+![Dirty Leather Boots](/uploads/tailoring/dirty-leather-boots.png "Dirty Leather Boots")
 **Skill**
 Minimum: 0
 Trivial: 8
