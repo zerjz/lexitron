@@ -12,6 +12,7 @@
 |[Silversilk Backpack](silversilk-backpack)|[Leather Strips](leather-strips) x2 + [Silversilk Swatch](silversilk-swatch) x4|50|Large Sewing Kit| 30% Weight Reduction|
 
 ## Dirty Leather
+
 |Item Produced|Materials|Trivial|Container|Comments|
 |:---:|:-----:|:----:|:----:|:---|
 |[Dirty Flesh Robe](dirty-flesh-robe)|[Dirty Flesh](dirty-flesh) x8	|5|	Large Sewing Kit| 10ac 1str/sta/agi/dex 2int/wis|
@@ -22,6 +23,7 @@
 |[Dirty Leather Pants](dirty-leather-pants)|[Leather](leather) x6	|10|	Large Sewing Kit| 5ac 1hp|
 |[Dirty Leather Vest](dirty-leather-vest)|[Leather](leather) x7	|10|	Large Sewing Kit| 10ac 1hp|
 
+Upgradeable to Cold Leather
 ## Cold Leather
 |Item Produced|Materials|Trivial|Container|Comments|
 |:---:|:-----:|:----:|:----:|:---|
