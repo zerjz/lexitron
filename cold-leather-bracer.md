@@ -2,6 +2,7 @@
 <!-- SUBTITLE: Leather coated in chromium -->
 
 # Tailoring
+![Cold Leather Bracer](/uploads/tailoring/cold-leather-bracer.png "Cold Leather Bracer")
 **Skill**
 Minimum: 5
 Trivial: 15
