@@ -2,6 +2,7 @@
 <!-- SUBTITLE: Leather coated in chromium -->
 
 # Tailoring
+![Cold Leather Pants](/uploads/tailoring/cold-leather-pants.png "Cold Leather Pants")
 **Skill**
 Minimum: 5
 Trivial: 15
