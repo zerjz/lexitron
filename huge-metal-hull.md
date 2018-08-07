@@ -21,7 +21,7 @@ Chest
 
 ```perl
 
-('yellow')AC               HP                 Mana                     Strength                   Agility
+AC               HP                 Mana                     Strength                   Agility
 50               150                -150                     -25                        -25
 
 
