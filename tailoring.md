@@ -25,12 +25,12 @@
 ## Cold Leather
 |Item Produced|Materials|Trivial|Container|Comments|
 |:---:|:-----:|:----:|:----:|:---|
-|[Cold Leather Gloves](cold-leather-gloves)|[Dirty Leather Gloves](dirty-leather-gloves) +[Frozen Chromium](frozen-chromium)|5|	Large Sewing Kit| 3ac 3hp 2mana 2sv cold|
-|[Cold Leather Bracer](cold-leather-bracer)|[Dirty Leather Bracer](dirty-leather-bracer) +[Frozen Chromium](frozen-chromium)	|7|	Large Sewing Kit| 4ac 3hp 2mana 2sv cold|
-|[Cold Leather Sleeves](cold-leather-sleeves)|[Dirty Leather Sleeves](dirty-leather-sleeves) +[Frozen Chromium](frozen-chromium)	|10|	Large Sewing Kit| 4ac 3hp 2mana 3sv cold|
-|[Cold Leather Boots](cold-leather-boots)|[Dirty Leather boots](dirty-leather-boots) +[Frozen Chromium](frozen-chromium)	|8|	Large Sewing Kit| 4ac 3hp 2mana 2sv cold|
-|[Cold Leather Pants](cold-leather-pants)|[Dirty Leather Pants](dirty-leather-pants) +[Frozen Chromium](frozen-chromium)	|10|	Large Sewing Kit| 7ac 3hp 2mana 2sv cold|
-|[Cold Leather Vest](cold-leather-vest)|[Dirty Leather Vest](dirty-leather-vest) +[Frozen Chromium](frozen-chromium)	|10|	Large Sewing Kit| 13ac 4hp 3mana 3sv cold|
+|[Cold Leather Gloves](cold-leather-gloves)|[Dirty Leather Gloves](dirty-leather-gloves) + [Frozen Chromium](frozen-chromium)|5|	Large Sewing Kit| 3ac 3hp 2mana 2sv cold|
+|[Cold Leather Bracer](cold-leather-bracer)|[Dirty Leather Bracer](dirty-leather-bracer) + [Frozen Chromium](frozen-chromium)	|7|	Large Sewing Kit| 4ac 3hp 2mana 2sv cold|
+|[Cold Leather Sleeves](cold-leather-sleeves)|[Dirty Leather Sleeves](dirty-leather-sleeves) + [Frozen Chromium](frozen-chromium)	|10|	Large Sewing Kit| 4ac 3hp 2mana 3sv cold|
+|[Cold Leather Boots](cold-leather-boots)|[Dirty Leather boots](dirty-leather-boots) + [Frozen Chromium](frozen-chromium)	|8|	Large Sewing Kit| 4ac 3hp 2mana 2sv cold|
+|[Cold Leather Pants](cold-leather-pants)|[Dirty Leather Pants](dirty-leather-pants) + [Frozen Chromium](frozen-chromium)	|10|	Large Sewing Kit| 7ac 3hp 2mana 2sv cold|
+|[Cold Leather Vest](cold-leather-vest)|[Dirty Leather Vest](dirty-leather-vest) + [Frozen Chromium](frozen-chromium)	|10|	Large Sewing Kit| 13ac 4hp 3mana 3sv cold|
 ## Thin Silk
 |Item Produced|Materials|Trivial|Container|Comments|
 |:---:|:-----:|:----:|:----:|:---|
