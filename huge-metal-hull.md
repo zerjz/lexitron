@@ -20,7 +20,7 @@ Chest
 # Stats
 
 ```perl
-
+print color('bold blue');
 AC               HP                 Mana                     Strength                   Agility
 50               150                -150                     -25                        -25
 
