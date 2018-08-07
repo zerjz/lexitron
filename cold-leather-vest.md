@@ -2,6 +2,7 @@
 <!-- SUBTITLE: Leather coated in chromium -->
 
 # Tailoring
+![Cold Leather Vest](/uploads/tailoring/cold-leather-vest.png "Cold Leather Vest")
 **Skill**
 Minimum: 5
 Trivial: 15
