@@ -45,7 +45,7 @@ Upgradeable to Cold Leather
 |[Thin Silk Tunic](thin-silk-tunic)|[Spider Silk Square](spider-silk-square) x7|10| Large Sewing Kit|5ac 3agi - item called Thin Silk Shirt|
 |[Thin Silk Scarf](thin-silk-scarf)|[Spider Silk Square](spider-silk-square) x10|10| Large Sewing Kit|5hp/mana - Neck / Accessory slot|
 
-
+Upgradeable to Frozen Silk
 
 ## Frozen Silk
 |Item Produced|Materials|Trivial|Container|Comments|
