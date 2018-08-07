@@ -2,6 +2,7 @@
 <!-- SUBTITLE: Leather coated in chromium -->
 
 # Tailoring
+![Cold Leather Boots](/uploads/tailoring/cold-leather-boots.png "Cold Leather Boots")
 **Skill**
 Minimum: 5
 Trivial: 15
