@@ -11,7 +11,8 @@
 |[Exotic Fur Backpack](exotic-fur-backpack)|[Leather Strips](leather-strips) + [Exotic Fur](exotic-fur) x4|30|	Large Sewing Kit| 15% Weight Reduction|
 |[Silversilk Backpack](silversilk-backpack)|[Leather Strips](leather-strips) x2 + [Silversilk Swatch](silversilk-swatch) x4|50|Large Sewing Kit| 30% Weight Reduction|
 
-## Dirty Leather
+## Armor Sets (Level 1-10 Purgatory)
+### Dirty Leather
 
 |Item Produced|Materials|Trivial|Container|Comments|
 |:---:|:-----:|:----:|:----:|:---|
@@ -24,7 +25,7 @@
 |[Dirty Leather Vest](dirty-leather-vest)|[Leather](leather) x7	|10|	Large Sewing Kit| 10ac 1hp|
 
 Upgradeable to Cold Leather
-## Cold Leather
+### Cold Leather
 |Item Produced|Materials|Trivial|Container|Comments|
 |:---:|:-----:|:----:|:----:|:---|
 |[Cold Leather Gloves](cold-leather-gloves)|[Dirty Leather Gloves](dirty-leather-gloves) + [Frozen Chromium](frozen-chromium)|5|	Large Sewing Kit| 3ac 3hp 2mana 2sv cold|
@@ -33,7 +34,7 @@ Upgradeable to Cold Leather
 |[Cold Leather Boots](cold-leather-boots)|[Dirty Leather boots](dirty-leather-boots) + [Frozen Chromium](frozen-chromium)	|8|	Large Sewing Kit| 4ac 3hp 2mana 2sv cold|
 |[Cold Leather Pants](cold-leather-pants)|[Dirty Leather Pants](dirty-leather-pants) + [Frozen Chromium](frozen-chromium)	|10|	Large Sewing Kit| 7ac 3hp 2mana 2sv cold|
 |[Cold Leather Vest](cold-leather-vest)|[Dirty Leather Vest](dirty-leather-vest) + [Frozen Chromium](frozen-chromium)	|10|	Large Sewing Kit| 13ac 4hp 3mana 3sv cold|
-## Thin Silk
+### Thin Silk
 |Item Produced|Materials|Trivial|Container|Comments|
 |:---:|:-----:|:----:|:----:|:---|
 |[Thin Silk Breath Muffle](thin-silk-breath-muffle)|[Spider Silk Square](spider-silk-square) x1 + [Spider Silk Strings](spider-silk-strings) x1|10| Large Sewing Kit|5ac 5hp 1agi/dex 1% haste|
@@ -47,7 +48,7 @@ Upgradeable to Cold Leather
 
 Upgradeable to Frozen Silk
 
-## Frozen Silk
+### Frozen Silk
 |Item Produced|Materials|Trivial|Container|Comments|
 |:---:|:-----:|:----:|:----:|:---|
 |[Frozen Silk Gloves](frozen-silk-gloves)|[Thin Silk Gloves](thin-silk-gloves) + [Frozen Chromium](frozen-chromium)|10| Large Sewing Kit|7ac 7hp 1agi/dex 3sv cold|
