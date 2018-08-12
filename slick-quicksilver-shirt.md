@@ -1,7 +1,5 @@
 <!-- TITLE: Slick Quicksilver Shirt -->
-<!-- SUBTITLE: A quick summary of Slick Quicksilver Shirt -->
 
-# Slick Quicksilver Shirt
 ```perl
 Item Name: Slick Quicksilver Shirt
  
