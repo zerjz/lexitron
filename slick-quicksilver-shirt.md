@@ -1,6 +1,8 @@
 <!-- TITLE: Slick Quicksilver Shirt -->
 ```perl
 Slot(s): Chest
+
+[MAGIC] [ATTUNABLE]
  
 Weight: 1.0  Size: Medium  
  
