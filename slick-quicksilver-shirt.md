@@ -1,5 +1,4 @@
 <!-- TITLE: Slick Quicksilver Shirt -->
-
 ```perl
  
 Slot(s): Chest
