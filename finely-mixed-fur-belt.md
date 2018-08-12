@@ -13,10 +13,9 @@ Trivial: 50
 [Finely Mixed Fur](finely-mixed-fur) x 2
 [Tanned Leather](tanned-leather) x 2
 [Belt Buckle](belt-buckle)
-
 ```perl
  
-Slot(s): None
+Slot(s): Waist
  
 [MAGIC] [ATTUNABLE] 
  
