@@ -1,4 +1,14 @@
 ```perl
+Item Name: Item must be a horse that is being ridden, because it has no name
+ 
+Slot(s): None
+ 
+Weight: 0.0  Size: Large  
+ 
+Class(es): ALL
+Race(s): ALL
+
+```perl
 Item Name: Shiny Obsidian Boots
  
 Slots: Feet 
@@ -17,12 +27,3 @@ AC(Armor Class):         Hit Points:              Endurance:               Shiel
  
 Agility:                 Melee Damage:            Magic Resist:            
 12                       4                        20             
-```perl
-Item Name: Item must be a horse that is being ridden, because it has no name
- 
-Slot(s): None
- 
-Weight: 0.0  Size: Large  
- 
-Class(es): ALL
-Race(s): ALL
