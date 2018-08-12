@@ -1,6 +1,5 @@
 <!-- TITLE: Slick Quicksilver Shirt -->
 ```perl
- 
 Slot(s): Chest
  
 Weight: 1.0  Size: Medium  
