@@ -13,3 +13,20 @@ Trivial: 50
 [Finely Mixed Fur](finely-mixed-fur) x 2
 [Tanned Leather](tanned-leather) x 2
 [Belt Buckle](belt-buckle)
+
+```perl
+ 
+Slot(s): None
+ 
+[MAGIC] [ATTUNABLE] 
+ 
+Weight: 1.0  Size: Small  
+ 
+Class(es): ALL
+Race(s): ALL
+ 
+AC(Armor Class):         Endurance:               Strength:                End Regen:               Dexterity:               
+13                       100                      10                       1                        3                        
+ 
+Melee Damage:            
+3                       
