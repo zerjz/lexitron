@@ -3,7 +3,7 @@
  
 Slot(s): Arms 
  
-[MAGIC] [ATTUNEABLE] 
+[MAGIC] [ATTUNABLE] 
  
 Weight: 0.1  Size: Small  
  
