@@ -1,7 +1,6 @@
 <!-- TITLE: Slick Quicksilver Shirt -->
 
 ```perl
-Item Name: Slick Quicksilver Shirt
  
 Slot(s): None
  
