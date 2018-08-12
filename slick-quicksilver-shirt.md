@@ -2,7 +2,7 @@
 
 ```perl
  
-Slot(s): None
+Slot(s): Chest
  
 Weight: 1.0  Size: Medium  
  
