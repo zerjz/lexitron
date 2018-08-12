@@ -1,14 +1,4 @@
 ```perl
-Item Name: Item must be a horse that is being ridden, because it has no name
- 
-Slot(s): None
- 
-Weight: 0.0  Size: Large  
- 
-Class(es): ALL
-Race(s): ALL
-
-```perl
 Item Name: Shiny Obsidian Boots
  
 Slots: Feet 
