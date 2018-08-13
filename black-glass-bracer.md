@@ -1,4 +1,4 @@
-<!-- TITLE: Bllack Glass Bracer -->
+<!-- TITLE: Black Glass Bracer -->
 ```perl
  
 Slot(s): Wrist 
