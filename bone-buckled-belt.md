@@ -1,7 +1,7 @@
 <!-- TITLE: Bone Buckled Belt -->
 ```perl
  
-Slot(s): None
+Slot(s): Waist
  
 [MAGIC] [LORE] [NO DROP] 
  
