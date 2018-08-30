@@ -44,7 +44,7 @@ Puppetmaster Class Item - [Lavish Formal Business Attire](lavish-formal-business
 |**25**|[Feedback](feedback)|Damage Shield Target||
 |**25**|[Instill](instill)|Root Target||
 |**26**|[Charm](charm)|Charm Target|Affects creatures up to level 25 - For sale in New Mechatropolis - Gypsy|
-|**27**|[No Strings Attached](no-strings-attached)|||
+|**27**|[No Strings Attached](no-strings-attached)|200 DD + Short Duration DoT + Snare|Stuns your own pet for 6 seconds|
 |**28**|[Attach Amicable Strings](attach-amicable-strings)|Aggro Radius Reducer + Self Faction Increase to target|+350 Faction|
 
 
