@@ -33,6 +33,7 @@ Subclass of [Priest](priest)
 **Level 26**
 [Spell: Call Vampire Bat Swarm](call-vampire-bat-swarm)
 [Spell: Glamour](glamour)
+[Spell: Zevfeer's Bite](zevfeers-bite)
 
 **Level 27**
 [Spell: Spirit Hex](spirit-hex)
