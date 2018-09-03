@@ -52,6 +52,7 @@ Subclass of [Priest](priest)
 
 **Level 32**
 [Spell: Augment Death](augment-death)
+[Spell: Mental Corruption](mental-corruption)
 
 **Level 33**
 [Spell: Word of Souls](word-of-souls)
