@@ -2,11 +2,12 @@
 <!-- SUBTITLE: The refinement of ores, metals, and glasses -->
 
 # Heavy Smelter
-
+**miscellaneous**
 [Basic Black Gold Staff](basic-black-gold-staff)
 [Basic Copper Staff](basic-copper-staff)
 [Basic Gold Staff](basic-gold-staff)
 [Basic Silver Staff](basic-silver-staff)
+**Blackmetal**
 [Blackmetal Belt](blackmetal-belt)
 [Blackmetal Bits](blackmetal-bits)
 [Blackmetal Blade](blackmetal-blade)
@@ -17,6 +18,7 @@
 [Blackmetal Greaves](blackmetal-greaves)
 [Blackmetal Ingot](blackmetal-ingot)
 [Blackmetal Vambraces](blackmetal-vambraces)
+**Copper**
 [Copper Bits](copper-bits)
 [Copper Blade](copper-blade)
 [Copper Chest](copper-chest)
@@ -38,13 +40,14 @@
 [Copper Splint Cloak](copper-splint-cloak)
 [Copper Throwing Stars](copper-throwing-stars)
 [Copper Tubing](copper-tubing)
+[Crude Copper Hilt](crude-copper-hilt)
+**Crocolisk Scale**
 [Crocolisk Scale Boots](crocolisk-scale-boots)
 [Crocolisk Scale Bracer](crocolisk-scale-bracer)
 [Crocolisk Scale Gloves](crocolisk-scale-gloves)
 [Crocolisk Scale Leggings](crocolisk-scale-leggings)
 [Crocolisk Scale Mail](crocolisk-scale-mail)
 [Crocolisk Scale Sleeves](crocolisk-scale-sleeves)
-[Crude Copper Hilt](crude-copper-hilt)
 [Diamond Sword](diamond-sword)
 [Drill Bit](drill-bit)
 [Dry Kupakai Staff](dry-kupakai-staff)
