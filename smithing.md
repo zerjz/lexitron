@@ -48,6 +48,7 @@
 [Crocolisk Scale Leggings](crocolisk-scale-leggings)
 [Crocolisk Scale Mail](crocolisk-scale-mail)
 [Crocolisk Scale Sleeves](crocolisk-scale-sleeves)
+[Sheet of Crocolisk Scales](crocolisk-scale-sheet)
 [Diamond Sword](diamond-sword)
 [Drill Bit](drill-bit)
 [Dry Kupakai Staff](dry-kupakai-staff)
