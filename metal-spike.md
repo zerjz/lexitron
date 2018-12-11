@@ -10,4 +10,4 @@ Trivial: 15
 [Heavy Smelter](heavy-smelter)
 
 **Ingredients**
-[Metal Rod](metal-rod)
+[Metal Rod](metal-rod) x 1
