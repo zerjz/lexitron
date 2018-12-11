@@ -241,6 +241,7 @@
 [Kraitoz Gear](kraitoz-gear)
 [Kraitoz Ingot](kraitoz-ingot)
 [Mercury](mercury)
+[Obsidian Dragonscale Greaves](obsidian-dragonscale-greaves)
 [Red Spiked Helmet](red-spiked-helmet)
 [Sheet of Obsidian](sheet-of-obsidian)
 [Statue Head Mace](statue-head-mace)
