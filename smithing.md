@@ -242,6 +242,7 @@
 [Kraitoz Ingot](kraitoz-ingot)
 [Mercury](mercury)
 [Red Spiked Helmet](red-spiked-helmet)
+[Sheet of Obsidian](sheet-of-obsidian)
 [Statue Head Mace](statue-head-mace)
 [Steamwork Spider Breastplate](steamwork-spider-breastplate)
 
