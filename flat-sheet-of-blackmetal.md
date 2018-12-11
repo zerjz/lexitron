@@ -9,4 +9,4 @@ Trivial: 55
 [Heavy Smelter](heavy-smelter)
 
 **Ingredients**
-[Blackmetal-ingot](blackmetal-ingot)
+[Blackmetal-ingot](blackmetal-ingot) x 8
