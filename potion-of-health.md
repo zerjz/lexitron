@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A vial of robust liquid that has invigorating qualities. -->
 # Tradeskill 
 **Skill**
-Minimum: 
+Minimum: 0
 Trivial: 35
 
 
