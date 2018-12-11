@@ -6,6 +6,7 @@
 [Ball of Slime](ball-of-slime)
 [Black Ink](black-ink)
 [Blooded Algae](blooded-algae)
+[Blooded Eldritch Stone](blooded-eldritch-stone)
 [Blue Ink](blue-ink)
 [Bone Meal](bone-meal)
 [Bottle of Golden Honey](bottle-of-golden-honey)
