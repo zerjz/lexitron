@@ -33,6 +33,7 @@
 [Copper Disc](copper-disc)
 [Copper Double Blade](copper-double-blade)
 [Copper Double Bladed Sword](copper-double-bladed-sword)
+[Copper Hilt](copper-hilt)
 [Copper Katana](copper-katana)
 [Copper Lance](copper-lance)
 [Copper Lance Tip](copper-lance-tip)
