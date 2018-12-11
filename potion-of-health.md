@@ -10,6 +10,6 @@ Trivial: 35
 [Foldable Medicine Bag](foldable-medicine-bag)
 
 **Ingredients**
-[Fresh Lavende](fresh-lavender)
+[Fresh Lavender](fresh-lavender)
 [Menthol](menthol)
 [Bottle of Filtered Water](bottle-of-filtered-water)
