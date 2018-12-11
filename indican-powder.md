@@ -10,4 +10,4 @@ Trivial: 35
 
 **Ingredients**
 [Indigo Leaf](indigo-leaf) x 1
-[Water Bottle](water-bottle) x 1
+[Bottle of Water](bottle-of-water) x 1
