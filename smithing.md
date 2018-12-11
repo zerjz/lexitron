@@ -58,6 +58,7 @@
 [Hammered Copper Spaulders](hammered-copper-spaulders)
 [Hammered Copper Vambraces](hammered-copper-vambraces)
 [Imbued Copper Chest](imbued-copper-chest)
+[Thin Copper Scythe](thin-copper-scythe)
 
 **Copper - Icy Copper**
 [Icy Copper Boots](icy-copper-boots)
@@ -147,6 +148,7 @@
 [Silver Throwing Stars](silver-throwing-stars)
 [Silver Vambraces](silver-vambraces)
 [Staff of Pure Mana](staff-of-pure-mana)
+[Thin Silver Scythe](thin-silver-scythe)
 
 **Silver Manastone**
 [Refined Manastone](refined-manastone)
