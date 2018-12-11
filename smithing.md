@@ -229,6 +229,7 @@
 [Sheet of Metal](sheet-of-metal)
 
 **Miscellaneous**
+[Diamond Scythe](diamond-scythe)
 [Diamond Sword](diamond-sword)
 [Drill Bit](drill-bit)
 [Gunpowder](gunpowder)
