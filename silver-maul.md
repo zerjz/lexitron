@@ -1,5 +1,5 @@
 <!-- TITLE: Silver Maul -->
-<!-- SUBTITLE:  -->
+<!-- SUBTITLE: May also be known as Intricate Silver Maul -->
 # Smithing
 **Skill**
 Minimum: Unknown
