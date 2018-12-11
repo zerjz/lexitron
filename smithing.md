@@ -57,7 +57,7 @@
 [Hammered Copper Vambraces](hammered-copper-vambraces)
 
 **Crocolisk Scale**
-[Sheet of Crocolisk Scales](crocolisk-scale-sheet)
+[Sheet of Crocolisk Scales](sheet-of-crocolisk-scales)
 [Crocolisk Scale Boots](crocolisk-scale-boots)
 [Crocolisk Scale Bracer](crocolisk-scale-bracer)
 [Crocolisk Scale Gloves](crocolisk-scale-gloves)
@@ -65,7 +65,17 @@
 [Crocolisk Scale Mail](crocolisk-scale-mail)
 [Crocolisk Scale Sleeves](crocolisk-scale-sleeves)
 
+**Harpy Scale**
+[Sheet of Harpy Scales](sheet-of-harpy-scales)
+[Harpy Scale Armguards](harpy-scale-armguards)
+[Harpy Scale Boots](harpy-scale-boots)
+[Harpy Scale Bracer](harpy-scale-bracer)
+[Harpy Scale Gloves](harpy-scale-gloves)
+[Harpy Scale Leggings](harpy-scale-leggings)
+
 **Glass**
+[Sand](sand)
+[Sheet of Glass](sheet-of-glass)
 [Glass Beads](glass-beads)
 [Glass Belt](glass-belt)
 [Glass Boots](glass-boots)
@@ -78,6 +88,15 @@
 [Glass Orb](glass-orb)
 [Glass Pipe](glass-pipe)
 [Glass Vambraces](glass-vambraces)
+
+**Kupakai**
+[Sheet of Kupakai Scales](sheet-of-kupakai-scales)
+[Kupakai Scale Boots](kupakai-scale-boots)
+[Kupakai Scale Bracer](kupakai-scale-bracer)
+[Kupakai Scale Gloves](kupakai-scale-gloves)
+[Kupakai Scale Leggings](kupakai-scale-leggings)
+[Kupakai Scale Mail](kupakai-scale-mail)
+[Kupakai Scale Sleeves](kupakai-scale-sleeves)
 
 **Silver**
 [Flat Sheet of Silver](flat-sheet-of-silver)
@@ -104,6 +123,38 @@
 [Silver Longbow](silver-longbow)
 [Silver Mace](silver-mace)
 [Silver Mace Head](silver-mace-head)
+
+[Silver Maul](silver-maul)
+[Silver Maul Head](silver-maul-head)
+[Silver Shield](silver-shield)
+[Silver Shield Frame](silver-shield-frame)
+[Silver Spaulders](silver-spaulders)
+[Silver Splint Cloak](silver-splint-cloak)
+[Silver Throwing Stars](silver-throwing-stars)
+[Silver Vambraces](silver-vambraces)
+[Staff of Pure Mana](staff-of-pure-mana)
+
+**Silver Manastone**
+[Silver Manastone Belt](silver-manastone-belt)
+[Silver Manastone Boots](silver-manastone-boots)
+[Silver Manastone Bow](silver-manastone-bow)
+[Silver Manastone Bracer](silver-manastone-bracer)
+[Silver Manastone Breastplate](silver-manastone-breastplate)
+[Silver Manastone Claws](silver-manastone-claws)
+[Silver Manastone Cloak](silver-manastone-cloak)
+[Silver Manastone Doubleblade](silver-manastone-doubleblade)
+[Silver Manastone Gauntlets](silver-manastone-gauntlets)
+[Silver Manastone Greaves](silver-manastone-greaves)
+[Silver Manastone Katana](silver-manastone-katana)
+[Silver Manastone Knife](silver-manastone-knife)
+[Silver Manastone Lance](silver-manastone-lance)
+[Silver Manastone Long Sword](silver-manastone-long-sword)
+[Silver Manastone Mace](silver-manastone-mace)
+[Silver Manastone Maul](silver-manastone-maul)
+[Silver Manastone Scythe](silver-manastone-scythe)
+[Silver Manastone Shield](silver-manastone-shield)
+[Silver Manastone Spaulders](silver-manastone-spaulders)
+[Silver Manastone Vambraces](silver-manastone-vambraces)
 
 **Gold**
 [Gold Bits](gold-bits)
@@ -150,11 +201,7 @@
 
 [Gunpowder](gunpowder)
 
-[Harpy Scale Armguards](harpy-scale-armguards)
-[Harpy Scale Boots](harpy-scale-boots)
-[Harpy Scale Bracer](harpy-scale-bracer)
-[Harpy Scale Gloves](harpy-scale-gloves)
-[Harpy Scale Leggings](harpy-scale-leggings)
+
 [Harpy Scale Mail](harpy-scale-mail)
 [Heating Element](heating-element)
 [Icy Copper Boots](icy-copper-boots)
@@ -167,12 +214,7 @@
 [Jeweled Silver Sextant](jeweled-silver-sextant)
 [Kraitoz Gear](kraitoz-gear)
 [Kraitoz Ingot](kraitoz-ingot)
-[Kupakai Scale Boots](kupakai-scale-boots)
-[Kupakai Scale Bracer](kupakai-scale-bracer)
-[Kupakai Scale Gloves](kupakai-scale-gloves)
-[Kupakai Scale Leggings](kupakai-scale-leggings)
-[Kupakai Scale Mail](kupakai-scale-mail)
-[Kupakai Scale Sleeves](kupakai-scale-sleeves)
+
 [Mercury](mercury)
 [Metal Hoop](metal-hoop)
 [Metal Rod](metal-rod)
@@ -183,42 +225,14 @@
 [Refined Gold](refined-gold)
 [Refined Manastone](refined-manastone)
 [Refined Silver](refined-silver)
-[Sand](sand)
-[Sheet of Crocolisk Scales](sheet-of-crocolisk-scales)
-[Sheet of Glass](sheet-of-glass)
-[Sheet of Harpy Scales](sheet-of-harpy-scales)
-[Sheet of Kupakai Scales](sheet-of-kupakai-scales)
+
+
+
+
+
 [Sheet of Metal](sheet-of-metal)
 
-[Silver Manastone Belt](silver-manastone-belt)
-[Silver Manastone Boots](silver-manastone-boots)
-[Silver Manastone Bow](silver-manastone-bow)
-[Silver Manastone Bracer](silver-manastone-bracer)
-[Silver Manastone Breastplate](silver-manastone-breastplate)
-[Silver Manastone Claws](silver-manastone-claws)
-[Silver Manastone Cloak](silver-manastone-cloak)
-[Silver Manastone Doubleblade](silver-manastone-doubleblade)
-[Silver Manastone Gauntlets](silver-manastone-gauntlets)
-[Silver Manastone Greaves](silver-manastone-greaves)
-[Silver Manastone Katana](silver-manastone-katana)
-[Silver Manastone Knife](silver-manastone-knife)
-[Silver Manastone Lance](silver-manastone-lance)
-[Silver Manastone Long Sword](silver-manastone-long-sword)
-[Silver Manastone Mace](silver-manastone-mace)
-[Silver Manastone Maul](silver-manastone-maul)
-[Silver Manastone Scythe](silver-manastone-scythe)
-[Silver Manastone Shield](silver-manastone-shield)
-[Silver Manastone Spaulders](silver-manastone-spaulders)
-[Silver Manastone Vambraces](silver-manastone-vambraces)
-[Silver Maul](silver-maul)
-[Silver Maul Head](silver-maul-head)
-[Silver Shield](silver-shield)
-[Silver Shield Frame](silver-shield-frame)
-[Silver Spaulders](silver-spaulders)
-[Silver Splint Cloak](silver-splint-cloak)
-[Silver Throwing Stars](silver-throwing-stars)
-[Silver Vambraces](silver-vambraces)
-[Staff of Pure Mana](staff-of-pure-mana)
+
 [Statue Head Mace](statue-head-mace)
 [Steamwork Spider Breastplate](steamwork-spider-breastplate)
 
