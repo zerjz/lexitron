@@ -2,7 +2,7 @@
 <!-- SUBTITLE: The refinement of ores, metals, and glasses -->
 
 # Heavy Smelter
-**miscellaneous**
+
 
 [Basic Black Gold Staff](basic-black-gold-staff)
 [Basic Copper Staff](basic-copper-staff)
@@ -22,16 +22,20 @@
 [Blackmetal Greaves](blackmetal-greaves)
 [Blackmetal Spaulders](blackmetal-spaulders)
 [Blackmetal Vambraces](blackmetal-vambraces)
+[Gleaming Blackmetal Hilt](gleaming-blackmetal-hilt)
+[Gleaming Blackmetal Sword](gleaming-blackmetal-sword)
 
 **Copper**
 [Copper Bits](copper-bits)
+[Refined Copper](refined-copper)
+[Copper Ingot](copper-ingot)
+[Flat Sheet of Copper](flat-sheet-of-copper)
 [Copper Blade](copper-blade)
 [Copper Chest](copper-chest)
 [Copper Claws](copper-claws)
 [Copper Disc](copper-disc)
 [Copper Double Blade](copper-double-blade)
 [Copper Double Bladed Sword](copper-double-bladed-sword)
-[Copper Ingot](copper-ingot)
 [Copper Katana](copper-katana)
 [Copper Lance](copper-lance)
 [Copper Lance Tip](copper-lance-tip)
@@ -55,6 +59,7 @@
 [Hammered Copper Shield](hammered-copper-shield)
 [Hammered Copper Spaulders](hammered-copper-spaulders)
 [Hammered Copper Vambraces](hammered-copper-vambraces)
+[Imbued Copper Chest](imbued-copper-chest)
 
 **Icy Copper**
 [Icy Copper Boots](icy-copper-boots)
@@ -80,6 +85,7 @@
 [Harpy Scale Bracer](harpy-scale-bracer)
 [Harpy Scale Gloves](harpy-scale-gloves)
 [Harpy Scale Leggings](harpy-scale-leggings)
+[Harpy Scale Mail](harpy-scale-mail)
 
 **Glass**
 [Sand](sand)
@@ -99,6 +105,7 @@
 
 **Kupakai**
 [Sheet of Kupakai Scales](sheet-of-kupakai-scales)
+[Dry Kupakai Staff](dry-kupakai-staff)
 [Kupakai Scale Boots](kupakai-scale-boots)
 [Kupakai Scale Bracer](kupakai-scale-bracer)
 [Kupakai Scale Gloves](kupakai-scale-gloves)
@@ -169,9 +176,11 @@
 
 **Gold**
 [Gold Bits](gold-bits)
-[Gold Disc](gold-disc)
-[Gold Double Blade](gold-double-blade)
+[Refined Gold](refined-gold)
 [Gold Ingot](gold-ingot)
+[Gold Disc](gold-disc)
+[Flat Sheet of Gold](flat-sheet-of-gold)
+[Gold Double Blade](gold-double-blade)
 [Gold Throwing Stars](gold-throwing-stars)
 [Golden Belt](golden-belt)
 [Golden Blade](golden-blade)
@@ -192,53 +201,31 @@
 [Golden Spaulders](golden-spaulders)
 [Golden Splint Cloak](golden-splint-cloak)
 [Golden Vambraces](golden-vambraces)
-
-[Diamond Sword](diamond-sword)
-[Drill Bit](drill-bit)
-[Dry Kupakai Staff](dry-kupakai-staff)
 [Exquisite Golden Double Bladed Sword](exquisite-golden-double-bladed-sword)
 [Exquisite Golden Hilt](exquisite-golden-hilt)
 [Exquisite Golden Mace](exquisite-golden-mace)
 [Exquisite Golden Maul](exquisite-golden-maul)
 [Exquisite Golden Sword](exquisite-golden-sword)
 
-[Flat Sheet of Copper](flat-sheet-of-copper)
-[Flat Sheet of Gold](flat-sheet-of-gold)
+**Metal**
 
-
-
-[Gleaming Blackmetal Hilt](gleaming-blackmetal-hilt)
-[Gleaming Blackmetal Sword](gleaming-blackmetal-sword)
-
-[Gunpowder](gunpowder)
-
-
-[Harpy Scale Mail](harpy-scale-mail)
-[Heating Element](heating-element)
-
-[Imbued Copper Chest](imbued-copper-chest)
-[Jeweled Silver Sextant](jeweled-silver-sextant)
-[Kraitoz Gear](kraitoz-gear)
-[Kraitoz Ingot](kraitoz-ingot)
-
-[Mercury](mercury)
 [Metal Hoop](metal-hoop)
 [Metal Rod](metal-rod)
 [Metal Spike](metal-spike)
-
-[Red Spiked Helmet](red-spiked-helmet)
-[Refined Copper](refined-copper)
-[Refined Gold](refined-gold)
-
-
-
-
-
-
-
+[Metal Spike Bundle](metal-spike-bundle)
 [Sheet of Metal](sheet-of-metal)
 
+**Miscellaneous**
 
+[Diamond Sword](diamond-sword)
+[Drill Bit](drill-bit)
+[Gunpowder](gunpowder)
+[Heating Element](heating-element)
+[Jeweled Silver Sextant](jeweled-silver-sextant)
+[Kraitoz Gear](kraitoz-gear)
+[Kraitoz Ingot](kraitoz-ingot)
+[Mercury](mercury)
+[Red Spiked Helmet](red-spiked-helmet)
 [Statue Head Mace](statue-head-mace)
 [Steamwork Spider Breastplate](steamwork-spider-breastplate)
 
