@@ -9,4 +9,4 @@ Trivial: 15
 [Heavy Smelter](heavy-smelter)
 
 **Ingredients**
-[Copper Ingot](copper-ingot) x 6
+[Flat Sheet of Copper](flat-sheet-of-copper) x 6
