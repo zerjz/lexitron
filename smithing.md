@@ -59,7 +59,7 @@
 [Hammered Copper Vambraces](hammered-copper-vambraces)
 [Imbued Copper Chest](imbued-copper-chest)
 
-**Icy Copper**
+**Copper - Icy Copper**
 [Icy Copper Boots](icy-copper-boots)
 [Icy Copper Bracer](icy-copper-bracer)
 [Icy Copper Breastplate](icy-copper-breastplate)
