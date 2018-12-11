@@ -14,6 +14,8 @@
 [Break Gem Amalgamation](break-gem-amalgamation)
 [Carmine Ink](carmine-ink)
 [Cherry Pit](cherry-pit)
+[Chitin Leggings](chitin-leggings)
+[Chitin Wristguard](chitin-wristguard)
 [Cleansing Smudge Stick](cleansing-smudge-stick)
 [Climbing Gear](climbing-gear)
 [Crushed Insect](crushed-insect)
