@@ -29,6 +29,7 @@
 [Huge Metal Shield](huge-metal-shield)
 [Ice Cubes](ice-cubes)
 [Indican Powder](indican-powder)
+[Indigo Dye](indigo-dye)
 [Indigo Ink](indigo-ink)
 [Lavender Seeds](lavender-seeds)
 [Lemon Seeds](lemon-seeds)
