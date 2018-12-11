@@ -20,6 +20,8 @@
 
 **Blackgold**
 [Basic Black Gold Staff](basic-black-gold-staff)
+[Black Gold Bits](black-gold-bits)
+[Black Gold Disc](black-gold-disc)
 
 **Copper**
 [Copper Bits](copper-bits)
