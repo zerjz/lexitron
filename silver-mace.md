@@ -10,4 +10,4 @@ Trivial: 32
 
 **Ingredients**
 [Fine Silver Hilt](fine-silver-hilt) x 1
-[Silver Mace Head)(silver-mace-head) x 1
+[Silver Mace Head](silver-mace-head) x 1
