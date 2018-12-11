@@ -9,6 +9,7 @@
 [Bone Meal](bone-meal)
 [Bottle of Golden Honey](bottle-of-golden-honey)
 [Bottle of Water](bottle-of-water)
+[Break Gem Amalgamation](break-gem-amalgamation)
 [Carmine Ink](carmine-ink)
 [Cherry Pit](cherry-pit)
 [Cleansing Smudge Stick](cleansing-smudge-stick)
