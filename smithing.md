@@ -209,6 +209,16 @@
 [Exquisite Golden Maul](exquisite-golden-maul)
 [Exquisite Golden Sword](exquisite-golden-sword)
 
+**Manastone**
+
+[Refined Manastone](refined-manastone)
+[Manastone Blade](manastone-blade)
+[Manastone Hilt](manastone-hilt)
+[Manastone Katana](manastone-katana)
+[Manastone Shield](manastone-shield)
+[Manastone Shield Frame](manastone-shield-frame)
+[Manastone Slab](manastone-slab)
+
 **Metal**
 
 [Metal Hoop](metal-hoop)
