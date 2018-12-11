@@ -18,6 +18,7 @@
 [Blackmetal Greaves](blackmetal-greaves)
 [Blackmetal Ingot](blackmetal-ingot)
 [Blackmetal Vambraces](blackmetal-vambraces)
+[Flat Sheet of Blackmetal](flat-sheet-of-blackmetal)
 **Copper**
 [Copper Bits](copper-bits)
 [Copper Blade](copper-blade)
