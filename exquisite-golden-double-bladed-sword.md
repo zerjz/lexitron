@@ -9,5 +9,5 @@ Trivial: 80
 [Heavy Smelter](heavy-smelter)
 
 **Ingredients**
-[Diamond Resin](diamond-resin) x 5
+[Gold Double Blade](gold-double-blade) x 1
 [Exquisite Golden Hilt](exquisite-golden-hilt) x 1
