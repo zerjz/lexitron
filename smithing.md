@@ -46,6 +46,15 @@
 [Copper Throwing Stars](copper-throwing-stars)
 [Copper Tubing](copper-tubing)
 [Crude Copper Hilt](crude-copper-hilt)
+[Hammered Copper Belt](hammered-copper-belt)
+[Hammered Copper Boots](hammered-copper-boots)
+[Hammered Copper Bracer](hammered-copper-bracer)
+[Hammered Copper Breastplate](hammered-copper-breastplate)
+[Hammered Copper Gauntlets](hammered-copper-gauntlets)
+[Hammered Copper Greaves](hammered-copper-greaves)
+[Hammered Copper Shield](hammered-copper-shield)
+[Hammered Copper Spaulders](hammered-copper-spaulders)
+[Hammered Copper Vambraces](hammered-copper-vambraces)
 
 **Crocolisk Scale**
 [Sheet of Crocolisk Scales](crocolisk-scale-sheet)
@@ -96,22 +105,7 @@
 [Silver Mace](silver-mace)
 [Silver Mace Head](silver-mace-head)
 
-[Diamond Sword](diamond-sword)
-[Drill Bit](drill-bit)
-[Dry Kupakai Staff](dry-kupakai-staff)
-[Exquisite Golden Double Bladed Sword](exquisite-golden-double-bladed-sword)
-[Exquisite Golden Hilt](exquisite-golden-hilt)
-[Exquisite Golden Mace](exquisite-golden-mace)
-[Exquisite Golden Maul](exquisite-golden-maul)
-[Exquisite Golden Sword](exquisite-golden-sword)
-
-[Flat Sheet of Copper](flat-sheet-of-copper)
-[Flat Sheet of Gold](flat-sheet-of-gold)
-
-
-
-[Gleaming Blackmetal Hilt](gleaming-blackmetal-hilt)
-[Gleaming Blackmetal Sword](gleaming-blackmetal-sword)
+**Gold**
 [Gold Bits](gold-bits)
 [Gold Disc](gold-disc)
 [Gold Double Blade](gold-double-blade)
@@ -136,16 +130,26 @@
 [Golden Spaulders](golden-spaulders)
 [Golden Splint Cloak](golden-splint-cloak)
 [Golden Vambraces](golden-vambraces)
+
+[Diamond Sword](diamond-sword)
+[Drill Bit](drill-bit)
+[Dry Kupakai Staff](dry-kupakai-staff)
+[Exquisite Golden Double Bladed Sword](exquisite-golden-double-bladed-sword)
+[Exquisite Golden Hilt](exquisite-golden-hilt)
+[Exquisite Golden Mace](exquisite-golden-mace)
+[Exquisite Golden Maul](exquisite-golden-maul)
+[Exquisite Golden Sword](exquisite-golden-sword)
+
+[Flat Sheet of Copper](flat-sheet-of-copper)
+[Flat Sheet of Gold](flat-sheet-of-gold)
+
+
+
+[Gleaming Blackmetal Hilt](gleaming-blackmetal-hilt)
+[Gleaming Blackmetal Sword](gleaming-blackmetal-sword)
+
 [Gunpowder](gunpowder)
-[Hammered Copper Belt](hammered-copper-belt)
-[Hammered Copper Boots](hammered-copper-boots)
-[Hammered Copper Bracer](hammered-copper-bracer)
-[Hammered Copper Breastplate](hammered-copper-breastplate)
-[Hammered Copper Gauntlets](hammered-copper-gauntlets)
-[Hammered Copper Greaves](hammered-copper-greaves)
-[Hammered Copper Shield](hammered-copper-shield)
-[Hammered Copper Spaulders](hammered-copper-spaulders)
-[Hammered Copper Vambraces](hammered-copper-vambraces)
+
 [Harpy Scale Armguards](harpy-scale-armguards)
 [Harpy Scale Boots](harpy-scale-boots)
 [Harpy Scale Bracer](harpy-scale-bracer)
