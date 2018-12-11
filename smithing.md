@@ -229,6 +229,9 @@
 [Sheet of Metal](sheet-of-metal)
 
 **Miscellaneous**
+[Diamond Double Bladed Sword](diamond-double-bladed-sword)
+[Diamond Maul](diamond-maul)
+[Diamond Longbow](diamond-longbow)
 [Diamond Scythe](diamond-scythe)
 [Diamond Sword](diamond-sword)
 [Drill Bit](drill-bit)
