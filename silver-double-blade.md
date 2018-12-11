@@ -3,7 +3,7 @@
 # Smithing
 **Skill**
 Minimum: Unknown
-Trivial: 20
+Trivial: 30
 
 **Container**
 [Heavy Smelter](heavy-smelter)
