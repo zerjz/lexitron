@@ -1,5 +1,5 @@
 <!-- TITLE: Bloody Tears Potion -->
-<!-- SUBTITLE: A glass bottle full of fairy tears and blood -->
+<!-- SUBTITLE: A glass bottle full of fairy tears and blood, resses for 20 % -->
 
 # Alchemy
 **Skill**
