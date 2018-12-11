@@ -19,7 +19,6 @@
 [Gleaming Blackmetal Sword](gleaming-blackmetal-sword)
 
 **Blackgold**
-
 [Basic Black Gold Staff](basic-black-gold-staff)
 
 **Copper**
