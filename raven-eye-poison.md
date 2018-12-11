@@ -4,7 +4,7 @@
 # Alchemy
 **Skill**
 Minimum: 0
-Trivial: 10
+Trivial: 10 Bobs
 
 
 **Container**
