@@ -10,4 +10,4 @@ Trivial: 55
 
 **Ingredients**
 [Indican Powder](indican-powder) x 9
-[Water Bottle](water-bottle) x 1
+[Bottle of Water](bottle-of-water) x 1
