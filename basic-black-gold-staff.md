@@ -1,5 +1,5 @@
 <!-- TITLE: Basic Black Gold Staff -->
-<!-- SUBTITLE: A quick summary of Basic Black Gold Staff -->
+<!-- SUBTITLE:  -->
 # Smithing
 **Skill**
 Minimum: Unknown
