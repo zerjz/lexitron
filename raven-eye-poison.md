@@ -11,5 +11,5 @@ Trivial: 10
 [Foldable Medicine Bag](foldable-medicine-bag)
 
 **Ingredients**
-[Vial of Water](vial-of-water)
-[Eye of Raven](eye-of-raven)
+[Vial of Water](vial-of-water) x 1
+[Eye of Raven](eye-of-raven) x 1
