@@ -12,13 +12,13 @@ Trivial: 10
 **Ingredients**
 [Sand Dollar](sand-dollar)
 
-# Crafting
+# Smithing
 **Skill**
 Minimum: 0
 Trivial: 10
 
 **Container**
-[Crafting Supplies](crafting-supplies)
+[Heavy Smelter](heavy-smelter)
 
 **Ingredients**
 [Worthless Rock](worthless-rock) x 8
