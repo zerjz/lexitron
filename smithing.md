@@ -2,13 +2,6 @@
 <!-- SUBTITLE: The refinement of ores, metals, and glasses -->
 
 # Heavy Smelter
-
-
-[Basic Black Gold Staff](basic-black-gold-staff)
-[Basic Copper Staff](basic-copper-staff)
-[Basic Gold Staff](basic-gold-staff)
-[Basic Silver Staff](basic-silver-staff)
-
 **Blackmetal**
 [Blackmetal Bits](blackmetal-bits)
 [Blackmetal Ingot](blackmetal-ingot)
@@ -25,11 +18,16 @@
 [Gleaming Blackmetal Hilt](gleaming-blackmetal-hilt)
 [Gleaming Blackmetal Sword](gleaming-blackmetal-sword)
 
+**Blackgold**
+
+[Basic Black Gold Staff](basic-black-gold-staff)
+
 **Copper**
 [Copper Bits](copper-bits)
 [Refined Copper](refined-copper)
 [Copper Ingot](copper-ingot)
 [Flat Sheet of Copper](flat-sheet-of-copper)
+[Basic Copper Staff](basic-copper-staff)
 [Copper Blade](copper-blade)
 [Copper Chest](copper-chest)
 [Copper Claws](copper-claws)
@@ -117,6 +115,7 @@
 [Refined Silver](refined-silver)
 [Silver Ingot](silver-ingot)
 [Flat Sheet of Silver](flat-sheet-of-silver)
+[Basic Silver Staff](basic-silver-staff)
 [Fine Silver Hilt](fine-silver-hilt)
 [Silver Belt](silver-belt)
 [Silver Bits](silver-bits)
@@ -180,6 +179,7 @@
 [Gold Ingot](gold-ingot)
 [Gold Disc](gold-disc)
 [Flat Sheet of Gold](flat-sheet-of-gold)
+[Basic Gold Staff](basic-gold-staff)
 [Gold Double Blade](gold-double-blade)
 [Gold Throwing Stars](gold-throwing-stars)
 [Golden Belt](golden-belt)
