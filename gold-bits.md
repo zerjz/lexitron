@@ -11,3 +11,17 @@ Trivial: 80
 
 **Ingredients**
 [Silver Ingot](silver-ingot) x3
+
+**Yields: 2**
+# Smithing
+**Skill**
+Minimum: Unknown
+Trivial: 75
+
+**Container**
+[Heavy Smelter](heavy-smelter)
+
+**Ingredients**
+[Gold Ingot](gold-ingot) x 1
+
+**Yields: 5**
