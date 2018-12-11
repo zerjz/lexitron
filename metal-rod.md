@@ -10,4 +10,4 @@ Trivial: 15
 [Heavy Smelter](heavy-smelter)
 
 **Ingredients**
-[Scrap Metal](scrap-metal) x 10
+[Scrap Metal](scrap-metal) x 1
