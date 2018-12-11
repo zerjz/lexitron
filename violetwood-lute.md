@@ -3,7 +3,7 @@
 # Woodworking
 **Skill**
 Minimum: Unknown
-Trivial: 75
+Trivial: 50
 
 **Container**
 [Woodworking Tools](woodworking-tools)
