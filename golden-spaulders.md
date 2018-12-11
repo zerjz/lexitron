@@ -10,6 +10,6 @@ Trivial: 85
 [Heavy Smelter](heavy-smelter)
 
 **Ingredients**
-[Flat Sheet of Gold](flat-sheet-of-gold)
-[Tanned Leather](tanned-leather)
-[Leather Strips](leather-strips)
+[Flat Sheet of Gold](flat-sheet-of-gold) x 1
+[Tanned Leather](tanned-leather) x 1
+[Leather Strips](leather-strips) x 1
