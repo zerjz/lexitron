@@ -76,15 +76,6 @@
 [Crocolisk Scale Mail](crocolisk-scale-mail)
 [Crocolisk Scale Sleeves](crocolisk-scale-sleeves)
 
-**Harpy Scale**
-[Sheet of Harpy Scales](sheet-of-harpy-scales)
-[Harpy Scale Armguards](harpy-scale-armguards)
-[Harpy Scale Boots](harpy-scale-boots)
-[Harpy Scale Bracer](harpy-scale-bracer)
-[Harpy Scale Gloves](harpy-scale-gloves)
-[Harpy Scale Leggings](harpy-scale-leggings)
-[Harpy Scale Mail](harpy-scale-mail)
-
 **Glass**
 [Sand](sand)
 [Sheet of Glass](sheet-of-glass)
@@ -100,6 +91,15 @@
 [Glass Orb](glass-orb)
 [Glass Pipe](glass-pipe)
 [Glass Vambraces](glass-vambraces)
+
+**Harpy Scale**
+[Sheet of Harpy Scales](sheet-of-harpy-scales)
+[Harpy Scale Armguards](harpy-scale-armguards)
+[Harpy Scale Boots](harpy-scale-boots)
+[Harpy Scale Bracer](harpy-scale-bracer)
+[Harpy Scale Gloves](harpy-scale-gloves)
+[Harpy Scale Leggings](harpy-scale-leggings)
+[Harpy Scale Mail](harpy-scale-mail)
 
 **Kupakai**
 [Sheet of Kupakai Scales](sheet-of-kupakai-scales)
