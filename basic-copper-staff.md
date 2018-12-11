@@ -9,4 +9,4 @@ Trivial: Unknown
 [Heavy Smelter](heavy-smelter)
 
 **Ingredients**
-[Copper Ingot](copper-ingot)x6
+[Copper Ingot](copper-ingot) x 6
