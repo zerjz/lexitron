@@ -56,6 +56,14 @@
 [Hammered Copper Spaulders](hammered-copper-spaulders)
 [Hammered Copper Vambraces](hammered-copper-vambraces)
 
+**Icy Copper**
+[Icy Copper Boots](icy-copper-boots)
+[Icy Copper Bracer](icy-copper-bracer)
+[Icy Copper Breastplate](icy-copper-breastplate)
+[Icy Copper Gauntlets](icy-copper-gauntlets)
+[Icy Copper Greaves](icy-copper-greaves)
+[Icy Copper Vambraces](icy-copper-vambraces)
+
 **Crocolisk Scale**
 [Sheet of Crocolisk Scales](sheet-of-crocolisk-scales)
 [Crocolisk Scale Boots](crocolisk-scale-boots)
@@ -99,6 +107,8 @@
 [Kupakai Scale Sleeves](kupakai-scale-sleeves)
 
 **Silver**
+[Refined Silver](refined-silver)
+[Silver Ingot](silver-ingot)
 [Flat Sheet of Silver](flat-sheet-of-silver)
 [Fine Silver Hilt](fine-silver-hilt)
 [Silver Belt](silver-belt)
@@ -114,7 +124,6 @@
 [Silver Double Bladed Sword](silver-double-bladed-sword)
 [Silver Gauntlets](silver-gauntlets)
 [Silver Greaves](silver-greaves)
-[Silver Ingot](silver-ingot)
 [Silver Katana](silver-katana)
 [Silver Knife](silver-knife)
 [Silver Lance](silver-lance)
@@ -123,7 +132,6 @@
 [Silver Longbow](silver-longbow)
 [Silver Mace](silver-mace)
 [Silver Mace Head](silver-mace-head)
-
 [Silver Maul](silver-maul)
 [Silver Maul Head](silver-maul-head)
 [Silver Shield](silver-shield)
@@ -135,6 +143,8 @@
 [Staff of Pure Mana](staff-of-pure-mana)
 
 **Silver Manastone**
+[Refined Manastone](refined-manastone)
+[Pure Mana](pure-mana)
 [Silver Manastone Belt](silver-manastone-belt)
 [Silver Manastone Boots](silver-manastone-boots)
 [Silver Manastone Bow](silver-manastone-bow)
@@ -155,6 +165,7 @@
 [Silver Manastone Shield](silver-manastone-shield)
 [Silver Manastone Spaulders](silver-manastone-spaulders)
 [Silver Manastone Vambraces](silver-manastone-vambraces)
+[Staff of Pure Mana](staff-of-pure-mana)
 
 **Gold**
 [Gold Bits](gold-bits)
@@ -204,12 +215,7 @@
 
 [Harpy Scale Mail](harpy-scale-mail)
 [Heating Element](heating-element)
-[Icy Copper Boots](icy-copper-boots)
-[Icy Copper Bracer](icy-copper-bracer)
-[Icy Copper Breastplate](icy-copper-breastplate)
-[Icy Copper Gauntlets](icy-copper-gauntlets)
-[Icy Copper Greaves](icy-copper-greaves)
-[Icy Copper Vambraces](icy-copper-vambraces)
+
 [Imbued Copper Chest](imbued-copper-chest)
 [Jeweled Silver Sextant](jeweled-silver-sextant)
 [Kraitoz Gear](kraitoz-gear)
@@ -219,12 +225,12 @@
 [Metal Hoop](metal-hoop)
 [Metal Rod](metal-rod)
 [Metal Spike](metal-spike)
-[Pure Mana](pure-mana)
+
 [Red Spiked Helmet](red-spiked-helmet)
 [Refined Copper](refined-copper)
 [Refined Gold](refined-gold)
-[Refined Manastone](refined-manastone)
-[Refined Silver](refined-silver)
+
+
 
 
 
