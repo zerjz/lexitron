@@ -8,17 +8,19 @@
 [Basic Gold Staff](basic-gold-staff)
 [Basic Silver Staff](basic-silver-staff)
 **Blackmetal**
-[Blackmetal Belt](blackmetal-belt)
 [Blackmetal Bits](blackmetal-bits)
+[Blackmetal Ingot](blackmetal-ingot)
+[Flat Sheet of Blackmetal](flat-sheet-of-blackmetal)
+[Blackmetal Belt](blackmetal-belt)
 [Blackmetal Blade](blackmetal-blade)
 [Blackmetal Boots](blackmetal-boots)
 [Blackmetal Bracer](blackmetal-bracer)
 [Blackmetal Breastplate](blackmetal-breastplate)
 [Blackmetal Gauntlets](blackmetal-gauntlets)
 [Blackmetal Greaves](blackmetal-greaves)
-[Blackmetal Ingot](blackmetal-ingot)
+[Blackmetal Spaulders](blackmetal-spaulders)
 [Blackmetal Vambraces](blackmetal-vambraces)
-[Flat Sheet of Blackmetal](flat-sheet-of-blackmetal)
+
 **Copper**
 [Copper Bits](copper-bits)
 [Copper Blade](copper-blade)
