@@ -4,13 +4,13 @@
 
 # Cooking
 **Skill**
-Minimum: 
+Minimum: Unknown
 Trivial: 25
 
 **Container**
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Roots](roots)
-[Sugar](sugar)
-[Bottle of Sparkling Water](bottle-of-sparkling-water)
+[Roots](roots) x 1
+[Sugar](sugar) x 1
+[Bottle of Sparkling Water](bottle-of-sparkling-water) x 1
