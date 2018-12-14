@@ -10,5 +10,5 @@ Trivial: 10
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Tea Leaves](tea-leaves)
-[Bottle of Water](bottle-of-water)
+[Tea Leaves](tea-leaves) x 1
+[Bottle of Water](bottle-of-water) x 1
