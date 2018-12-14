@@ -10,4 +10,4 @@ Trivial: 1
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Torn Cloth Strips](torn-cloth-strips)
+[Torn Cloth Strips](torn-cloth-strips) x 1
