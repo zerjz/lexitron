@@ -11,4 +11,4 @@ Trivial: 35
 
 **Ingredients**
 [Striped Raptor Skin](striped-raptor-skin) x 4
-[Leather Strips](leather-strips)
+[Leather Strips](leather-strips) x 1
