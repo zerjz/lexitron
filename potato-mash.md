@@ -10,4 +10,4 @@ Trivial: 10
 [Crafting Supplies](crafting-supplies)
 
 **Ingredients**
-[Potato](potato)
+[Potato](potato) x 1
