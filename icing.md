@@ -10,5 +10,5 @@ Trivial: 10
 [Spit](spit)
 
 **Ingredients**
-[Vial of Water](vial-of-water)
-[Sugar](sugar)
+[Vial of Water](vial-of-water) x 1
+[Sugar](sugar) x 1
