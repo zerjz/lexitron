@@ -10,6 +10,6 @@ Trivial: 15
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Bottle of Water](bottle-of-water)
+[Bottle of Water](bottle-of-water) x 1
 [Lemon](lemon) x 3
-[Sugar](sugar)
+[Sugar](sugar) x 1
