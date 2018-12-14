@@ -10,5 +10,5 @@ Trivial: 25
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Bottle of Water](bottle-of-water)
-[Azuki Beans](azuki-beans)
+[Bottle of Water](bottle-of-water) x 1
+[Azuki Beans](azuki-beans) x 1
