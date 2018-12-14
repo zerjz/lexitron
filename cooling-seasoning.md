@@ -10,4 +10,4 @@ Trivial: 5
 [Spit](spit)
 
 **Ingredients**
-[Rimeweed](rimeweed)
+[Rimeweed](rimeweed) x 1
