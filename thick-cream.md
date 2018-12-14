@@ -10,4 +10,4 @@ Trivial: 15
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Bottle of Milk](bottle-of-milk)
+[Bottle of Milk](bottle-of-milk) x 1
