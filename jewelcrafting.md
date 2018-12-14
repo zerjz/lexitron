@@ -43,6 +43,7 @@
 [Glass Beaded Necklace](glass-beaded-necklace)
 [Gold Chain](gold-chain)
 [Gold Diamond Earring](gold-diamond-earring)
+[Gold Diamond Necklace](gold-diamond-necklace)
 [Gold Diamond Pendant](gold-diamond-pendant)
 [Gold Diamond Ring](gold-diamond-ring)
 [Gold Diamond Staff](gold-diamond-staff)
