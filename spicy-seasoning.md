@@ -10,4 +10,4 @@ Trivial: 5
 [Spit](spit)
 
 **Ingredients**
-[Emberthistle](emberthistle)
+[Emberthistle](emberthistle) x 1
