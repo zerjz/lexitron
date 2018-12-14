@@ -10,4 +10,4 @@ Trivial: 10
 [Crafting Supplies](crafting-supplies)
 
 **Ingredients**
-[Soft Grass](soft-grass)
+[Soft Grass](soft-grass) x 1
