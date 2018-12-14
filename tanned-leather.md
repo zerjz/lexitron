@@ -11,5 +11,5 @@ Trivial: 22
 
 **Ingredients**
 [Dry Bark](dry-bark) x 3
-[Bottle of Water](bottle-of-water)
-[Leather](leather)
+[Bottle of Water](bottle-of-water) x 1
+[Leather](leather) x 1
