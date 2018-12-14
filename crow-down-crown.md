@@ -11,5 +11,5 @@ Trivial: 50
 ​
 **Ingredients**
 [Crow Down](crow-down) x 3
-[Feathers](feathers)
-[Silver Thread](silver-thread)
+[Feathers](feathers) x 1
+[Silver Thread](silver-thread) x 1
