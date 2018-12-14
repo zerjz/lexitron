@@ -10,4 +10,4 @@ Trivial: 20
 [Crafting Supplies](crafting-supplies)
 
 **Ingredients**
-[Block of Ice](block-of-ice)
+[Block of Ice](block-of-ice) x 1
