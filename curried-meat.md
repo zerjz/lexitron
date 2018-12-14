@@ -10,6 +10,6 @@ Trivial: 25
 [Spit](spit)
 
 **Ingredients**
-[White Meat](white-meat)
-[Spicy Seasoning](spicy-seasoning)
-[Butter](butter)
+[White Meat](white-meat) x 1
+[Spicy Seasoning](spicy-seasoning) x 1
+[Butter](butter) x 1
