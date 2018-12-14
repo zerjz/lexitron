@@ -10,5 +10,5 @@ Trivial: 20
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Bottle of Water](bottle-of-water)
-[Ground Coffee](ground-coffee)
+[Bottle of Water](bottle-of-water) (20)
+[Ground Coffee](ground-coffee) (20)
