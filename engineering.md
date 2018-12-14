@@ -9,6 +9,8 @@
 [Celestial Shuriken](celestial-shuriken) (??)
 [Compass](compass) (??)
 [Copper Bullets](copper-bullet) (20)
+[Copper Tube](copper-tube) (20)
+[Copper Wire](copper-wire) (20)
 [Curved Metal Rod](curved-metal-rod) (10)
 [Diamond Drill Bit](diamond-drill-bit) (??)
 [Exploding Wooden Barrel](exploding-wooden-barrel) (??)
