@@ -10,6 +10,6 @@ Trivial: 45
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Scrap of Manasilk](scrap-of-manasilk)
-[Silver Thread](silver-thread)
-[Ripped Robe of Mana](ripped-robe-of-mana)
+[Scrap of Manasilk](scrap-of-manasilk) x 1
+[Silver Thread](silver-thread) x 1
+[Ripped Robe of Mana](ripped-robe-of-mana) x 1
