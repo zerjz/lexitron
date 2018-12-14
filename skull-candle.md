@@ -10,5 +10,5 @@ Trivial: 10
 [Crafting Supplies](crafting-supplies)
 
 **Ingredients**
-[Hard Skull](hard-skull)
-[Black Candle](black-candle)
+[Hard Skull](hard-skull) x 1
+[Black Candle](black-candle) x 1
