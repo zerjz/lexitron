@@ -10,5 +10,5 @@ Trivial: 10
 [Crafting Supplies](crafting-supplies)
 
 **Ingredients**
-[Vial of Water](vial-of-water)
+[Vial of Water](vial-of-water) x 1
 [Bone Meal](bone-meal) x 2
