@@ -9,5 +9,5 @@ Trivial: 60
 [Advanced Crafting Supplies](advanced-crafting-supplies)
 
 # Ingredients:
-[Banana](banana)
-[Black Fur](black-fur)
+[Banana](banana) x 1
+[Black Fur](black-fur) x 9
