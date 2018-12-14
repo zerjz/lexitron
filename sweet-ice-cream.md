@@ -10,6 +10,6 @@ Trivial: 30
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Thick Cream](thick-cream)
-[Sugar](sugar)
-[Block of Ice](block-of-ice)
+[Thick Cream](thick-cream) x 1
+[Sugar](sugar) x 1
+[Block of Ice](block-of-ice) x 1
