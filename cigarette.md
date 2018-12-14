@@ -12,5 +12,5 @@ Trivial: 25
 [Advanced Crafting Supplies](advanced-crafting-supplies)
 
 # Ingredients:
-[Paper](paper)
-[Dried Tobacco](dried-tobacco)
+[Paper](paper) x 1
+[Dried Tobacco](dried-tobacco) x 1
