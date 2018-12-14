@@ -18,6 +18,7 @@
 [Golden Bullets](golden-bullet) (??)
 [Golden Tube](golden-tube) (15)
 [Heavy Spike Trap](heavy-spike-trap) (??)
+[Improvised Flashbang](improvised-flashbang) (20)
 [Large Incendiary Grenade](large-incendiary-grenade) (??)
 [Little Sprocket](little-sprocket) (5)
 [Mechanical Fishing Pole](mechanical-fishing-pole) (??)
