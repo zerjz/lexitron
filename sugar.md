@@ -10,7 +10,7 @@ Trivial: 10
 [Crafting Supplies](crafting-supplies)
 
 **Ingredients**
-[Cane Stalk](cane-stalk)
+[Cane Stalk](cane-stalk) x 1
 
 # Cooking
 **Skill**
@@ -21,4 +21,4 @@ Trivial: 10
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Cane Stalk](cane-stalk)
+[Cane Stalk](cane-stalk) x 1
