@@ -10,5 +10,5 @@ Trivial: 30
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Simple White Cake](simple-white-cake)
-[Sugared Flowers](sugared-flowers)
+[Simple White Cake](simple-white-cake) x 1
+[Sugared Flowers](sugared-flowers) x 1
