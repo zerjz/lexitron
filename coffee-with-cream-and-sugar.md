@@ -10,9 +10,9 @@ Trivial: 30
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Black Coffee](black-coffee)
-[Thick Cream](thick-cream)
-[Sugar](sugar)
+[Black Coffee](black-coffee) x 1
+[Thick Cream](thick-cream) x 1
+[Sugar](sugar) x 1
 
 # Brewing
 **Skill**
@@ -23,5 +23,5 @@ Trivial: 30
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Coffee with Cream](coffee-with-cream)
-[Sugar](sugar)
+[Coffee with Cream](coffee-with-cream) x 1
+[Sugar](sugar) x 1
