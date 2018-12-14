@@ -10,5 +10,5 @@ Trivial: 5
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Vial of Water](vial-of-water)
-[Softly Glowing Grass](softly-glowing-grass)
+[Vial of Water](vial-of-water) x 1
+[Softly Glowing Grass](softly-glowing-grass) x 1
