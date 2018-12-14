@@ -11,5 +11,5 @@ Trivial: 15
 [Large Sewing Kit](large-sewing-kit)
 ​
 **Ingredients**
-[Dirty Leather Boots](dirty-leather-boots)
-[Frozen Chromium](frozen-chromium)
+[Dirty Leather Boots](dirty-leather-boots) x 1
+[Frozen Chromium](frozen-chromium) x 1
