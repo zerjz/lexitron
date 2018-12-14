@@ -10,5 +10,5 @@ Trivial: 85
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Velvet Square](velvet-square)
-[Indigo Dye](indigo-dye)
+[Velvet Square](velvet-square) x 1
+[Indigo Dye](indigo-dye) x 1
