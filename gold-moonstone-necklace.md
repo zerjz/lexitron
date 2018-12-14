@@ -9,7 +9,7 @@ Trivial: 50
 [Jeweler's Kit](jewelers-kit)
 
 **Ingredients**
-[Enchanted Jade](enchanted-jade) x 3
+[Enchanted Moonstone](enchanted-moonstone) x 3
 [Gold Chain](gold-chain) x 1
 ```perl
  
