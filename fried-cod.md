@@ -10,5 +10,5 @@ Trivial: 35
 [Spit](spit)
 
 **Ingredients**
-[Saltwater Cod](saltwater-cod)
-[Oil](oil)
+[Saltwater Cod](saltwater-cod) x 1
+[Oil](oil) x 1
