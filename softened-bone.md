@@ -10,4 +10,4 @@ Trivial: 3
 [Spit](spit)
 
 **Ingredients**
-[Bone](bone)
+[Bone](bone) x 1
