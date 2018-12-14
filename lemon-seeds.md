@@ -10,4 +10,4 @@ Trivial: 10
 [Crafting Supplies](crafting-supplies)
 
 **Ingredients**
-[Lemon](lemon)
+[Lemon](lemon) x 1
