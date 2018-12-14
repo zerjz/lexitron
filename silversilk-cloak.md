@@ -10,5 +10,5 @@ Trivial: 80
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Sheet of Silversilk](sheet-of-silversilk)
+[Sheet of Silversilk](sheet-of-silversilk) x 1
 [Silver Thread](silver-thread) x 5
