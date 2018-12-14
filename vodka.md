@@ -3,14 +3,14 @@
 
 # Brewing
 **Skill**
-Minimum: 
+Minimum: Unknown
 Trivial: 25
 
 **Container**
 [Collapsible Distillery](collapsible-distillery)
 
 **Ingredients**
-[Potato Mash](potato-mash)
-[Bottle of Water](bottle-of-water)
-[Malted Barley](malted-barley)
-[Yeast](yeast)
+[Potato Mash](potato-mash) x 1
+[Bottle of Water](bottle-of-water) x 1
+[Malted Barley](malted-barley) x 1
+[Yeast](yeast) x 1
