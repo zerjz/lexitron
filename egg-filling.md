@@ -10,6 +10,6 @@ Trivial: 26
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Egg Yolk](egg-yolk)
-[Oil](oil)
-[Spicy Seasoning](spicy-seasoning)
+[Egg Yolk](egg-yolk) x 1
+[Oil](oil) x 1
+[Spicy Seasoning](spicy-seasoning) x 1
