@@ -10,5 +10,5 @@ Trivial: 30
 [Spit](spit)
 
 **Ingredients**
-[Hard Boiled Egg](hard-boiled-egg)
-[Egg Filling](egg-filling)
+[Hard Boiled Egg](hard-boiled-egg) x 1
+[Egg Filling](egg-filling) x 1
