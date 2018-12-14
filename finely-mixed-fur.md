@@ -10,6 +10,6 @@ Trivial: 60
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Black Fur](black-fur)
-[White Fur](white-fur)
-[Exotic Fur](exotic-fur)
+[Black Fur](black-fur) x 1
+[White Fur](white-fur) x 1
+[Exotic Fur](exotic-fur) x 1
