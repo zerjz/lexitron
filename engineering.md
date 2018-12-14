@@ -6,7 +6,7 @@
 [Belt Buckle](belt-buckle) (15)
 [Blackmetal Gunblade](blackmetal-gunblade) (??)
 [Blackmetal Tube](blackmetal-tube) (15)
-[Celestial Shuriken](celestial-shuriken)
+[Celestial Shuriken](celestial-shuriken) (??)
 [Compass](compass) (??)
 [Copper Bullets](copper-bullet) (20)
 [Curved Metal Rod](curved-metal-rod) (10)
