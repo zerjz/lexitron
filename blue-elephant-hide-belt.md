@@ -10,5 +10,5 @@ Trivial: 60
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Belt Buckle](belt-buckle)
-[Blue Elephant Hide](blue-elephant-hide)
+[Belt Buckle](belt-buckle) x 1
+[Blue Elephant Hide](blue-elephant-hide) x 1
