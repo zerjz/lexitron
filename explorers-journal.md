@@ -9,5 +9,5 @@ Trivial: 60
 [Advanced Crafting Supplies](advanced-crafting-supplies)
 
 # Ingredients:
-[Leather Strips](leather-strips)
+[Leather Strips](leather-strips) x 1
 [Tanned Leather](tanned-leather) x 2
