@@ -10,4 +10,4 @@ Trivial: 15
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Whipped Cream](whipped-cream)
+[Whipped Cream](whipped-cream) x 1
