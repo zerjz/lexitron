@@ -11,4 +11,4 @@ Trivial: 25
 
 **Ingredients**
 [White Fur](white-fur) x 4
-[Leather Strips](leather-strips)
+[Leather Strips](leather-strips) x 1
