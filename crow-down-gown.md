@@ -11,4 +11,4 @@ Trivial: 50
 ​
 **Ingredients**
 [Crow Down](crow-down) x 7
-[Silver Thread](silver-thread)
+[Silver Thread](silver-thread) x 1
