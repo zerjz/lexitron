@@ -11,4 +11,4 @@ Trivial: 40
 **Ingredients**
 [Silver Tube](silver-tube) x 1
 [Lens](lens) x 2
-[Silver Gear](silver-gear) x 2
+[Silver Gear](silver-gear) x 1
