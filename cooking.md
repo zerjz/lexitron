@@ -4,8 +4,8 @@
 # Mixing Bowl
 [Mayonnaise](mayonnaise) (22)
 [Sugar](sugar) (10)
-[Sugared Flowers](sugared-flowers) (??)
-[White Wedding Cake](white-wedding-cake) (??)
+[Sugared Flowers](sugared-flowers) (20)
+[White Wedding Cake](white-wedding-cake) (30)
 [Wildflower Salad](wildflower-salad) (??)
 [Egg Filling](egg-filling) (??)
 # Spit
