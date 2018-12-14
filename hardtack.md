@@ -9,5 +9,5 @@ Trivial: 10
 [Spit](spit)
 
 **Ingredients**
-[Vial of Water](vial-of-water)
-[Flour](flour)
+[Vial of Water](vial-of-water) x 1
+[Flour](flour) x 1
