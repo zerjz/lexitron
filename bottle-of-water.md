@@ -13,7 +13,7 @@ Trivial: 5
 [Crafting Supplies](crafting-supplies)
 
 **Ingredients**
-[Glass Bottle](glass-bottle)
+[Glass Bottle](glass-bottle) x 1
 [Vial of Water](vial-of-water) x 5
 
 # Brewing
@@ -25,5 +25,5 @@ Trivial: 5
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Glass Bottle](glass-bottle)
+[Glass Bottle](glass-bottle) x 1
 [Vial of Water](vial-of-water) x 5
