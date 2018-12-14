@@ -10,4 +10,4 @@ Trivial: 10
 [Crafting Supplies](crafting-supplies)
 
 **Ingredients**
-[Rimeweed](rimeweed)
+[Rimeweed](rimeweed) x 1
