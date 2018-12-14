@@ -11,5 +11,5 @@ Trivial: 10
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Frozen Chromium](frozen-chromium)
-[Thin Silk Sleeves](thin-silk-sleeves)
+[Frozen Chromium](frozen-chromium) x 1
+[Thin Silk Sleeves](thin-silk-sleeves) x 1
