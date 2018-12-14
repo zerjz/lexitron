@@ -67,6 +67,7 @@
 [Wooden Drum](wooden-drum) (??)
 [Wooden Fishing Pole](wooden-fishing-pole) (??)
 [Wooden Flute](wooden-flute) (??)
+[Wooden Lute](wooden-lute)
 [Wooden Pipe](wooden-pipe) (??)
 [Wooden Training Sword](wooden-training-sword) (??)
 [Wooden Ward](wooden-ward) (??)
