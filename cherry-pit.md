@@ -14,4 +14,4 @@ Trivial: 10
 [Crafting Supplies](crafting-supplies)
 
 **Ingredients**
-[Blue Cherries](blue-cherries)
+[Blue Cherries](blue-cherries) x 1
