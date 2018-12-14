@@ -11,4 +11,4 @@ Trivial: 27
 
 **Ingredients**
 [Striped Raptor Skin](striped-raptor-skin) x 2
-[Belt Buckle](belt-buckle)
+[Belt Buckle](belt-buckle) x 1
