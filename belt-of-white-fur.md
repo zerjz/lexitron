@@ -10,6 +10,6 @@ Trivial: 25
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Belt Buckle](belt-buckle)
-[Leather](leather)
-[White Fur](white-fur)
+[Belt Buckle](belt-buckle) x 1
+[Leather](leather) x 1
+[White Fur](white-fur) x 1
