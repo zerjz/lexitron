@@ -10,5 +10,5 @@ Trivial: 8
 [Spit](spit)
 
 **Ingredients**
-[Nectarnut Seeds](nectarnut-seeds)
-[Spicy Seasoning](spicy-seasoning)
+[Nectarnut Seeds](nectarnut-seeds) x 1
+[Spicy Seasoning](spicy-seasoning) x 1
