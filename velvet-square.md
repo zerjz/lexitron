@@ -11,4 +11,4 @@ Trivial: 80
 
 **Ingredients**
 [Finest Silk Square](finest-silk-square) x 4
-[Golden Needle](golden-needle)
+[Golden Needle](golden-needle) x 1
