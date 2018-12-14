@@ -11,4 +11,4 @@ Trivial: 10
 
 **Ingredients**
 [Silk Square](silk-square) x 2
-[Belt Buckle](belt-buckle)
+[Belt Buckle](belt-buckle) x 1
