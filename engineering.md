@@ -5,7 +5,7 @@
 
 [Belt Buckle](belt-buckle) (15)
 [Black Gold Gear](black-gold-gear) (50)
-[Blackmetal Gunblade](blackmetal-gunblade) (??)
+[Blackmetal Gunblade](blackmetal-gunblade) (80)
 [Blackmetal Tube](blackmetal-tube) (15)
 [Celestial Shuriken](celestial-shuriken) (??)
 [Compass](compass) (50)
@@ -40,6 +40,7 @@
 [Mini Mech Arms](mini-mech-arms) (35)
 [Mini Mech Head](mini-mech-head) (35)
 [Mini Mech Legs](mini-mech-legs) (35)
+[Mini Mech Soldier](mini-mech-soldier) (75)
 [Mini Mech Torso](mini-mech-torso) (35)
 [Microscope](microscope) (??)
 [Overclock Kit: Recharge](overclock-kit-recharge) (25)
