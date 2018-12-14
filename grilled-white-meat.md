@@ -10,4 +10,4 @@ Trivial: 20
 [Spit](spit)
 
 **Ingredients**
-[White Meat](white-meat)
+[White Meat](white-meat) x 1
