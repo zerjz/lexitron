@@ -10,5 +10,5 @@ Trivial: 5
 [Crafting Supplies](crafting-supplies)
 
 **Ingredients**
-[Stick](stick)
-[Lump of Coal](lump-of-coal)
+[Stick](stick) x 1
+[Lump of Coal](lump-of-coal) x 1
