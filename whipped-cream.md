@@ -10,4 +10,4 @@ Trivial: 15
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Thick Cream](thick-cream)
+[Thick Cream](thick-cream) x 1
