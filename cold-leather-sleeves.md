@@ -11,5 +11,5 @@ Trivial: 15
 [Large Sewing Kit](large-sewing-kit)
 ​
 **Ingredients**
-[Dirty Leather Sleeves](dirty-leather-sleeves)
-[Frozen Chromium](frozen-chromium)
+[Dirty Leather Sleeves](dirty-leather-sleeves) x 1
+[Frozen Chromium](frozen-chromium) x 1
