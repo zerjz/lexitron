@@ -1,4 +1,16 @@
 <!-- TITLE: Gold Moonstone Earring -->
+<!-- SUBTITLE:  -->
+# Jewelcrafting
+**Skill**
+Minimum: Unknown
+Trivial: 50
+
+**Container**
+[Jeweler's Kit](jewelers-kit)
+
+**Ingredients**
+[Enchanted Moonstone](enchanted-moonstone) x 1
+[Gold Bits](gold-bits) x 1
 ```perl
  
 Slot(s): Ear 
