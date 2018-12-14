@@ -10,8 +10,8 @@ Trivial: 25
 [Spit](spit)
 
 **Ingredients**
-[White Meat](white-meat)
-[Oil](oil)
+[White Meat](white-meat) x 1
+[Oil](oil) x 1
 
 # Cooking
 **Skill**
@@ -22,5 +22,5 @@ Trivial: 25
 [Spit](spit)
 
 **Ingredients**
-[Grilled White Meat](grilled-white-meat)
-[Oil](oil)
+[Grilled White Meat](grilled-white-meat) x 1
+[Oil](oil) x 1
