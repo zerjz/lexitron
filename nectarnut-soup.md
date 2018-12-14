@@ -11,4 +11,4 @@ Trivial: 10
 
 **Ingredients**
 [Vial of Water](vial-of-water) x 2
-[Nectarnut](nectarnut)
+[Nectarnut](nectarnut) x 1
