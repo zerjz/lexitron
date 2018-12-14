@@ -11,5 +11,5 @@ Trivial: 15
 [Large Sewing Kit](large-sewing-kit)
 ​
 **Ingredients**
-[Dirty Leather Vest](dirty-leather-vest)
-[Frozen Chromium](frozen-chromium)
+[Dirty Leather Vest](dirty-leather-vest) x 1
+[Frozen Chromium](frozen-chromium) x 1
