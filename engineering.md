@@ -41,4 +41,4 @@
 [Steam Core](steam-core) (??)
 [Steamwork Spider](steamwork-spider) (??)
 [Trigger](trigger) (20)
-[Whirring Sprocket](whirring-sprocket) (??)
+[Whirring Sprocket](whirring-sprocket) (8)
