@@ -10,4 +10,4 @@ Trivial: 10
 [Crafting Supplies](crafting-supplies)
 
 **Ingredients**
-[Purple Flower](purple-flower)
+[Purple Flower](purple-flower) x 1
