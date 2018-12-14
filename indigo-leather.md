@@ -10,5 +10,5 @@ Trivial: 40
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Tanned Leather](tanned-leather)
-[Indigo Dye](indigo-dye)
+[Tanned Leather](tanned-leather) x 1
+[Indigo Dye](indigo-dye) x 1
