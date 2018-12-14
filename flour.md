@@ -10,4 +10,4 @@ Trivial: 5
 [Crafting Supplies](crafting-supplies)
 
 **Ingredients**
-[Wheat](insect-pieces)
+[Wheat](wheat) x 1
