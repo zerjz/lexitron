@@ -3,13 +3,13 @@
 
 # Cooking
 **Skill**
-Minimum: 
+Minimum: Unknown
 Trivial: 18
 
 **Container**
 [Spit](spit)
 
 **Ingredients**
-[Small Egg](small-egg)
-[Flour](flour)
-[Vial of Water](vial-of-water)
+[Small Egg](small-egg) x 1
+[Flour](flour) x 1
+[Vial of Water](vial-of-water) x 1
