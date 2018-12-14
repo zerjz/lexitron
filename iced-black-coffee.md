@@ -10,5 +10,5 @@ Trivial: 22
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Black Coffee](black-coffee)
+[Black Coffee](black-coffee) x 1
 [Ice Cube](ice-cube) x 3
