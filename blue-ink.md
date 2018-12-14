@@ -9,5 +9,5 @@ Trivial: 25
 [Crafting Supplies](crafting-supplies)
 
 # Ingredients:
-[Bottle of Water](bottle-of-water)
+[Bottle of Water](bottle-of-water) x 1
 [Blue Flower](blue-flower) x 4
