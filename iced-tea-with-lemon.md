@@ -10,5 +10,5 @@ Trivial: 20
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Iced Tea](iced-tea)
-[Lemon](lemon)
+[Iced Tea](iced-tea) x 1
+[Lemon](lemon) x 1
