@@ -1,8 +1,16 @@
-<!-- TITLE: Spell: Diamond Dust -->
-<!-- SUBTITLE:  -->
+<!-- TITLE: Diamond Dust -->
+<!-- SUBTITLE:  This recipe might be bullcrap-->
+# Jewelcrafting
+**Skill**
+Minimum: Unknown
+Trivial: Unknown
 
-**Level:** 26
+**Container**
+[Jeweler's Kit](jewelers-kit)
 
-**Subclass:** [Jeweler](jeweler)
+**Ingredients**
+[Diamond](diamond) x 4
 
-**Spell Effect:** Surrounds your target in glittering diamond dust, healing 870 hit points every six seconds.  Consumes a handful of diamond dust when cast.
+**OR**
+
+[Enchanted Diamond](enchanted-diamond) x 4
