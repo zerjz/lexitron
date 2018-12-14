@@ -10,4 +10,4 @@ Trivial: 3
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Leather](leather)
+[Leather](leather) x 1
