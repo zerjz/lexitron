@@ -10,5 +10,5 @@ Trivial: 25
 [Spit](spit)
 
 **Ingredients**
-[Purgatory Prawn](purgatory-prawn)
-[Oil](oil)
+[Purgatory Prawn](purgatory-prawn) x 1
+[Oil](oil) x 1
