@@ -2,8 +2,8 @@
 <!-- SUBTITLE: Everybody eats, and someone's gotta make it -->
 
 # Mixing Bowl
-[Mayonnaise](mayonnaise) (??)
-[Sugar](sugar) (??)
+[Mayonnaise](mayonnaise) (22)
+[Sugar](sugar) (10)
 [Sugared Flowers](sugared-flowers) (??)
 [White Wedding Cake](white-wedding-cake) (??)
 [Wildflower Salad](wildflower-salad) (??)
