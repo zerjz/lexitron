@@ -10,5 +10,5 @@ Trivial: 15
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Unsweetened Tea](unsweetened-tea)
-[Sugar](sugar)
+[Unsweetened Tea](unsweetened-tea) x 1
+[Sugar](sugar) x 1
