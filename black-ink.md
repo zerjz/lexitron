@@ -9,5 +9,5 @@ Trivial: 10
 [Crafting Supplies](crafting-supplies)
 
 # Ingredients:
-[Bottle of Water](bottle-of-water)
+[Bottle of Water](bottle-of-water) x 1
 [Lump of Coal](lump-of-coal) x 4
