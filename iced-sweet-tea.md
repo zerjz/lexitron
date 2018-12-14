@@ -10,5 +10,5 @@ Trivial: 15
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Sweet Tea](sweet-tea)
+[Sweet Tea](sweet-tea) x 1
 [Ice Cube](ice-cube) x 3
