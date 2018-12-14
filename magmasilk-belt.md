@@ -10,5 +10,5 @@ Trivial: 75
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Belt Buckle](belt-buckle)
+[Belt Buckle](belt-buckle) x 1
 [Magmasilk Swatch](magmasilk-swatch) x 2
