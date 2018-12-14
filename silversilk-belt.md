@@ -11,4 +11,4 @@ Trivial: 30
 
 **Ingredients**
 [Silversilk Swatch](silversilk-swatch) x 2
-[Belt Buckle](belt-buckle)
+[Belt Buckle](belt-buckle) x 1
