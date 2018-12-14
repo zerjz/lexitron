@@ -26,7 +26,7 @@ Subclass of [Enchanter](enchanter)
 [Spell: Carved Facet](carved-facet)
 
 **Level 26**
-[Spell: Diamond Dust](diamond-dust)
+[Spell: Diamond Dust](spell-diamond-dust)
 
 **Level 27**
 [Spell: Enchant Sapphire](enchant-sapphire)
