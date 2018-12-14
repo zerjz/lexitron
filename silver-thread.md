@@ -10,4 +10,4 @@ Trivial: 30
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Silver Bits](silver-bits)
+[Silver Bits](silver-bits) x 1
