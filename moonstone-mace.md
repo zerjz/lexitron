@@ -9,5 +9,5 @@ Trivial: 35
 [Jeweler's Kit](jewelers-kit)
 
 **Ingredients**
-[Polished Silver Staff](polished-silver-staff) x 1
-[Enchanted Jade](enchanted-jade) x 1
+[Silk Wrapped Handle](silk-wrapped-handle) x 1
+[Enchanted Moonstone](enchanted-moonstone) x 1
