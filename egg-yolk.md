@@ -10,4 +10,4 @@ Trivial: 5
 [Crafting Supplies](crafting-supplies)
 
 **Ingredients**
-[Small Egg](small-egg)
+[Small Egg](small-egg) x 1
