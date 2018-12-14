@@ -10,6 +10,6 @@ Trivial: 20
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Silk Square](silk-square)
-[Softly Glowing Grass](softly-glowing-grass)
+[Silk Square](silk-square) x 1
+[Softly Glowing Grass](softly-glowing-grass) x 1
 [Enchanted Malachite](enchanted-malachite) x 2
