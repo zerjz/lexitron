@@ -11,5 +11,5 @@ Trivial: 10
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Frozen Chromium](frozen-chromium)
-[Thin Silk Shoes](thin-silk-shoes)
+[Frozen Chromium](frozen-chromium) x 1
+[Thin Silk Shoes](thin-silk-shoes) x 1
