@@ -10,8 +10,8 @@ Trivial: 20
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Sugar](sugar)
-[Blue Flower](blue-flower)
+[Sugar](sugar) x 1
+[Blue Flower](blue-flower) x 1
 
 # Cooking
 **Skill**
@@ -22,8 +22,8 @@ Trivial: 20
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Sugar](sugar)
-[Yellow Flower](yellow-flower)
+[Sugar](sugar) x 1
+[Yellow Flower](yellow-flower) x 1
 
 # Cooking
 **Skill**
@@ -34,8 +34,8 @@ Trivial: 20
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Sugar](sugar)
-[Purple Flower](purple-flower)
+[Sugar](sugar) x 1
+[Purple Flower](purple-flower) x 1
 
 # Cooking
 **Skill**
@@ -46,5 +46,5 @@ Trivial: 20
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Sugar](sugar)
-[Rose](rose)
+[Sugar](sugar) x 1
+[Rose](rose) x 1
