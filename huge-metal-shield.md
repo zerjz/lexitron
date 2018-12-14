@@ -10,5 +10,5 @@ Trivial: 5
 [Crafting Supplies](crafting-supplies)
 
 **Ingredients**
-[Huge Metal Hull](huge-metal-hull)
-[Mutated Exoskeleton](mutated-exoskeleton)
+[Huge Metal Hull](huge-metal-hull) x 1
+[Mutated Exoskeleton](mutated-exoskeleton) x 1
