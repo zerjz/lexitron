@@ -11,4 +11,4 @@ Trivial: 25
 
 **Ingredients**
 [Torn Cloth](torn-cloth) x 5
-[Leather](leather)
+[Leather](leather) x 1
