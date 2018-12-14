@@ -3,7 +3,7 @@
 
 # Crafting
 **Skill**
-Minimum: 
+Minimum: Unknown
 Trivial: 10
 
 **Container**
