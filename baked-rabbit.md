@@ -10,4 +10,4 @@ Trivial: 20
 [Spit](spit)
 
 **Ingredients**
-[Rabbit Meat](rabbit-meat)
+[Rabbit Meat](rabbit-meat) x 1
