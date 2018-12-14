@@ -10,4 +10,4 @@ Trivial: 1
 [Crafting Supplies](crafting-supplies)
 
 **Ingredients**
-[Quicksilver](quicksilver)
+[Quicksilver](quicksilver) x 1
