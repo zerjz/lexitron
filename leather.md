@@ -10,4 +10,4 @@ Trivial: 5
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Dirty Flesh](dirty-flesh)
+[Dirty Flesh](dirty-flesh) x 1
