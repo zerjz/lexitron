@@ -12,4 +12,4 @@ Trivial: 26
 **Ingredients**
 [White Fur](white-fur) x 2
 [Leather](leather) x 2
-[Silver Thread](silver-thread)
+[Silver Thread](silver-thread) x 1
