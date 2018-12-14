@@ -10,6 +10,7 @@
 [Amethyst Scythe](amethyst-scythe)
 [Amethyst Wand](amethyst-wand)
 [Animated Golden Rings](animated-golden-rings)
+[Black Gold Chain](black-gold-chain)
 [Black Gold Diamond Staff](black-gold-diamond-staff)
 [Block of Marble](block-of-marble)
 [Bracelet of Blue Flowers](bracelet-of-blue-flowers)
