@@ -1,4 +1,16 @@
 <!-- TITLE: Gold Diamond Earring -->
+<!-- SUBTITLE:  -->
+# Jewelcrafting
+**Skill**
+Minimum: Unknown
+Trivial: 65
+
+**Container**
+[Jeweler's Kit](jewelers-kit)
+
+**Ingredients**
+[Enchanted Diamond](enchanted-diamond) x 1
+[Gold Bits](gold-bits) x 1
 ```perl
  
 Slot(s): Ear 
