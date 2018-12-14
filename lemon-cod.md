@@ -10,5 +10,5 @@ Trivial: 35
 [Spit](spit)
 
 **Ingredients**
-[Saltwater Cod](saltwater-cod)
-[Lemon](lemon) 
+[Saltwater Cod](saltwater-cod) x 1
+[Lemon](lemon) x 1
