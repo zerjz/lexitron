@@ -10,4 +10,4 @@ Trivial: 20
 [Spit](spit)
 
 **Ingredients**
-[Grilled White Meat](grilled-white-meat)
+[Grilled White Meat](grilled-white-meat) x 1
