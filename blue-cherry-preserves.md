@@ -10,5 +10,5 @@ Trivial: 20
 [Spit](spit)
 
 **Ingredients**
-[Sugar](sugar)
+[Sugar](sugar) x 1
 [Blue Cherries](blue-cherries) x 9
