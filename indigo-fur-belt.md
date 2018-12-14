@@ -10,6 +10,6 @@ Trivial: 50
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Belt Buckle](belt-buckle)
+[Belt Buckle](belt-buckle) x 1
 [Indigo Leather](indigo-leather) x 2
 [Finely Mixed Fur](finely-mixed-fur) x 2
