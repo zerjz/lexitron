@@ -10,7 +10,7 @@ Trivial: 10
 [Crafting Supplies](crafting-supplies)
 
 **Ingredients**
-[Coffee Beans](coffee-beans)
+[Coffee Beans](coffee-beans) x 1
 
 # Brewing
 **Skill**
@@ -21,4 +21,4 @@ Trivial: 10
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Coffee Beans](coffee-beans)
+[Coffee Beans](coffee-beans) x 1
