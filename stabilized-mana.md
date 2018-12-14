@@ -9,5 +9,5 @@ Trivial: 25
 [Advanced Crafting Supplies](advanced-crafting-supplies)
 
 # Ingredients:
-[Mana Stabilizer](mana-stabilizer)
-[Pure Mana](pure-mana)
+[Mana Stabilizer](mana-stabilizer) x 1
+[Pure Mana](pure-mana) x 1
