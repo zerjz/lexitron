@@ -11,5 +11,5 @@ Trivial: 18
 
 **Ingredients**
 [Vial of Water](vial-of-water) x 5
-[Sand](sand)
-[Glass Bottle](glass-bottle)
+[Sand](sand) x 1
+[Glass Bottle](glass-bottle) x 1
