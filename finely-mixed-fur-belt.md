@@ -12,7 +12,7 @@ Trivial: 50
 **Ingredients**
 [Finely Mixed Fur](finely-mixed-fur) x 2
 [Tanned Leather](tanned-leather) x 2
-[Belt Buckle](belt-buckle)
+[Belt Buckle](belt-buckle) x 1
 ```perl
  
 Slot(s): Waist
