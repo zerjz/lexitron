@@ -10,5 +10,5 @@ Trivial: 20
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Rose](rose)
-[Vial of Water](vial-of-water)
+[Rose](rose) x 1
+[Vial of Water](vial-of-water) x 1
