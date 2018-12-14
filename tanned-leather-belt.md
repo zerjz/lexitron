@@ -10,5 +10,5 @@ Trivial: 30
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Belt Buckle](belt-buckle)
+[Belt Buckle](belt-buckle) x 1
 [Tanned Leather](tanned-leather) x 2
