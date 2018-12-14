@@ -10,4 +10,4 @@ Trivial: 10
 [Crafting Supplies](crafting-supplies)
 
 **Ingredients**
-[Emberthistle](emberthistle)
+[Emberthistle](emberthistle) x 1
