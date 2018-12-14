@@ -10,4 +10,4 @@ Trivial: 50
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Gold Bits](gold-bits)
+[Gold Bits](gold-bits) x 1
