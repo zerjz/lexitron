@@ -11,5 +11,5 @@ Trivial: 15
 [Large Sewing Kit](large-sewing-kit)
 ​
 **Ingredients**
-[Dirty Leather Gloves](dirty-leather-gloves)
-[Frozen Chromium](frozen-chromium)
+[Dirty Leather Gloves](dirty-leather-gloves) x 1
+[Frozen Chromium](frozen-chromium) x 1
