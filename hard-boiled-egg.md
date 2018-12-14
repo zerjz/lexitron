@@ -10,8 +10,8 @@ Trivial: 17
 [Spit](spit)
 
 **Ingredients**
-[Small Egg](small-egg)
-[Bottle of Water](bottle-of-water)
+[Small Egg](small-egg) x 1
+[Bottle of Water](bottle-of-water) x 1
 
 # Cooking
 **Skill**
@@ -22,5 +22,5 @@ Trivial: 17
 [Spit](spit)
 
 **Ingredients**
-[Large Egg](large-egg)
-[Bottle of Water](bottle-of-water)
+[Large Egg](large-egg) x 1
+[Bottle of Water](bottle-of-water) x 1
