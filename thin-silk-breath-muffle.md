@@ -11,5 +11,5 @@ Trivial: 10
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Silk Square](silk-square)
-[Spider Silk Strings](spider-silk-strings)
+[Silk Square](silk-square) x 1
+[Spider Silk Strings](spider-silk-strings) x 1
