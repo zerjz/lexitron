@@ -10,6 +10,6 @@ Trivial: 25
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Silver Thread](silver-thread)
-[Black Fur](black-fur)
-[White Fur](white-fur)
+[Silver Thread](silver-thread) x 1
+[Black Fur](black-fur) x 1
+[White Fur](white-fur) x 1
