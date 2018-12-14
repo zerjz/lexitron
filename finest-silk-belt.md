@@ -11,4 +11,4 @@ Trivial: 75
 
 **Ingredients**
 [Finest Silk Square](finest-silk-square) x 2
-[Belt Buckle](belt-buckle)
+[Belt Buckle](belt-buckle) x 1
