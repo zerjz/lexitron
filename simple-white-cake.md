@@ -10,11 +10,11 @@ Trivial: 30
 [Spit](spit)
 
 **Ingredients**
-[Small Egg](small-egg)
-[Bottle of Milk](bottle-of-milk)
-[Flour](flour)
-[Sugar](sugar)
-[Icing](icing)
+[Small Egg](small-egg) x 1
+[Bottle of Milk](bottle-of-milk) x 1
+[Flour](flour) x 1
+[Sugar](sugar) x 1
+[Icing](icing) x 1
 
 # Cooking
 **Skill**
@@ -25,8 +25,8 @@ Trivial: 30
 [Spit](spit)
 
 **Ingredients**
-[Large Egg](large-egg)
-[Bottle of Milk](bottle-of-milk)
-[Flour](flour)
-[Sugar](sugar)
-[Icing](icing)
+[Large Egg](large-egg) x 1
+[Bottle of Milk](bottle-of-milk) x 1
+[Flour](flour) x 1
+[Sugar](sugar) x 1
+[Icing](icing) x 1
