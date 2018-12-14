@@ -10,11 +10,11 @@ Trivial: 20
 [Spit](spit)
 
 **Ingredients**
-[Large Egg](large-egg)
-[Pie Tin](pie-tin)
-[Sugar](sugar)
-[Flour](flour)
-[Blue Cherries](blue-cherries)
+[Large Egg](large-egg) x 1
+[Pie Tin](pie-tin) x 1
+[Sugar](sugar) x 1
+[Flour](flour) x 1
+[Blue Cherries](blue-cherries) x 1
 
 # Cooking
 **Skill**
@@ -25,8 +25,8 @@ Trivial: 20
 [Spit](spit)
 
 **Ingredients**
-[Small Egg](small-egg)
-[Pie Tin](pie-tin)
-[Sugar](sugar)
-[Flour](flour)
-[Blue Cherries](blue-cherries)
+[Small Egg](small-egg) x 1
+[Pie Tin](pie-tin) x 1
+[Sugar](sugar) x 1
+[Flour](flour) x 1
+[Blue Cherries](blue-cherries) x 1
