@@ -11,6 +11,6 @@ Trivial: 10
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Leather](leather)
-[Feathers](feathers)
-[Torn Cloth](torn-cloth)
+[Leather](leather) x 1
+[Feathers](feathers) x 1
+[Torn Cloth](torn-cloth) x 1
