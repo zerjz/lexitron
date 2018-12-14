@@ -10,5 +10,5 @@ Trivial: 26
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Black Coffee](black-coffee)
-[Thick Cream](thick-cream)
+[Black Coffee](black-coffee) x 1
+[Thick Cream](thick-cream) x 1
