@@ -11,4 +11,4 @@ Trivial: 30
 
 **Ingredients**
 [Exotic Fur](exotic-fur) x 4
-[Leather Strips](leather-strips)
+[Leather Strips](leather-strips) x 1
