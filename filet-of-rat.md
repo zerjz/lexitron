@@ -10,4 +10,4 @@ Trivial: 5
 [Spit](spit)
 
 **Ingredients**
-[Raw Filet of Rat](raw-filet-of-rat)
+[Raw Filet of Rat](raw-filet-of-rat) x 1
