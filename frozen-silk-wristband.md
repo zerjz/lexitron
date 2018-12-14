@@ -11,5 +11,5 @@ Trivial: 10
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Frozen Chromium](frozen-chromium)
-[Thin Silk Wristband](thin-silk-wristband)
+[Frozen Chromium](frozen-chromium) x 1
+[Thin Silk Wristband](thin-silk-wristband) x 1
