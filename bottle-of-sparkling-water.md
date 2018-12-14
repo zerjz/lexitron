@@ -2,13 +2,13 @@
 <!-- SUBTITLE: Bubbling, effervescent water. -->
 # Brewing
 **Skill**
-Minimum: 
+Minimum: Unknown
 Trivial: 20
 
 **Container**
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[White Chalk](white-chalk)
-[Oil of Vitriol](oil-of-vitriol)
-[Bottle of Water](bottle-of-water)
+[White Chalk](white-chalk) x 1
+[Oil of Vitriol](oil-of-vitriol) x 1
+[Bottle of Water](bottle-of-water) x 1
