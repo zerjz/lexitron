@@ -1,6 +1,6 @@
 <!-- TITLE: Cosmic Dust -->
 <!-- SUBTITLE:  -->
-# Woodworking
+# Jewelcrafting
 **Skill**
 Minimum: Unknown
 Trivial: 5
