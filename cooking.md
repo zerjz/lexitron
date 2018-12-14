@@ -7,7 +7,7 @@
 [Sugared Flowers](sugared-flowers) (20)
 [White Wedding Cake](white-wedding-cake) (30)
 [Wildflower Salad](wildflower-salad) (16)
-[Egg Filling](egg-filling) (??)
+[Egg Filling](egg-filling) (26)
 # Spit
 [Baked Cod](baked-cod) (30)
 [Baked Green Fish](baked-green-fish) (5)
