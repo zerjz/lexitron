@@ -69,6 +69,7 @@
 [Lens](lens)
 [Malachite Blade](malachite-blade)
 [Malachite Sword](malachite-sword)
+[Manastone-Greaves](manastone-greaves)
 [Marble Powder](marble-powder)
 [Marbled Vase](marbled-vase)
 [Moonstone Mace](moonstone-mace)
