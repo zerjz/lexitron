@@ -11,4 +11,4 @@ Trivial: 40
 
 **Ingredients**
 [Black Fur](black-fur) x 6
-[Silver Thread](silver-thread) 
+[Silver Thread](silver-thread) x 1
