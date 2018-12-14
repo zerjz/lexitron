@@ -10,5 +10,5 @@ Trivial: 85
 [Large Sewing Kit](large-sewing-kit)
 
 **Ingredients**
-[Velvet Square](velvet-square)
+[Velvet Square](velvet-square) x 1
 [Dragon's Blood Dye](dragons-blood-dye) x 4
