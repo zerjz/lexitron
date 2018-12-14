@@ -10,6 +10,6 @@ Trivial: 16
 [Mixing Bowl](mixing-bowl)
 
 **Ingredients**
-[Blue Flower](blue-flower)
-[Yellow Flower](yellow-flower)
-[Soft Grass](soft-grass)
+[Blue Flower](blue-flower) x 1
+[Yellow Flower](yellow-flower) x 1
+[Soft Grass](soft-grass) x 1
