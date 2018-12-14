@@ -11,5 +11,5 @@ Trivial: 15
 [Large Sewing Kit](large-sewing-kit)
 ​
 **Ingredients**
-[Dirty Leather Bracer](dirty-leather-bracer)
-[Frozen Chromium](frozen-chromium)
+[Dirty Leather Bracer](dirty-leather-bracer) x 1
+[Frozen Chromium](frozen-chromium) x 1
