@@ -3,7 +3,7 @@
 
 # Jeweler's Kit
 
-[Amethyst Claws](amethyst-claws)
+[Amethyst Claws](amethyst-claws) (??)
 [Amethyst Double Bladed Sword](amethyst-double-bladed-sword)
 [Amethyst Long Sword](amethyst-long-sword)
 [Amethyst Resin](amethyst-resin)
