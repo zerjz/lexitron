@@ -64,21 +64,21 @@
 [Thin Copper Scythe](thin-copper-scythe) (10)
 
 **Copper - Icy Copper**
-[Icy Copper Boots](icy-copper-boots)
-[Icy Copper Bracer](icy-copper-bracer)
-[Icy Copper Breastplate](icy-copper-breastplate)
-[Icy Copper Gauntlets](icy-copper-gauntlets)
-[Icy Copper Greaves](icy-copper-greaves)
-[Icy Copper Vambraces](icy-copper-vambraces)
+[Icy Copper Boots](icy-copper-boots) (20)
+[Icy Copper Bracer](icy-copper-bracer) (20)
+[Icy Copper Breastplate](icy-copper-breastplate) (20)
+[Icy Copper Gauntlets](icy-copper-gauntlets) (20)
+[Icy Copper Greaves](icy-copper-greaves) (20)
+[Icy Copper Vambraces](icy-copper-vambraces) (20)
 
 **Crocolisk Scale**
-[Sheet of Crocolisk Scales](sheet-of-crocolisk-scales)
-[Crocolisk Scale Boots](crocolisk-scale-boots)
-[Crocolisk Scale Bracer](crocolisk-scale-bracer)
-[Crocolisk Scale Gloves](crocolisk-scale-gloves)
-[Crocolisk Scale Leggings](crocolisk-scale-leggings)
-[Crocolisk Scale Mail](crocolisk-scale-mail)
-[Crocolisk Scale Sleeves](crocolisk-scale-sleeves)
+[Sheet of Crocolisk Scales](sheet-of-crocolisk-scales) (40)
+[Crocolisk Scale Boots](crocolisk-scale-boots) (45)
+[Crocolisk Scale Bracer](crocolisk-scale-bracer) (45)
+[Crocolisk Scale Gloves](crocolisk-scale-gloves) (45)
+[Crocolisk Scale Leggings](crocolisk-scale-leggings) (50)
+[Crocolisk Scale Mail](crocolisk-scale-mail) (50)
+[Crocolisk Scale Sleeves](crocolisk-scale-sleeves) (45)
 
 **Glass**
 [Sand](sand)
