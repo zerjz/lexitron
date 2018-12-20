@@ -131,23 +131,23 @@
 [Exquisite Golden Sword](exquisite-golden-sword) (80)
 
 **Harpy Scale**
-[Sheet of Harpy Scales](sheet-of-harpy-scales)
-[Harpy Scale Armguards](harpy-scale-armguards)
-[Harpy Scale Boots](harpy-scale-boots)
-[Harpy Scale Bracer](harpy-scale-bracer)
-[Harpy Scale Gloves](harpy-scale-gloves)
-[Harpy Scale Leggings](harpy-scale-leggings)
-[Harpy Scale Mail](harpy-scale-mail)
+[Sheet of Harpy Scales](sheet-of-harpy-scales) (60)
+[Harpy Scale Armguards](harpy-scale-armguards) (??)
+[Harpy Scale Boots](harpy-scale-boots) (??)
+[Harpy Scale Bracer](harpy-scale-bracer) (??)
+[Harpy Scale Gloves](harpy-scale-gloves) (??)
+[Harpy Scale Leggings](harpy-scale-leggings) (??)
+[Harpy Scale Mail](harpy-scale-mail) (??)
 
 **Kupakai**
-[Sheet of Kupakai Scales](sheet-of-kupakai-scales)
-[Dry Kupakai Staff](dry-kupakai-staff)
-[Kupakai Scale Boots](kupakai-scale-boots)
-[Kupakai Scale Bracer](kupakai-scale-bracer)
-[Kupakai Scale Gloves](kupakai-scale-gloves)
-[Kupakai Scale Leggings](kupakai-scale-leggings)
-[Kupakai Scale Mail](kupakai-scale-mail)
-[Kupakai Scale Sleeves](kupakai-scale-sleeves)
+[Sheet of Kupakai Scales](sheet-of-kupakai-scales) (??)
+[Dry Kupakai Staff](dry-kupakai-staff) (55)
+[Kupakai Scale Boots](kupakai-scale-boots) (??)
+[Kupakai Scale Bracer](kupakai-scale-bracer) (??)
+[Kupakai Scale Gloves](kupakai-scale-gloves) (??)
+[Kupakai Scale Leggings](kupakai-scale-leggings) (??)
+[Kupakai Scale Mail](kupakai-scale-mail) (??)
+[Kupakai Scale Sleeves](kupakai-scale-sleeves) (??)
 
 **Silver**
 [Refined Silver](refined-silver)
