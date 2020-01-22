@@ -1,4 +1,4 @@
-<!-- TITLE: LEXITRON™ -->
+<!-- TITLE: LEXITRON™ -->  Join us on Discord at https://discord.gg/m87W5tx
 <!-- SUBTITLE: Your digital guide to Magnos -->
 
 # Enter Magnos
